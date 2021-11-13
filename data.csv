@@ -1,0 +1,1005 @@
+person_id,person_name,person_address,cln1,cln2,cln3,person_ctry_code,cnt,chr_len,chr_len_label,nbr_tok,nbr_tok_num,has_tok_3digits,nbr_digits,rnd,rndfix,sample,subsample,batch,co,building,street,nr,area,postal,city,region,country,unclear,status,label
+3540,PURAC Biochem BV,"Arkelsedijk 46,4206 AC Gorinchem",Arkelsedijk 46 4206 AC Gorinchem,46 4206,46,NL,1,32,2,5,2,1,6,0.45296549,0.373197346,,,EXAMPLE,,,Arkelsedijk,46,,4206 AC,Gorinchem,,,,,1
+28753,"Tinti, Maria Ornella","SIGMA-TAU Industrie Farmaceutiche Riunite S.p.A.,Via Pontina, km 30,400 00040, Pomezia",SIGMA-TAU Industrie Farmaceutiche Riunite S.p.A. Via Pontina km 30 400 00040 Pomezia,30 400 00040,30,IT,1,86,1,12,3,1,10,0.357532901,0.141104884,,,B212202,SIGMA-TAU Industrie Farmaceutiche Riunite S.p.A.,,Via Pontina,km 30,,400 00040,Pomezia,,,,,1
+35108,"Isobe, Shin-ichi, c/o Int. Prop. Dpt., NTT DoCoMo, Inc","Sanno Park Tower, 11-1, Nagatacho 2-chome,Chiyoda-ku, Tokyo",Sanno Park Tower 11-1 Nagatacho 2-chome Chiyoda-ku Tokyo,111 2,11-,JP,1,59,1,8,2,1,4,0.998108484,0.200113893,,,B212206,,Sanno Park Tower,Nagatacho 2-chome 11-1,,Chiyoda-ku,,Tokyo,,,,,1
+89830,"Hata, Yoshiki","c/o Hitachi Appliances, Inc. 390 Muramatsu, Shimizu-ku,Shizuoka-shi, Shizuoka-ken 424-0926",c/o Hitachi Appliances Inc. 390 Muramatsu Shimizu-ku Shizuoka-shi Shizuoka-ken 424-0926,390 4240926,390,JP,1,90,1,10,2,1,10,0.679233783,0.183064374,,,B212205,"c/o Hitachi Appliances, Inc",,,,Shizuoka-ken,424-0926," Shizuoka-shi, Shimizu-ku",Muramatsu,,,,0
+94063,"Kim, Se-Jong","Legal & IP Team, Samsung SDI Co., Ltd., 428-5,Gongse-ri, Kiheung-eup, Yongin-si, Gyeonggi-do",Legal & IP Team Samsung SDI Co. Ltd. 428-5 Gongse-ri Kiheung-eup Yongin-si Gyeonggi-do,4285,428-,KR,1,92,1,13,1,1,4,0.547785682,0.209314294,,,B212206,,,428-5,,Gongse-ri; Kiheung-eup; Yongin-s,,Gyeonggi-do,,,,,1
+107464,"Heldt, Ronald","Pappelweg 9,15809 Gross Machnow",Pappelweg 9 15809 Gross Machnow,9 15809,9,DE,1,31,2,5,2,1,6,0.495335458,0.680280261,,,EXAMPLE,,,Pappelweg,9,,15809,Gross Machnow,,,,,1
+108991,"Koo, Bon Seok","1 Gwihyun-dong, Changwon,Kyungsangnam-do",1 Gwihyun-dong Changwon Kyungsangnam-do,1,1,KR,1,40,1,4,1,1,1,0.999946329,0.170765772,,,B212204,,,Gwihyun-dong,1,,,Changwon,Kyungsangnam-do,,,,1
+118819,"Sakamura, Ken, Intellectual Property Department","NTT DoCoMo, Inc., Sanno Park Tower, 11-1, Nagata-,cho 2-chome, Chiyoda-ku, Tokyo 100-6150",NTT DoCoMo Inc. Sanno Park Tower 11-1 Nagata- cho 2-chome Chiyoda-ku Tokyo 100-6150,111 2 1006150,11-,JP,1,89,1,13,3,1,11,0.43993607,0.18067622,,,B212205,"NTT DoCoMo, Inc.",Sanno Park Tower 11-1,,,nagata-,100-6150,Tokyo,,,,,0
+125227,"BUB, GÅnther","Kampstrasse 97,45772 Marl",Kampstrasse 97 45772 Marl,97 45772,97,DE,1,25,2,4,2,1,7,0.544868219,0.36254851,,,EXAMPLE,,,Kampstrasse,97,,45772,Marl,,,,,1
+129328,"AZPIROZ, Fernando","Paseo San Gervasio 32,08022 Barcelona",Paseo San Gervasio 32 08022 Barcelona,32 08022,32,ES,1,37,1,6,2,1,7,0.88067492,0.115056814,,,B212201,,,Paseo San Gervasio,32,,08022,Barcelona,,,,,1
+132644,"Hutchins, Thomas Goodsell","11937 Basswood Avenue,Uniontown, OH 44685",11937 Basswood Avenue Uniontown OH 44685,11937 44685,,US,1,41,1,6,2,0,10,0.135819296,0.119307111,,,B212201,,,Basswood Avenue,11937,,44685,Uniontown,OH,,,,1
+134321,"Lindahl, Gery","8200 116 Avenue S.E.,NewCastle, Washington 98056",8200 116 Avenue S.E. NewCastle Washington 98056,8200 116 98056,116,US,1,48,1,7,3,1,12,0.403209927,0.111474338,,,EXAMPLE,,,116 Avenue S.E.,8200,,98056,NewCastle,Washington,,,,1
+138243,"REBHOLZ, Uwe","Ludwigstr. 73,67678 Mehlingen",Ludwigstr. 73 67678 Mehlingen,73 67678,73,DE,1,29,2,4,2,1,7,0.179975708,0.673758644,,,EXAMPLE,,,Ludwigstr.,73,,67678,Mehlingen,,,,,1
+151094,"Hale, William D.","1800 Mill Creek Road, No. 14-B, Mill-Creek,Washington 98012",1800 Mill Creek Road No. 14-B Mill-Creek Washington 98012,1800 14 98012,14-,US,1,59,1,9,3,1,11,0.615451498,0.157932566,,,B212203,,,Mill Creek Road,1800,,98012,Mill-Creek,Washington,,,,1
+151336,"MADHANI, Akhil, J.","Apartment 77 1245 East California Avenue,Glendale, CA 91206",Apartment 77 1245 East California Avenue Glendale CA 91206,77 1245 91206,77,US,1,59,1,9,3,1,11,0.953401949,0.186275747,,,B212205,,Apartment 77,East California Avenue,1245,,91206,Glendale,CA,,,,1
+164645,Intek Technology LLC,"2711 Centerville Road 400,Wilmington, DE 19808",2711 Centerville Road 400 Wilmington DE 19808,2711 400 19808,400,US,1,46,1,7,3,1,12,0.757888914,0.179887213,,,B212204,,,Centerville Road,400,,19808,Wilmington,DE,,2711,,1
+178496,"WOLFE, David, M.","409 Seville Drive,Red Lion, PA 17356",409 Seville Drive Red Lion PA 17356,409 17356,409,US,1,36,1,7,2,1,8,0.392833595,0.209905351,,,B212206,,, Seville Drive,409,,17356,Red Lion,PA,,,,1
+184244,"Couvreur, JÇrìme","234 Route de Sesigny,74350 Cruseilles",234 Route de Sesigny 74350 Cruseilles,234 74350,234,FR,1,37,1,6,2,1,8,0.845730892,0.129702026,,,B212201,,,Route de Sesigny,234,,74350 ,Cruseilles,,,,,1
+200863,"SONNECK, Rainer","Ottweilerstr. 12,51375 Leverkusen",Ottweilerstr. 12 51375 Leverkusen,12 51375,12,DE,1,33,2,4,2,1,7,0.532741198,0.354790072,,,EXAMPLE,,,Ottweilerstr.,12,,51375,Leverkusen,,,,,1
+207549,ECPE Engineering Center for Power Electronics GmbH,"Landgrabenstrasse 94,90443 NÅrnberg",Landgrabenstrasse 94 90443 NÅrnberg,94 90443,94,DE,1,35,2,4,2,1,7,0.810519615,0.352441603,,,EXAMPLE,,,Landgrabenstrasse,94,,90443,NÅrnberg,,,,,1
+208665,"HEIDARI-BATENI, Ghobad","13886 Camino Del Suleo,San Diego, CA 92129",13886 Camino Del Suleo San Diego CA 92129,13886 92129,,US,1,42,1,8,2,0,10,0.659029119,0.157346523,,,B212203,,,Camino Del Suleo,13886,,92129,San Diego,CA,,,,1
+217975,"Kimijima, Tadaaki","c/o Sony Corporation 1-7-1 Konan Minato-ku,Tokyo",c/o Sony Corporation 1-7-1 Konan Minato-ku Tokyo,171,1-,JP,1,48,1,7,1,1,3,0.29202529,0.003941264,,,EXAMPLE,c/o Sony Corporation,,1-7-1,,Konan; Minato-ku,,Tokyo,,,,,1
+227620,"Takeda, Yuji Yokkaichi Plant of Mitsubishi","Gas Chemical Company, Inc., 4-16-2, Hinagahigashi,Yokkaichi-shi MIE 510-0886",Gas Chemical Company Inc. 4-16-2 Hinagahigashi Yokkaichi-shi MIE 510-0886,4162 5100886,4-,JP,1,76,1,9,2,1,11,0.34531558,0.16717892,,,B212204,"Gas Chemical Company, Inc.",,,,Hinagahigashi,,Yokkaichi-shi,510-0886,,,,0
+300146,"INOUE, Mitsuo, MITSUBISHI DENKI KABUSHIKI KAISHA","2-3, Marunouchi 2-chome, Chiyoda-ku,Tokyo 100-8310",2-3 Marunouchi 2-chome Chiyoda-ku Tokyo 100-8310,23 2 1008310,2-,JP,1,50,1,6,3,1,10,0.75765221,0.196845012,,,B212205,Marunouchi 2-chome,,,2-3,Chiyoda-ku,100-8310,Tokyo,,,,,0
+310402,"Decorte, Lieven","Kleine Stadenstraat 97c,8830 Hooglede/Gits",Kleine Stadenstraat 97c 8830 Hooglede/Gits,97 8830,97c,BE,1,42,1,5,2,1,6,0.125897762,0.174169932,,,B212204,,,kleine stadenstraat ,97c,,8830,Hooglede/Gits,,,,,1
+334421,"Masutani, Akira, Sony International (Europe) GmbH","Heinrich-Hertz-Strasse 1,70327 Stuttgart",Heinrich-Hertz-Strasse 1 70327 Stuttgart,1 70327,1,DE,1,40,1,4,2,1,6,0.340254254,0.167123299,,,B212204,,,Heinrich-Hertz-Strasse,1,,70327,Stuttgart,,,,,1
+336711,"SCHWARTZMAN, Joel","11 Hamitzpe Street, P.O. Box 4467,Shoham 73142",11 Hamitzpe Street P.O. Box 4467 Shoham 73142,11 4467 73142,11,IL,1,46,1,8,3,1,11,0.025458498,0.16148503,,,B212203,,P.O. Box 4467,Hamitzpe Street,11,,73142,Shoham ,,,,,1
+406106,"BENNETT, Ronald Wilfred Murdoch","10, rue Saint-Jean,CH-1260 Nyon",10 rue Saint-Jean CH-1260 Nyon,10 1260,10,CH,1,31,2,5,2,1,6,0.290933394,0.35660011,,,EXAMPLE,,,rue Saint-Jean,10,,CH-1260,Nyon,,,,,1
+433088,"DiSilvestro, Mark R.","238 S Eagle Glen Trail,Columbia City, IN 46725",238 S Eagle Glen Trail Columbia City IN 46725,238 46725,238,US,1,46,1,9,2,1,8,0.462407177,0.201231838,,,B212206,,,S Eagle Glen Trail,238,,46725,Columbia City,IN,,,,1
+433394,The Engineering Business Limited,"Broomhaugh House Riding Mill,Northumberland NE44 6EG",Broomhaugh House Riding Mill Northumberland NE44 6EG,44 6,E44,GB,1,52,1,7,2,1,3,0.777176613,0.083667228,,,EXAMPLE,,Broomhaugh House,,,,NE44 6EG,Riding Mill,Northumberland,,,,0
+452780,"GOULDIE, Timothy, C.","1708 Bluff Court,Garden City, KS 67846",1708 Bluff Court Garden City KS 67846,1708 67846,,US,1,38,1,7,2,0,9,0.866813081,0.200388893,,,B212206,,,Bluff Court,1708,,67846,Garden City,KS,,,,1
+455672,"KUMARAN, Govindaraj","1 Kimball Court, 504,Woburn, MA 01801",1 Kimball Court 504 Woburn MA 01801,1 504 01801,1,US,1,37,1,7,3,1,9,0.23794209,0.173697641,,,B212204,kimball court,kimball court,,504,woburn,01801,,MA,,,,0
+466548,"LEE, Jin-Young","183-2, 5/5 Bokcheon-dong Dongrae-gu,Busan 607-020",183-2 5/5 Bokcheon-dong Dongrae-gu Busan 607-020,1832 55 607020,183-,KR,1,49,1,6,3,1,12,0.654288432,0.150392046,,,B212203,,,183-2, 5/5,Bokcheon-dong,607-020,Dongrae-gu,Busan,Korea,,,1
+485306,"LEE, Eun, Seog","21-1102 Sampoong Apt. 1685 Seocho-dong Seocho-ku,Seoul 137-070",21-1102 Sampoong Apt. 1685 Seocho-dong Seocho-ku Seoul 137-070,211102 1685 137070,21-,KR,1,62,1,8,3,1,16,0.703181334,0.1735836,,,B212204,,Sampoong Apt,Seocho-dong,1685,Seocho-ku,137-070,Seoul,,,,,1
+495995,"Ishihara, Yusuke, c/Fuji Photo Film Co., Ltd.","2-12-1 Oogi-cho, Odawara-shi,Kanagawa-ken",2-12-1 Oogi-cho Odawara-shi Kanagawa-ken,2121,2-,JP,1,41,1,4,1,1,4,0.657740248,0.13735517,,,B212202,,,2-12-1;Oogi-cho,,,,Odawara-shi,Kanagawa-ken,,,,1
+506283,"Woo, Sang-Hyun","Samsung Electronics Co., Ltd. 416, Maetan-dong,Yeongtong-gu Suwon-si Gyeonggi-do",Samsung Electronics Co. Ltd. 416 Maetan-dong Yeongtong-gu Suwon-si Gyeonggi-do,416,416,KR,1,80,1,9,1,1,3,0.23736579,0.154781037,,,B212203,"Samsung Electronics Co., Ltd. ",,416,,Maetan-dong; Yeongtong-gu,,Suwon-si,Gyeonggi-do,,,,1
+516598,"Tosaka, Akio c/o Chiba Works","Kawasaki Steel Corporation 1, Kawasakicho Chuo-ku,Chiba-shi Chiba, 260-0835",Kawasaki Steel Corporation 1 Kawasakicho Chuo-ku Chiba-shi Chiba 260-0835,1 2600835,1,JP,1,75,1,9,2,1,8,0.158713977,0.191907329,,,B212205,Kawasaki Steel Corporation,,,1,Kawasakicho Chuo-ku, 260-0835,Chiba-shi Chiba,,,,,0
+518781,"Kanamori, Kenji","1-27, Hirakata-cho Kanazawa-ku,Yokohama-shi Kanagawa 236-0023",1-27 Hirakata-cho Kanazawa-ku Yokohama-shi Kanagawa 236-0023,127 2360023,1-,JP,1,61,1,6,2,1,10,0.365343962,0.122912318,,,B212201,,,"1-27, Hirakata-cho",,Kanazawa-ku,236-0023,Kanagawa,Yokohama-shi,,,,1
+531009,"Nagasawa, Keiichi","Disco Corporation 13-11, Omori-Kita 2-chome Ota-ku,Tokyo 143-8580",Disco Corporation 13-11 Omori-Kita 2-chome Ota-ku Tokyo 143-8580,1311 2 1438580,13-,JP,1,65,1,8,3,1,12,0.220847646,0.174842628,,,B212204,,,,,,,,,,,,0
+551894,"Haak, Mark P.","81N. Park Avenue,Fond du Lac WI 54935",81N. Park Avenue Fond du Lac WI 54935,81 54935,81N,US,1,37,1,8,2,1,7,0.397978852,0.015086995,,,EXAMPLE,,,N. Park Avenue,81,,54935,Fond du Lac ,WI,,,,1
+562157,"Tsutsumi, Yoshitaka","14-11, Toyo 5-chome,Kudamatsu-shi, Yamaguchi-ken",14-11 Toyo 5-chome Kudamatsu-shi Yamaguchi-ken,1411 5,14-,JP,1,48,1,5,2,1,5,0.511477194,0.205855471,,,B212206,,,Toyo 5-chome 14-11,,Kudamatsu-shi,,,Yamaguchi-ken,,,,1
+566163,"Katagiri, Yoshinobu, c/o FUJI PHOTO FILM CO., LTD.","210, Nakanuma,Minami-Ashigara-shi, Kanagawa",210 Nakanuma Minami-Ashigara-shi Kanagawa,210,210,JP,1,43,1,4,1,1,3,0.085423187,0.186114398,,,B212205,,,210,,Nakanuma,,Minami-ashigara-shi,Kanagawa,,,,1
+587874,"Kitahara, Yasuhisa","21-1-507 Kamiooka-higashi 1-chome,Yokohama city, Kanagawa",21-1-507 Kamiooka-higashi 1-chome Yokohama city Kanagawa,211507 1,21-,JP,1,57,1,6,2,1,7,0.014338856,0.127648603,,,B212201,,,"21-1-507, Kamiooka-higashi;1-chome",,,,Yokohama city,Kanagawa,,,,1
+588216,"Mitsuaki, Maeda, c/o Kabushiki Kaisha Aiaishi","2000-1 Iwai,Iwata-Shi, Shizuoka-ken",2000-1 Iwai Iwata-Shi Shizuoka-ken,20001,-1,JP,1,35,2,4,1,1,5,0.355950631,0.423049547,,,EXAMPLE,,,Iwai,2000-1,,,Iwata-Shi,Shizuoka-ken,,,,1
+638811,"YOSHIDA, Yasuhiko, c/o BANDO CHEMICAL IND., LTD.","2-15, Meiwadori 3-chome, Hyogo-ku,Kobe-shi, Hyogo 652-0882",2-15 Meiwadori 3-chome Hyogo-ku Kobe-shi Hyogo 652-0882,215 3 6520882,2-,JP,1,58,1,7,3,1,11,0.251996692,0.136290665,,,B212202,,,2-15;Meiwadori 3-chome,,Hyogo-ku,652-0882,Kobe-shi,Hyogo,,,,1
+649888,"Dent d'Almuano, Rainier","La Priauraz,1807 Blonay, Vaud",La Priauraz 1807 Blonay Vaud,1807,,CH,1,29,2,5,1,0,4,0.289724004,0.383892451,,,EXAMPLE,,,La Priauraz,1807,,,Blonay,Vaud,,,,1
+660098,"KASAI, Yoshiyuki, c/o NGK INSULATORS, LTD.","2-56, Suda-cho, Mizuho-ku,Nagoya-shi, Aichi 467-8530",2-56 Suda-cho Mizuho-ku Nagoya-shi Aichi 467-8530,256 4678530,2-,JP,1,52,1,6,2,1,10,0.528606721,0.00788521,,,EXAMPLE,,,2-56,,Suda-cho; Mizuho-ku,467-8530,Nahoya-shi,Aichi,,,,1
+663046,"YANO, Kanji","1077 Kamitoyoura, Azuchi cho,Gamougun, Shiga",1077 Kamitoyoura Azuchi cho Gamougun Shiga,1077,,JP,1,44,1,6,1,0,4,0.810052121,0.208556087,,,B212206,,,Kamitoyoura,1077,Gamougun,,Shiga,,,Azuchi cho,,1
+668012,"BESSERER, Horst","Bahnhofstrasse 1,35745 Herborn",Bahnhofstrasse 1 35745 Herborn,1 35745,1,DE,1,30,2,4,2,1,6,0.041636765,0.592207007,,,EXAMPLE,,,Bahnhofstrasse,1,,35745,Herborn,,,,,1
+669708,"Fayolle, Christophe","Les Raffards,42600 Precieux",Les Raffards 42600 Precieux,42600,,FR,1,27,2,4,1,0,5,0.1894715,0.363717118,,,EXAMPLE,,,Les Raffards,,,42600,Precieux,,,,,1
+672773,"VERHEE, Patrick","Else-Lang-Strasse 14,50858 Kîln",Else-Lang-Strasse 14 50858 Kîln,14 50858,14,DE,1,31,2,4,2,1,7,0.716528621,0.626680705,,,EXAMPLE,,,Else-Lang-Strasse,14,,50858,Kîln,,,,,1
+675087,"BARON, Gerhard","Kurt-Schumacher-Ring 140,Leverkusen 51377",Kurt-Schumacher-Ring 140 Leverkusen 51377,140 51377,140,DE,1,41,1,4,2,1,8,0.501404064,0.188854747,,,B212205,,,Kurt-Schumacher-Ring,140,,51377,Leverkusen,,,,,1
+679171,Daizo Corporation,"1-201, Fukuzaki 3-chome, Minato-ku Osaka-shi,Osaka 552-0013",1-201 Fukuzaki 3-chome Minato-ku Osaka-shi Osaka 552-0013,1201 3 5520013,1-,JP,1,59,1,7,3,1,12,0.611518558,0.201494411,,,B212206,,,,1-201,Osaka-shi,552-0013,Osaka,,,"Fukuzaki 3-chome, Minato-ku",,0
+688088,"Ogasahara, Takayuki, c/o Canon Kabushiki Kaisha","3-30-2, Shimomaruko, Ohta-ku,Tokyo",3-30-2 Shimomaruko Ohta-ku Tokyo,3302,3-,JP,1,34,2,4,1,1,4,0.988442436,0.402510225,,,EXAMPLE,,,3-30-2,,Shimomaruko; Ohta-ku,,Tokyo,,,,,1
+717324,"RECEVEUR, Rogier","Vlitingerbank 6,NL-6213KB Maastricht",Vlitingerbank 6 NL-6213KB Maastricht,6 6213,6,NL,1,36,1,4,2,1,5,0.297346957,0.184962103,,,B212205,,,Vlitingerbank,6,,6213KB,Maastricht,,,,,1
+737515,"ENVIRONMENTAL DYNAMICS, INC.","5601 Paris Road,Columbia, MO 65201",5601 Paris Road Columbia MO 65201,5601 65201,,US,1,34,2,6,2,0,9,0.550147405,0.688834443,,,EXAMPLE,,,Paris Road,5601,,65201,Columbia,Missouri,,,,1
+764607,"Kobayashi, Yasuhiro","Grand Soleil A202, 1526-1, Mitsujima,Kadomashi, Osaka 571-0015",Grand Soleil A202 1526-1 Mitsujima Kadomashi Osaka 571-0015,202 15261 5710015,A202,JP,1,62,1,8,3,1,15,0.052672475,0.185892894,,,B212205,Grand Soleil,A202,1526-1,,Mitsujima,571-0015,Kadomashi,Osaka,,,,1
+773992,"Sjolander, Stephen","27284 Avenida de la Plata,Laguna Niguel CA 92670",27284 Avenida de la Plata Laguna Niguel CA 92670,27284 92670,,US,1,48,1,9,2,0,10,0.762704544,0.167185639,,,B212204,,,Avenida de la Plata,27284,,,Laguna Niguel,92670,,,,1
+775063,"Usui, Akira","Yamaha Corporation, 10-1, Nakazawa-cho,Hamamatsu-shi, Shizuoka-ken",Yamaha Corporation 10-1 Nakazawa-cho Hamamatsu-shi Shizuoka-ken,101,10-,JP,1,66,1,6,1,1,3,0.407036033,0.171171976,,,B212204,Yamaha Corporation,,Nakazawa-cho,10-1,Nakazawa-cho,,Hamamatsu-shi,Shizuoka-ken,,,,1
+775232,Klann Tools Ltd.,"13 Harrier Park,Didcot, Oxfordshire OX11 7PL",13 Harrier Park Didcot Oxfordshire OX11 7PL,13 11 7,13,GB,1,44,1,7,3,1,5,0.713628353,0.145563338,,,B212202,,,Harrier Park,13,Didcot,OX11 7PL,Oxfordshire,,,,,1
+775258,"Koshio, Yasuhiro","c/o Toshiba Corporation, Intellectual Prop. Div.,1-1-1 Shibaura Minato-ku Tokyo 105",c/o Toshiba Corporation Intellectual Prop. Div. 1-1-1 Shibaura Minato-ku Tokyo 105,111 105,1-,JP,1,83,1,11,2,1,6,0.995713623,0.008352087,,,EXAMPLE,"c/o Toshiba Corporation, Intellectual Prop. Div.",,1-1-1,105,Shibaura; Minato-ku,105,Tokyo ,,,,,1
+778559,"Hibi, Tsutomu, c/o Unisia Jecs Corp.","1370, Onna,Atsugi-shi, Kanagawa 243-8510",1370 Onna Atsugi-shi Kanagawa 243-8510,1370 2438510,243-,JP,1,40,1,5,2,1,11,0.17575468,0.156500303,,,B212203,,,1370,,Onna,243-8510,Atsugi-shi,Kanagawa,,,,1
+795250,SIEGENIA-FRANK KG,"Patentabteilung, EisenhÅttenstrasse 22,57074 Siegen",Patentabteilung EisenhÅttenstrasse 22 57074 Siegen,22 57074,22,DE,1,51,1,5,2,1,7,0.713092142,0.204685049,,,B212206,,,EisenhÅttenstrasse,22,,57074,Siegen,,,Patentabteilung,,1
+799277,"Miyasaka, Tetsuo","53-12-713, Itabashi 1-chome, Itabashi-ku,Tokyo 173-0004",53-12-713 Itabashi 1-chome Itabashi-ku Tokyo 173-0004,5312713 1 1730004,53-,JP,1,55,1,6,3,1,15,0.006317474,0.117643627,,,B212201,,,53-12-713 Itabashi 1-chome,,Itabashi-ku,,Tokyo,,,,,1
+801022,"Baik, Seung II","109-604, Geonyoung APT., 1094, Jisan-dong,Pyeongtaek, Kyunggi-do, 459-110, Korea",109-604 Geonyoung APT. 1094 Jisan-dong Pyeongtaek Kyunggi-do 459-110 Korea,109604 1094 459110,109-,KR,1,80,1,9,3,1,16,0.582786839,0.150343686,,,B212203,,Geonyoung APT.,109-604,1094, Jisan-dong,459-110,Pyeongtaek, Kyunggi-do,Korea,,,1
+809111,"Hambley, David L.","6837 S. Fredericksburg,Sylvania, OH 43560",6837 S. Fredericksburg Sylvania OH 43560,6837 43560,,US,1,41,1,6,2,0,9,0.224533883,0.140641293,,,B212202,,,S. Fredericksburg,6837,,43560,Sylvania,OH,,,,1
+832734,"Neikes, F. Wilhelm Dr.,","Lindenstrasse 47,14548 Caputh",Lindenstrasse 47 14548 Caputh,47 14548,47,DE,1,29,2,4,2,1,7,0.354132056,0.361305624,,,EXAMPLE,,,Lindenstrasse,47,,14548,Caputh,,,,,1
+875804,"PATARIN, Jacques","11, rue AmÇdÇe Dailly,F-78220 Viroflay",11 rue AmÇdÇe Dailly F-78220 Viroflay,11 78220,11,FR,1,38,1,6,2,1,7,0.630479961,0.11898622,,,B212201,,,rue AmÇdÇe Dailly,11,,F-78220,Viroflay,,,,,1
+924269,"YU, Tat-Kwan","3105 Honey Tree Lane,Austin, TX 78746",3105 Honey Tree Lane Austin TX 78746,3105 78746,,US,1,37,1,7,2,0,9,0.810129893,0.162761968,,,B212203,,,Honey Tree Lane,3105,,78746,Austin,TX,,,,1
+947209,"SUROT, Patrick","15bis, rue Eitel,F-49300 Cholet",15bis rue Eitel F-49300 Cholet,15 49300,15b,FR,1,31,2,5,2,1,7,0.575359589,0.353214855,,,EXAMPLE,,,rue Eitel,15bis,,F-49300,Cholet,,,,,1
+952264,"ZARSE, Nicola","Steinkamp 3a,48165 MÅnster",Steinkamp 3a 48165 MÅnster,3 48165,3a,DE,1,26,2,4,2,1,6,0.584785534,0.663721654,,,EXAMPLE,,,Steinkamp,3a,,48165,MÅnster,,,,,1
+976742,"COLCLOUGH, Vanessa Louise","2, Annette's Croft, Church Crookham,Fleet, Hampshire GU13 OXN",2 Annette's Croft Church Crookham Fleet Hampshire GU13 OXN,2 13,2,GB,1,61,1,9,2,1,3,0.046773262,0.20894784,,,B212206,,,Annette's Croft,2,,GU13 OXN,Church Crookham,Hampshire,,Fleet,,1
+989686,"VOCCIO, John, P.","16 Skehan Street,Somerville, MA 02143",16 Skehan Street Somerville MA 02143,16 02143,16,US,1,37,1,6,2,1,7,0.002181252,0.142638796,,,B212202,,,Skehan Street,16,,02143,Somerville,MA,,,,1
+1027478,"Coates, David, Dr.","87 Sopwith Crescent Merley,Wimbourne, Dorset BH21 35W",87 Sopwith Crescent Merley Wimbourne Dorset BH21 35W,87 21 35,87,GB,1,53,1,8,3,1,6,0.109683069,0.014973764,,,EXAMPLE,,,Sopwith Crescent,87,Merley; Winbourne,BH21 35W,Dorset ,,,,,1
+1079021,"Zalkin, Daniel","La Houssaye,27390 Saint Laurent du Tencement",La Houssaye 27390 Saint Laurent du Tencement,27390,,FR,1,44,1,7,1,0,5,0.618082143,0.171865217,,,B212204,,,,,La Houssaye,27390,,Saint-Laurent-du-Tencement,,,,1
+1086965,"Bouvier, Saskia","72, route de Bellegarde,1284 Chancy",72 route de Bellegarde 1284 Chancy,72 1284,72,CH,1,35,2,6,2,1,6,0.789156362,0.595038127,,,EXAMPLE,,,route de Bellegarde,72,,1284,Chancy,,,,,1
+1091614,"SCHNEIDER, Johann","Schillerstr. 18,85139 Wettstetten",Schillerstr. 18 85139 Wettstetten,18 85139,18,DE,1,33,2,4,2,1,7,0.187448291,0.601674356,,,EXAMPLE,,,Schillerstr,18,,85139,Wettstetten,,,,,1
+1098290,Teamster AB,"Vingalandsgatan 8,417 63 Gîteborg",Vingalandsgatan 8 417 63 Gîteborg,8 417 63,8,SE,1,33,2,5,3,1,6,0.136176036,0.65830589,,,EXAMPLE,,,Vingalandsgatan,8,,417 63,Gîteborg,,,,,1
+1102635,PRO/MIBO VOF,"Grote Maatweg 13,7642 VN Wierden",Grote Maatweg 13 7642 VN Wierden,13 7642,13,NL,1,32,2,6,2,1,6,0.284274939,0.592476543,,,EXAMPLE,,,Grote Maatweg,13,,7642,Wierden,,,,,1
+1141962,"KING, Holly Kay, GlaxoSmithKline","Five Moore Drive, P.O. Box 13398,Research Triangle Park, NC 27708",Five Moore Drive P.O. Box 13398 Research Triangle Park NC 27708,13398 27708,,US,1,65,1,11,2,0,10,0.191392309,0.156139258,,,B212203,,,Five Moore Drive,P.O. Box 13398,,27708,Research Triangle Park,NC,,,,1
+1149731,"TERNER, James","8808 Watlington Road,Richmond, VA 23229",8808 Watlington Road Richmond VA 23229,8808 23229,,US,1,39,1,6,2,0,9,0.771906953,0.126596018,,,B212201,,,Watlington Road,8808,,23229,Richmond,VA,,,,1
+1157372,"OUTREMAN, Jean-Tristan, SIDEL","B.P. 204,F-76053 Le Havre Cedex",B.P. 204 F-76053 Le Havre Cedex,204 76053,204,FR,1,31,2,6,2,1,8,0.143384786,0.584351376,,,EXAMPLE,,,B.P. 204,,,F-76053,Le Havre,,,,,1
+1161326,"FJELDLY, Tor","Harbitzalleen 18B,N-0275 Oslo",Harbitzalleen 18B N-0275 Oslo,18 0275,18B,NO,1,29,2,4,2,1,6,0.031627227,0.617634976,,,EXAMPLE,,,Harbitzalleen,18B,,N-0275,Oslo,,,,,1
+1189798,Holland L.P.,"1000 Holland Drive,Crete, IL 60417-2120",1000 Holland Drive Crete IL 60417-2120,1000 604172120,,US,1,39,1,6,2,0,13,0.226327633,0.184268942,,,B212205,,,Holland Drive,1000,,60417-2120,Crete,IL,,,,1
+1198404,"RANTANEN, Pekka","Postiljooninkatu 3,FIN-05800 HyvinkÑÑ",Postiljooninkatu 3 FIN-05800 HyvinkÑÑ,3 05800,3,FI,1,37,1,4,2,1,6,0.187311836,0.14262507,,,B212202,,,Postiljooninkatu,3,,05800,HyvinkÑÑ,,,,,1
+1200205,"Mayer, Roland","Winkel 11,91572 Bechhofen",Winkel 11 91572 Bechhofen,11 91572,11,DE,1,25,2,4,2,1,7,0.547408622,0.594060213,,,EXAMPLE,,,Winkel,11,,91572,Bechhofen,,,,,1
+1205438,"Takase, Toshiyuki","c/o Mani, Inc., 743, Naka Akutsu, Takanezawa-machi,Shioya-gun, Tochigi-ken",c/o Mani Inc. 743 Naka Akutsu Takanezawa-machi Shioya-gun Tochigi-ken,743,743,JP,1,74,1,9,1,1,3,0.210016375,0.132036041,,,B212202,,"c/o Mani, Inc.",,743,Naka Akutsu,,Takanezawa-machi;Shioya-gun,Tochigi-ken,,,,1
+1207601,"Dalmia, Ajay K.","803 Kirts Blvd.,Troy, MI 48084",803 Kirts Blvd. Troy MI 48084,803 48084,803,US,1,30,2,6,2,1,8,0.56610763,0.39601888,,,EXAMPLE,,,Kirts Blvd.,803,,MI 48084,Troy,MI,,,,1
+1227345,"Takane, Atsushi","Hitachi Ltd., New Marunouchi Bldg., 5-1,Marunouchi,1-chome, Chiyoda-ku, Tokyo 100-8220",Hitachi Ltd. New Marunouchi Bldg. 5-1 Marunouchi 1-chome Chiyoda-ku Tokyo 100-8220,51 1 1008220,5-,JP,1,86,1,11,3,1,10,0.606110341,0.007285362,,,EXAMPLE,Hitachi Ltd.,New Marunouchi bldg.,1-chome 5-1,,Marunouchi; Chiyoda-ku,100-8220,Tokyo,,,,,1
+1227696,"Su, Wen-Wei","No. 5, Wen Hua Lane, Shan Ying Road,Guei Shan Shiang, Taoyuan, Taiwan 333",No. 5 Wen Hua Lane Shan Ying Road Guei Shan Shiang Taoyuan Taiwan 333,5 333,5,TW,1,73,1,14,2,1,4,0.809678824,0.171127458,,,B212204,,,Shan Ying Road,5,,,Taoyuan,Taiwan,,,,1
+1246010,"Minear, John Wesley","1917 Trixie Lane,Houston, Texas 77042",1917 Trixie Lane Houston Texas 77042,1917 77042,,US,1,37,1,6,2,0,9,0.965274582,0.187053354,,,B212205,,,Trixie Lane,1917,,77042,Houston,Texas,,,,1
+1276215,"WEESE, Juergen","Prof. Holstlaan 6,NL-5656 AA Eindhoven",Prof. Holstlaan 6 NL-5656 AA Eindhoven,6 5656,6,NL,1,38,1,6,2,1,5,0.271213508,0.190502991,,,B212205,,,Prof. Holstlaan ,6,,5656 AA,Eindhoven,,,,,1
+1282682,"HIRT, Juergen","Ebersteinstrasse 35,75177 Pforzheim",Ebersteinstrasse 35 75177 Pforzheim,35 75177,35,DE,1,35,2,4,2,1,7,0.753930342,0.434769277,,,EXAMPLE,,,Ebersteinstrasse,35,,75177,Pforzheim,,,,,1
+1286514,"ARII, Teruo","c/o Mitsui Chemicals, Inc. 1144, Togo,Mobara-shi, Chiba 297-0017",c/o Mitsui Chemicals Inc. 1144 Togo Mobara-shi Chiba 297-0017,1144 2970017,297-,JP,1,64,1,9,2,1,11,0.79686959,0.193648954,,,B212205,"c/o Mitsui Chemicals, Inc.",,,,Togo,297-0017,Mobara-shi,Chiba,,,,0
+1298506,"SAGI, Eyal","50 Pinsker Street,46490 Herzelia",50 Pinsker Street 46490 Herzelia,50 46490,50,IL,1,32,2,5,2,1,7,0.919539033,0.690718284,,,EXAMPLE,,,Pinsker Street,50,,46490,Herzelia,,,,,1
+1309031,"APPEL, Jîrg","Frauenhoferstrasse 5,84524 Neuîtting",Frauenhoferstrasse 5 84524 Neuîtting,5 84524,5,DE,1,36,1,4,2,1,6,0.166968406,0.135942499,,,B212202,,,Frauenhoferstrasse,5,,84524,Neuîtting,,,,,1
+1312760,"ODELL, Joan T.","P.O. Box 826,Unionville, PA 19375",P.O. Box 826 Unionville PA 19375,826 19375,826,US,1,33,2,6,2,1,8,0.092327702,0.589571027,,,EXAMPLE,,,P.O. Box 826,,,19375,Unionville,PA,,,,1
+1338287,"MIKAMI, Youhei","c/o Mitsubishi Denki Kabushiki Kaisha, 2-3, Marunouchi 2-chome,Chiyoda-ku Tokyo 100-8310",c/o Mitsubishi Denki Kabushiki Kaisha 2-3 Marunouchi 2-chome Chiyoda-ku Tokyo 100-8310,23 2 1008310,2-,JP,1,88,1,11,3,1,10,0.127868561,0.203091688,,,B212206,c/o Mitsubishi Denki Kabushiki Kaisha,,Marunouchi 2-chome,2-3,Chiyoda-ku,100-8310,Tokyo,,,,,1
+1341899,Prysmian Telecom Cables & Systems Australia Pty Ltd,"1 Thew Parade, Dee Why,Sydney NSW 2099",1 Thew Parade Dee Why Sydney NSW 2099,1 2099,1,AU,1,38,1,8,2,1,5,0.677870766,0.166925262,,,B212204,,,Thew Parade,1,Dee Why,2099,Sydney,NSW,,,,1
+1342305,Radionet OY,"Keilaranta 6,02150 Espoo",Keilaranta 6 02150 Espoo,6 02150,6,FI,1,24,2,4,2,1,6,0.485161281,0.633035941,,,EXAMPLE,,,Keilaranta,6,,02150,Espoo,,,,,1
+1357506,"WONG, Alice","422B West Street,Fort Lee, NJ 07024",422B West Street Fort Lee NJ 07024,422 07024,422B,US,1,35,2,7,2,1,8,0.066892315,0.421182396,,,EXAMPLE,,,West Street,422B,,07024,Fort Lee,NJ,,,,1
+1360678,"ZHONG, Mei","45 Harrison Avenue, apt. 1B,Branford, CT 06405",45 Harrison Avenue apt. 1B Branford CT 06405,45 1 06405,45,US,1,46,1,8,3,1,8,0.730368501,0.15846466,,,B212203,,,Harrison Avenue,45,,06405,Branford,CT,,,,1
+1389426,Roll Power LLC,"280, Madison Avenue, Suite 110,New York, N.Y. 10016",280 Madison Avenue Suite 110 New York N.Y. 10016,280 110 10016,280,US,1,51,1,9,3,1,11,0.743426666,0.142345066,,,B212202,,,280 Madison Avenue,110,,10016,New York,NY,,,,1
+1391168,"Mizuochi, Takashi","Mitsubishi Denki K.K. 2-3 Marunouchi 2-chome,Chiyoda-ku Tokyo 100",Mitsubishi Denki K.K. 2-3 Marunouchi 2-chome Chiyoda-ku Tokyo 100,23 2 100,2-,JP,1,65,1,9,3,1,6,0.104226868,0.003592647,,,EXAMPLE,Mitsubishi Denki K.K.,,2-chome 2-3,,Marunouchi; Chiyoda-ku,100,Tokyo,,,,,1
+1397519,"Chang, Jae, Won","Mokryun Apt. 1241-1005 1091-1, Sanbon-Dong,Gunpo Gyeonggi-Do",Mokryun Apt. 1241-1005 1091-1 Sanbon-Dong Gunpo Gyeonggi-Do,12411005 10911,-1,KR,1,60,1,7,2,1,13,0.338568789,0.150745493,,,B212203,Mokryun,Apt. 1241-1005,,1091-1,Sanbon-Dong,,Gunpo,Gyeonggi-Do,,,,0
+1397707,"Sunaga, Teruhide, c/o NEC Saitama, Ltd.","300-18, Aza Toyohara, Oaza Motohara, Kamikawamachi,,Kodama-gun Saitama",300-18 Aza Toyohara Oaza Motohara Kamikawamachi Kodama-gun Saitama,30018,300-,JP,1,70,1,8,1,1,5,0.518646715,0.188618462,,,B212205,,,300-18,,Aza Toyohara,,Kodama-gun;Kamikawamachi,Saitama,,,,1
+1414353,Laser Optical Engineering Limited,"PO Box 6321,Loughborough LE11 3XZ",PO Box 6321 Loughborough LE11 3XZ,6321 11 3,E11,GB,1,33,2,6,3,1,7,0.603839047,0.396048883,,,EXAMPLE,,,PO box 6321,,,LE11 3XZ,Loughborough,,,,,1
+1416071,"Bales, Daniel A","2 Sconsett Bluff,Avon, CT 06001",2 Sconsett Bluff Avon CT 06001,2 06001,2,US,1,31,2,6,2,1,6,0.334240264,0.399305984,,,EXAMPLE,,,Sconsett Bluff,2,,CT 06001,Avon,CT,,,,1
+1423953,"Lengert, Claude","14, rue des Hauts PÉturages,67210 Obernai",14 rue des Hauts PÉturages 67210 Obernai,14 67210,14,FR,1,41,1,7,2,1,7,0.563705399,0.124608608,,,B212201,,,rue des Hauts PÉturages,14,,67210,Obernai,,,,,1
+1434087,Vinnolit Technologie GmbH & Co. KG,"Werk Gendorf,84508 Burgkirchen",Werk Gendorf 84508 Burgkirchen,84508,,DE,1,30,2,4,1,0,5,0.972960835,0.596284853,,,EXAMPLE,,,,,Werk Gendorf,84508,Burgkirchen,,,,,0
+1458522,"BYDLINSKI, Gregory","8332 Querbes,MontrÇal, QuÇbec H3N 2C5",8332 Querbes MontrÇal QuÇbec H3N 2C5,8332 3 25,H3N,CA,1,37,1,6,3,1,7,0.335270293,0.20449364,,,B212206,,8332,Querbes,,,H3N 2C5,MontrÇal,QuÇbec,,,,1
+1477603,"PATTERSON, David, Lee","7041 East Edgemont Street,Tucson, AZ 85710",7041 East Edgemont Street Tucson AZ 85710,7041 85710,,US,1,42,1,7,2,0,9,0.72215679,0.140539229,,,B212202,,,East Edgemont Street,7041,,85710,Tucson,AZ ,,,,1
+1484827,"LEITE, Lorraine","3, rue de l'Isly,F-75008 PARIS",3 rue de l'Isly F-75008 PARIS,3 75008,3,FR,1,30,2,6,2,1,6,0.207253975,0.409738424,,,EXAMPLE,,,rue de l'Isly,3,,F-75008,PARIS,,,,,1
+1500687,"IRIUCHIJIMA, kunio c/o Denki Kagaku Kabushiki K.","Shibukawa Kojo, 1135 Nakamura,Shibukawa-shi, Gunma 377-0002",Shibukawa Kojo 1135 Nakamura Shibukawa-shi Gunma 377-0002,1135 3770002,377-,JP,1,59,1,7,2,1,11,0.715014772,0.15972871,,,B212203,,Shibukawa Kojo,1135,,Nakamura,377-0002,Shibukawa-shi,Gunma,,,,1
+1547106,"Kîneke, Josef","Kilianstrasse 18,33142 BÅren",Kilianstrasse 18 33142 BÅren,18 33142,18,DE,1,28,2,4,2,1,7,0.568665513,0.607738227,,,EXAMPLE,,,Kilianstrasse ,18,,33142,BÅren,,,,,1
+1582941,"Savariar-Hauck, Celin","Am Breitenberg 14,37534 Badenhaussen",Am Breitenberg 14 37534 Badenhaussen,14 37534,14,DE,1,36,1,5,2,1,7,0.375190802,0.121329107,,,B212201,,,Am Breitenberg,14,,37534,Badenhaussen,,,,,1
+1589136,"Wink, Peter","Im Schaffner 3,69123 Heidelberg",Im Schaffner 3 69123 Heidelberg,3 69123,3,DE,1,31,2,5,2,1,6,0.781758412,0.640213559,,,EXAMPLE,,,Im Schaffner,3,,69123,Heidelberg,,,,,1
+1592778,"Gentles, Thomas A.","735 Braewood Drive,Algonquin, Illinois 60102",735 Braewood Drive Algonquin Illinois 60102,735 60102,735,US,1,44,1,6,2,1,8,0.022921106,0.127622567,,,B212201,,,Braewood Drive,735,,60102,Algonquin,Illinois,,,,1
+1599228,"Meschter, Peter Joel","2207 Pine Ridge Court,Niskayuna New York 12309",2207 Pine Ridge Court Niskayuna New York 12309,2207 12309,,US,1,46,1,8,2,0,9,0.037331512,0.14844609,,,B212203,,,Pine Ridge Court,2207,Niskayuna ,12309,New York,,,,,1
+1603385,"Ammer, Jean-Philippe","61 rue de Roth,57910 Neufgrange",61 rue de Roth 57910 Neufgrange,61 57910,61,FR,1,31,2,6,2,1,7,0.096450329,0.590676981,,,EXAMPLE,,,rue de Roth,61,,57910,Neufgrange,,,,,1
+1603681,"Roure, Christian","34 bis, rue Edouard Ruy,27200 Vernon",34 bis rue Edouard Ruy 27200 Vernon,34 27200,34,FR,1,36,1,7,2,1,7,0.821708042,0.150927508,,,B212203,,,rue Edouard Ruy,34 bis,,27200,Vernon,,,,,1
+1607431,"Isfort, Dirk","Lerchtensternstrasse 6A,50937 Kîln",Lerchtensternstrasse 6A 50937 Kîln,6 50937,6A,DE,1,34,2,4,2,1,6,0.002664637,0.614459935,,,EXAMPLE,,,Lerchtensternstrasse,6A,,50937,Kîln,,,,,1
+1612243,"CASTELANO, Arlindo Lucas OSI Pharma., Inc.","1 Bioscience Park Drive,Farmingdale, NY 11735",1 Bioscience Park Drive Farmingdale NY 11735,1 11735,1,US,1,45,1,7,2,1,6,0.299112336,0.161869785,,,B212203,,,Bioscience Park Drive,1,Farmingdale,11735,,NY,,,,1
+1613419,"FJELLHEIM, Knut","Asveien 21,N-4817 HIS",Asveien 21 N-4817 HIS,21 4817,21,NO,1,21,2,4,2,1,6,0.230529873,0.606494062,,,EXAMPLE,,,Asveien,21,,N-4817,HIS,,,,,1
+1631232,"MEYER, Stephen","1514 Titania Road,Tobyhanna, PA 18466",1514 Titania Road Tobyhanna PA 18466,1514 18466,,US,1,37,1,6,2,0,9,0.793324272,0.185266271,,,B212205,,,Titania Road,1514,Tobyhanna,18466,,PA,,,,1
+1644045,"KYSTER, Hans","Bringetoften 3,DK-3400 Vaerlose",Bringetoften 3 DK-3400 Vaerlose,3 3400,3,DK,1,31,2,4,2,1,5,0.897892174,0.642243652,,,EXAMPLE,,,Bringetoften,3,,DK-3400,Vaerlose,,,,,1
+1669521,"MICHALAK, Susan","4140 S.W. Greenhills Way,Portland, OR 97221",4140 S.W. Greenhills Way Portland OR 97221,4140 97221,,US,1,43,1,7,2,0,9,0.585541393,0.147709295,,,B212203,,,S.W. Greenhills Way,4140,,97221,Portland,OR,,,,1
+1675988,"SAMPSON, Eric","3040 Malcolm Drive,Deltona, FL 32738",3040 Malcolm Drive Deltona FL 32738,3040 32738,,US,1,36,1,6,2,0,9,0.702014529,0.129062877,,,B212201,,,Malcolm Drive,3040,,FL 32738,Deltona,Florida,,,,1
+1684011,"DEN BRINKER, Albertus, C.","c/o Prof.Holstlaan 6,NL-5656 AA Eindhoven",c/o Prof.Holstlaan 6 NL-5656 AA Eindhoven,6 5656,6,NL,1,41,1,6,2,1,5,0.026834838,0.170386608,,,B212204,,,Prof.Holstlaan,6,,,Eindhoven,NL-5656 AA,,,,1
+1691990,"VARREWAERE, Kristien","Am Dornenbusch 12,B-4700 Eupen",Am Dornenbusch 12 B-4700 Eupen,12 4700,12,BE,1,30,2,5,2,1,6,0.825298952,0.594933785,,,EXAMPLE,,,Am Dornenbusch,12,,B-4700,Eupen,,,,,1
+1705372,"STRANQVIST, Mikael","DÑlavÑgen 87,S-437 36 Torslanda",DÑlavÑgen 87 S-437 36 Torslanda,87 437 36,87,SE,1,31,2,5,3,1,7,0.016923589,0.418050924,,,EXAMPLE,,,DÑlavÑgen,87,,S-437 36,Torslanda,,,,,1
+1773964,Sven-Olof Strîmberg,"LanghusallÇn 2,SE-30250 Halmstad",LanghusallÇn 2 SE-30250 Halmstad,2 30250,2,SE,1,32,2,4,2,1,6,0.464759024,0.583509537,,,EXAMPLE,,,LanghusallÇn,2,,SE-30250,Halmstad,,,,,1
+1804406,"Dobson Jr., James W.","11527 Gallant Ridge Lane,Houston 77082",11527 Gallant Ridge Lane Houston 77082,11527 77082,,US,1,38,1,6,2,0,10,0.254666406,0.209934268,,,B212206,,,Gallant Ridge Lane,11527,,77082,Houston,,,,,1
+1806337,Tabaries Laurent,"1, rue Henri Dunant,1340 Aubagne",1 rue Henri Dunant 1340 Aubagne,1 1340,1,FR,1,32,2,6,2,1,5,0.541853879,0.424740131,,,EXAMPLE,,,rue Henri Dunant,1,,1340,Aubagne,,,,,1
+1821507,"GEORGIADES, Constantine, Argy","Pfizer Global Research & Development,201 Tabor Road Morris Plains, NJ 07950",Pfizer Global Research & Development 201 Tabor Road Morris Plains NJ 07950,201 07950,201,US,1,75,1,12,2,1,8,0.595976206,0.196833512,,,B212205,Pfizer,Global Research & Development,Tabor Road,201,Morris Plains,07950,,NJ,,,,1
+1838369,"HWANG, Luke","8906 Hialeah Drive,West Chester, OH 45069",8906 Hialeah Drive West Chester OH 45069,8906 45069,,US,1,41,1,7,2,0,9,0.105418445,0.148031789,,,B212203,,,Hialeah Drive,8906,,,West Chester,,,,,1
+1841616,"ROELVINK, Petrus, W.","180 Michael Drive,Campbell, CA 95008",180 Michael Drive Campbell CA 95008,180 95008,180,US,1,36,1,6,2,1,8,0.478601898,0.180792506,,,B212205,,,Michael Drive,180,,95008,Campbell,CA,,,,1
+1842963,"YAMAMOTO, Minoru","195-16, Kamitomii, Kurashiki-shi, Okayama,7100846",195-16 Kamitomii Kurashiki-shi Okayama 7100846,19516 7100846,195-,JP,1,49,1,5,2,1,12,0.398298176,0.135193019,,,B212202,,,,195-16,Kurashiki-shi;Kamitomii,7100846,Okayama,,,,,1
+1880642,"WOO, Daesic","109, 103-156 Sillim 2-dong, Gwanak-gu,Seoul 151-856",109 103-156 Sillim 2-dong Gwanak-gu Seoul 151-856,109 103156 2 151856,109,KR,1,51,1,7,4,1,16,0.040870191,0.174752849,,,B212204,,109,103-156 Sillim 2-dong,,Gwanak-gu,151-856,Seoul,,,,,1
+1917860,"YOSHIDA, Osamu, c/o Shionogi & Co., Ltd.","12-4, Sagisu 5-chome, Fukushima-ku,Osaka-shi, Osaka; 5530 002",12-4 Sagisu 5-chome Fukushima-ku Osaka-shi Osaka; 5530 002,124 5 5530 002,12-,JP,1,61,1,8,4,1,11,0.42109566,0.135286941,,,B212202,,,12-4;Sagisu 5-chome,,Fukushima-ku,5530 002,Osaka-shi,Osaka,,,,1
+1937775,"YING, Weiwen","55 Littleton Road, Unit 29b,Ayer, Massachusetts 01432",55 Littleton Road Unit 29b Ayer Massachusetts 01432,55 29 01432,55,US,1,53,1,8,3,1,9,0.963845481,0.127748801,,,B212201,,Unit 29b,Littleton Road ,55,,01432,Ayer,Massachusetts,,,,1
+1976991,"Scapozza, Leonardo.","Pre MarÇtan 4,1274 Grens",Pre MarÇtan 4 1274 Grens,4 1274,4,CH,1,24,2,5,2,1,5,0.882827065,0.408742882,,,EXAMPLE,,,Pre MarÇtan,4,,1274,Grens,,,,,1
+1977318,"Kobayashi, Masanori","2-1816-201, Ohashi-cho,Ashikaga-shi, Tochigi 326-0051",2-1816-201 Ohashi-cho Ashikaga-shi Tochigi 326-0051,21816201 3260051,2-,JP,1,53,1,5,2,1,15,0.497443888,0.14148989,,,B212202,,,2-1816-201 Ohashi-cho,,,326-0051,Ashikaga-shi,Tochigi,,,,1
+1980202,"Rhim, Sang-woo","111-201, Nonhyun-dong, Gangnam-gu,Seoul",111-201 Nonhyun-dong Gangnam-gu Seoul,111201,111-,KR,1,39,1,4,1,1,6,0.238528171,0.18076079,,,B212205,,,Nonhyeon-dong,111-201,Gangnam-gu,,Seoul,,,,,1
+1982333,"Dumont, Frank","9, Coronation Drive,269564, Singapore",9 Coronation Drive 269564 Singapore,9 269564,9,SG,1,37,1,5,2,1,7,0.606186187,0.124569575,,,B212201,,,,9,Coronation Drive,269564,Singapore,,,,,1
+1988659,"Nadot, Vladimir V","36 Wildcat Branch Road,Sicklerville, NJ 08081",36 Wildcat Branch Road Sicklerville NJ 08081,36 08081,36,US,1,45,1,7,2,1,7,0.286172204,0.194155236,,,B212205,,,Wildcat Branch Road,36,Sicklerville,08081,,NJ,,,,1
+1992728,"Wolpert, Hartmut","Iglauer Strasse 21,93197 Zeitlarn",Iglauer Strasse 21 93197 Zeitlarn,21 93197,21,DE,1,33,2,5,2,1,7,0.825041033,0.447529566,,,EXAMPLE,,,Iglauer Strasse,21,,93197,Zeitlarn,,,,,1
+2000093,"Watanabe, Misa","c/o Shinko El. Ind. Co.,Ltd. 80, Oshimada-machi,Nagano-shi Nagano 381-2287",c/o Shinko El. Ind. Co. Ltd. 80 Oshimada-machi Nagano-shi Nagano 381-2287,80 3812287,80,JP,1,74,1,11,2,1,9,0.6557386,0.189697855,,,B212205,c/o Shinko El. Ind. Co.,Ltd.,Oshimada-machi,80,,381-2287,Nagano-shi,Nagano,,,,1
+2013527,"Reilly, Patricia A.","129 Blay Ridge Parkway, Apt. 3,Brooklyn, NY 11209",129 Blay Ridge Parkway Apt. 3 Brooklyn NY 11209,129 3 11209,129,US,1,49,1,9,3,1,9,0.714960317,0.131585988,,,B212202,,Apt. 3,Blay Ridge Parkway,129,Brooklyn,11209,,NY,,,,1
+2016823,"Crocifisso, Marco Antonio","Via L. Russo, 7,93012 Gela (CL)",Via L. Russo 7 93012 Gela (CL),7 93012,7,IT,1,31,2,7,2,1,6,0.964483058,0.603993694,,,EXAMPLE,,,Via L. Russo,7,,93012,Gela,(CL),,,,1
+2054416,"ROACH, Tina","12999 Mississippi Rd.,Elk River, Minnesota 55330",12999 Mississippi Rd. Elk River Minnesota 55330,12999 55330,,US,1,48,1,7,2,0,10,0.792998867,0.170419968,,,B212204,,,Mississippi Rd.,12999,,55330,Elk River,MN,,,,1
+2055093,"WASON, Andrew","1715 North Umberland Way,Monmouth Junction, New Jersey 08852",1715 North Umberland Way Monmouth Junction New Jersey 08852,1715 08852,,US,1,60,1,9,2,0,9,0.243974552,0.153457857,,,B212203,,,North Umberland Way,1715,,08852,Monmouth Junction,New Jersey,,,,1
+2057574,"BARKAN, Kevin","109 Monticello Avenue,Durham, North Carolina 27707",109 Monticello Avenue Durham North Carolina 27707,109 27707,109,US,1,50,1,7,2,1,8,0.710729228,0.187113402,,,B212205,,,Monticello Avenue,109,,27707,Durham,North Carolina,,,,1
+2100139,"LOWENTHAL, Mark, David","3451 E. Remington Drive,Gilbert, Arizone 85297",3451 E. Remington Drive Gilbert Arizone 85297,3451 85297,,US,1,46,1,7,2,0,9,0.588224119,0.208032049,,,B212206,,,E. Remington Drive,3451,,85297,Gilbert,Arizone,,,,1
+2120013,"LINDQVIST, Timo, T.","Merikulmantie 553,FI-25570 Teijo",Merikulmantie 553 FI-25570 Teijo,553 25570,553,FI,1,32,2,4,2,1,8,0.880758214,0.613233131,,,EXAMPLE,,,Merikulmantie ,553,,FI-255570,Teijo,,,,,1
+2130404,"MALONEY, Jay, P.","409 SW 348th Ct,Federal Way, WA 98023",409 SW 348th Ct Federal Way WA 98023,409 348 98023,409,US,1,37,1,8,3,1,11,0.373902536,0.140468501,,,B212202,,,SW 348th Ct,409,,98023,Federal Way,WA,,,,1
+2148177,"Platen, Markus, Dr.","Endgrube 18,97616 Bad Neustadt",Endgrube 18 97616 Bad Neustadt,18 97616,18,DE,1,30,2,5,2,1,7,0.95712061,0.60325895,,,EXAMPLE,,,Endgrube,18,,97616,Bad Neustadt,,,,,1
+2153639,"Chen, Tao","c/o Qualcomm Incorporated T-160D 5775 Morehouse Drive,San Diego CA 92121-1714",c/o Qualcomm Incorporated T-160D 5775 Morehouse Drive San Diego CA 92121-1714,160 5775 921211714,-160D,US,1,77,1,11,3,1,16,0.280350123,0.162510874,,,B212203,c/o Qualcomm Incorporated T-160D ,,Morehouse Drive,5775,,92121-1714,San Diego,CA,,,,1
+2183795,"Hedenberg, Jenny","Norra Skeppspromenaden 6,41763 Gîteborg",Norra Skeppspromenaden 6 41763 Gîteborg,6 41763,6,SE,1,39,1,5,2,1,6,0.945046333,0.123730621,,,B212201,,,Norra Skeppspromenaden,6,,41763,Gîteborg,,,,,1
+2275393,"KIENER, Karl","Goldshîfe im Forst,D-7095 Rainau/WÅrtt",Goldshîfe im Forst D-7095 Rainau/WÅrtt,7095,,DE,1,38,1,5,1,0,4,0.908054916,0.188095851,,,B212205,,Goldshîfe,im Forst,,,,Rainau,WÅrtt,,,,1
+2281557,"Pierce, Stanley L.","2167 Parkplace Drive,Walled Lake Michigan 48088",2167 Parkplace Drive Walled Lake Michigan 48088,2167 48088,,US,1,47,1,7,2,0,9,0.958714245,0.211201034,,,B212206,,,Parkplace Drive,2167,,48088,Walled Lake,,,,,1
+2286986,"Brill, Klaus","Tubizerstrasse 62,D-7015 Korntal",Tubizerstrasse 62 D-7015 Korntal,62 7015,62,DE,1,32,2,4,2,1,6,0.881423435,0.362273112,,,EXAMPLE,,,Turbizestrasse,62,,D-7015,Korntal,,,,,1
+2321939,"Potthoff, Paul","Emslandstrasse 3,D-4370 Marl",Emslandstrasse 3 D-4370 Marl,3 4370,3,DE,1,28,2,4,2,1,5,0.079477978,0.37568605,,,EXAMPLE,,,Emslandstrasse,3,,D-4370,Marl,,,,,1
+2329294,"GÅnther, Dieter, Dr.","Nachtigallenweg 1a,D-6233 Kalkheim (Taunus)",Nachtigallenweg 1a D-6233 Kalkheim (Taunus),1 6233,1a,DE,1,43,1,5,2,1,5,0.290159494,0.140952608,,,B212202,,,Nachtigallenweg,1a,,D-6233,Kalkheim (Taunus),,,,,1
+2347042,MANATECH SERVICES INC.,"79-19 269th Street,New Hyde Park New York",79-19 269th Street New Hyde Park New York,7919 269,79-,US,1,41,1,8,2,1,7,0.022244528,0.133866191,,,B212202,,,269th Street,79-19 ,New Hyde Park,,New York,,,,,1
+2355692,Ditta BERNARDI MOZZI MOTOR S.p.A.,"Via Garibaldi, 29,Zola Predosa I-40069 Bologna",Via Garibaldi 29 Zola Predosa I-40069 Bologna,29 40069,29,IT,1,46,1,7,2,1,7,0.118472238,0.203317494,,,B212206,,,Via Garibald,29,Zola Predosa,I-40069,Bologna,,,,,1
+2393697,"TOKYU MUSASHI MANUFACTURING CO., LTD.","1-21-2, Dohgenzaka Shibuya-ku,Tokyo 150",1-21-2 Dohgenzaka Shibuya-ku Tokyo 150,1212 150,1-,JP,1,39,1,5,2,1,7,0.05295481,0.213255353,,,B212206,,150,1-21-2,,Dohgenzaka Shibuya-ku,,TOKYA,,,,,1
+2420973,"Fujita, Takeyuki","2-21-13, Uragamidai,Yokusuka-Shi Kanagawa-Ken",2-21-13 Uragamidai Yokusuka-Shi Kanagawa-Ken,22113,2-,JP,1,45,1,4,1,1,5,0.754198818,0.160023011,,,B212203,,,2-21-13,,Uragamidai,,Yokusuka-Shi,Kanagawa-Ken,,,,1
+2433894,"Hîller, Klaus, Dipl.-Ing.","Bensberger Strasse 224 f,D-5064 Forsbach",Bensberger Strasse 224 f D-5064 Forsbach,224 5064,224,DE,1,40,1,6,2,1,7,0.649718521,0.143386403,,,B212202,,,Bensberger Strasse,224 f,,D-5064,Forsbach,,,,,1
+2435041,"Dzialas, Willi","Brucknerstrasse 27,D-6103 Griesheim",Brucknerstrasse 27 D-6103 Griesheim,27 6103,27,DE,1,35,2,4,2,1,6,0.777400142,0.365563753,,,EXAMPLE,,,Brucknerstrasse,27,,D-6103,Griesheim,,,,,1
+2455886,"Lalue, Michel","Les Escouradiäres,F-83230 Le Beausset",Les Escouradiäres F-83230 Le Beausset,83230,,FR,1,37,1,5,1,0,5,0.651083731,0.156283753,,,B212203,,,Les Escouradiäres,,,F-83230,Le Beausset,,,,,1
+2456765,SociÇtÇ Anonyme BROSSARD S.A.,"Route de Thouars,F-79700 Mauleon",Route de Thouars F-79700 Mauleon,79700,,FR,1,32,2,5,1,0,5,0.829333938,0.412063657,,,EXAMPLE,,,Route de Thouars,,,F-79700,Mauleon,,,,,1
+2463590,"HERZOG- THOMANDER, Karin","Route du Monteliza,CH-1806 St-LÇgier",Route du Monteliza CH-1806 St-LÇgier,1806,,CH,1,36,1,5,1,0,4,0.308526602,0.165335306,,,B212204,,,Route du Monteliza,,Riviera-Pays-d'Enhaut,1806,Saint-LÇgier-La ChiÇsaz,,,,,1
+2471715,"Somorai, Tam†s, Dr.-Chem.","Alvinci u. 27,H-1022 Budapest",Alvinci u. 27 H-1022 Budapest,27 1022,27,HU,1,29,2,5,2,1,6,0.413435858,0.382649755,,,EXAMPLE,,,Alvinci u.,27,,H-1022,Budapest,,,,,1
+2516418,"Maitenaz, Paul","THOMSON-CSF SCPI 173, bld Haussmann,F-75379 Paris Cedex 08",THOMSON-CSF SCPI 173 bld Haussmann F-75379 Paris Cedex 08,173 75379 08,173,FR,1,58,1,9,3,1,10,0.298426124,0.124278625,,,B212201,THOMSON-CSF SCPI,,bld Haussmann,173,,F-75379,Paris Cedex 08,,,,,1
+2554450,"Hida, Toshiharu","4-105 City House, 3440-1, Nishikata,Koshigaya-shi Saitama-ken",4-105 City House 3440-1 Nishikata Koshigaya-shi Saitama-ken,4105 34401,4-,JP,1,61,1,7,2,1,9,0.519297594,0.15334132,,,B212203,,,4-105 City House,,Nishikata, 3440-1,Koshigaya-shi,Saitama-ken,,,,1
+2561340,"Pramaggiore, Luigi","Strada Statale, 26,I-11010 Sarre (Aosta)",Strada Statale 26 I-11010 Sarre (Aosta),26 11010,26,IT,1,40,1,6,2,1,7,0.838856122,0.123192725,,,B212201,,,Strada Statale,26,,I-11010,Sarre,Aosta,,,,1
+2576854,"Alexander, Linc W.","P.O. Box 34244 Station D Vancouver,British Columbia V6J 4N8",P.O. Box 34244 Station D Vancouver British Columbia V6J 4N8,34244 6 48,V6J,CA,1,59,1,10,3,1,8,0.143785705,0.133556691,,,B212202,,Station D,P.O. Box 34244,,,V6J 4N8,Vancouver,British Columbia,,,,1
+2596332,"GORDON, David","5141 South Kimbark,Chicago, IL 60615",5141 South Kimbark Chicago IL 60615,5141 60615,,US,1,36,1,6,2,0,9,0.14055181,0.115961429,,,B212201,,,,5141,South Kimbark,60615,Chicago,IL,,,,1
+2604717,"Torras, Robert M.","101 Gould Street,St. Simons Island Georgia 31522",101 Gould Street St. Simons Island Georgia 31522,101 31522,101,US,1,48,1,8,2,1,8,0.715939999,0.170166633,,,B212204,,, Gould Street,101,St. Simons Island,31522,,GA,,,,1
+2605459,"Hunt, Barry F.","30 Robinhood Road,Nashua, NH 03062",30 Robinhood Road Nashua NH 03062,30 03062,30,US,1,34,2,6,2,1,7,0.289380995,0.377471854,,,EXAMPLE,,,Robinhood Road,30,,03062,Nashua,NH,,,,1
+2653929,"Ranpuria, Chandulal Kantilal","6 New Chester Road,New Ferry,Wirral L62 5AA",6 New Chester Road New Ferry Wirral L62 5AA,6 62 5,6,GB,1,43,1,9,3,1,4,0.800543452,0.117369589,,,B212201,,,New Chester Road,6,,L62 5AA,,New Ferry;Wirral,,,,1
+2673581,"RAHTZ, Dieter","Krottnaurer Str. 24a,D-1000 Berlin 38",Krottnaurer Str. 24a D-1000 Berlin 38,24 1000 38,24a,DE,1,37,1,6,3,1,8,0.888147858,0.190455999,,,B212205,,,Krottnaurer Str.,24a,,,Berlin,,,1,,1
+2677008,"LöKE, Hans, Dieter","Templergraben 55,D-5100 Aachen",Templergraben 55 D-5100 Aachen,55 5100,55,DE,1,30,2,4,2,1,6,0.783748302,0.390218153,,,EXAMPLE,,,Templergraben,55,,D-5100,Aachen,,,,,1
+2680162,"Manabe, Katsuhide","50-6, Ipponmatsu, Menjyo, Yamato-cho,Ichinomiya-shi Aichi-pref.491",50-6 Ipponmatsu Menjyo Yamato-cho Ichinomiya-shi Aichi-pref.491,506 491,50-,JP,1,66,1,6,2,1,6,0.009766037,0.210357271,,,B212206,,,Ipponmatsu,50-6,Menjyo;Yamato-cho;Ichinomiya-shi,491,Aichi,,,,,1
+2704205,"Gîde, Gyîrgy, Dr.","Verseny u.21c,H-8360 Keszthely",Verseny u.21c H-8360 Keszthely,21 8360,.21c,HU,1,30,2,4,2,1,6,0.158300473,0.404138049,,,EXAMPLE,,,Verseny u.,21c,,H-8360,Keszthely,,,,,1
+2706446,"Karius, Klaus Dietmark","Baltrumstrasse 12,D-4000 DÅsseldorf 30",Baltrumstrasse 12 D-4000 DÅsseldorf 30,12 4000 30,12,DE,1,38,1,5,3,1,8,0.736559041,0.183347412,,,B212205,,,,,,,,,,,,0
+2718779,"Sawada, Tak shi c/o Patent Division","Kabushiki Kaisha Toshiba 1-1, Shibaura 1-chome,Minato-ku Tokyo",Kabushiki Kaisha Toshiba 1-1 Shibaura 1-chome Minato-ku Tokyo,11 1,1-,JP,1,62,1,8,2,1,3,0.593995619,0.126807466,,,B212201,Kabushiki Kaisha Toshiba,,"1?1 Shibaura, 1-chome",,Minato-ku,,Tokyo,,,,,1
+2725996,"Okada, Kazuo c/o Mitsubishi Denki K.K.","Itami Seisakusho 1-1, Tsukaguchihonmachi 8-chome,Amagasaki-shi Hyogo 661",Itami Seisakusho 1-1 Tsukaguchihonmachi 8-chome Amagasaki-shi Hyogo 661,11 8 661,1-,JP,1,72,1,8,3,1,6,0.896241432,0.157881779,,,B212203,Itami Seisakusho,,8-chome 1-1,,Tsukaguchihonmachi,661,Amagasaki-shi,Hyogo,,,,1
+2743384,"Broglio, Marco","Via Trinita 17/A,I-10026 Santena Torino",Via Trinita 17/A I-10026 Santena Torino,17 10026,17/,IT,1,39,1,6,2,1,7,0.776476986,0.142714412,,,B212202,,,Via Trinita,17/A,,I-10026,Santena Torino,,,,,1
+2770846,"Cabri, Walter","42, Via Trieste,I-20051 Limbiate Milano",42 Via Trieste I-20051 Limbiate Milano,42 20051,42,IT,1,39,1,6,2,1,7,0.26742713,0.210303136,,,B212206,,,Via Trieste,42,,I-20051,Limbiate Milano,,,,,1
+2776313,"Hasegawa, Ryoichi","1-28-5-302, Ozu-cho,Iwakuni-shi Yamaguchi-ken",1-28-5-302 Ozu-cho Iwakuni-shi Yamaguchi-ken,1285302,1-,JP,1,45,1,4,1,1,7,0.922842932,0.151068368,,,B212203,,,1-28-5-302,,Ozu-cho,,Iwakuni-shi,Yamaguchi-ken,,,,1
+2787956,"Wakabayashi, Takao c/o Mitsubishi Denki","Kabushiki Kaisha Communication Systems Dev. Lab.,1-1, Ofuna 5-chome Kamakura-shi Kanagawa",Kabushiki Kaisha Communication Systems Dev. Lab. 1-1 Ofuna 5-chome Kamakura-shi Kanagawa,11 5,1-,JP,1,89,1,11,2,1,3,0.551300485,0.147886267,,,B212203,Kabushiki Kaisha Communication Systems Dev. Lab.,, 5-chome 1-1,,Ofuna,,Kamakura-shi,Kanagawa,,,,1
+2820270,"Douglas, Leslie Milne","14 Duntrune Terrace West Ferry,Dundee DD5 1LF Scotland",14 Duntrune Terrace West Ferry Dundee DD5 1LF Scotland,14 5 1,14,GB,1,54,1,9,3,1,4,0.869005367,0.161276072,,,B212203,,,14 Duntrune Terrace,14,West Ferry,DD5 1LF,Dundee,,Scotland,,,1
+2854823,"NAIDER, Fred, R.","419 Buchanan Avenue,Staten Island, NY 10314",419 Buchanan Avenue Staten Island NY 10314,419 10314,419,US,1,43,1,7,2,1,8,0.255811105,0.155422058,,,B212203,,,Buchanan Avenue,419,,10314,Staten Island,NY,,,,1
+2855123,"BRUSKY, Phyllis, L.","26 W. Torrence Road,Columbus, OH 43214",26 W. Torrence Road Columbus OH 43214,26 43214,26,US,1,38,1,7,2,1,7,0.256661429,0.197928775,,,B212206,,,W. Torrence Road,26,,43214,Columbus,OH,,,,1
+2870551,"Fujiwara, Takayoshi, c/o Intellectual Property Div","Kabushiki Kaisha Toshiba, 1-1 Shibaura 1-chome,Minato-ku, Tokyo 105",Kabushiki Kaisha Toshiba 1-1 Shibaura 1-chome Minato-ku Tokyo 105,11 1 105,1-,JP,1,67,1,9,3,1,6,0.440810953,0.174877268,,,B212204,,,,,,,,,,,,0
+2896411,"Clippe, AndrÇ","Avenue Slegers, 207,B-1200 Bruxelles",Avenue Slegers 207 B-1200 Bruxelles,207 1200,207,BE,1,36,1,5,2,1,7,0.839774658,0.173816623,,,B212204,,,Avenue slegers,207,,1200,Bruxelles,,,,,1
+2928758,NIPPON ACCHAKUTANSHI SEIZO KABUSHIKI KAISHA,"4-8, Minamisenba 2-chome, Chuo-ku,Osaka",4-8 Minamisenba 2-chome Chuo-ku Osaka,48 2,4-,JP,1,39,1,5,2,1,3,0.258763814,0.190779838,,,B212205,,,4-8,,Chuo-ku;Minamisemba; 2-chome,,Osaka,,,,,1
+2953400,"Leterrier, Benoåt","SOCIETE CIVILE S.P.I.D., 156 Bd Haussmann,F-75008 Paris",SOCIETE CIVILE S.P.I.D. 156 Bd Haussmann F-75008 Paris,156 75008,156,FR,1,55,1,8,2,1,8,0.271930074,0.199878973,,,B212206,SOCIETE CIVILE S.P.I.D.,,Bd Haussmann,156,,F-75008,Paris,,,,,1
+2953854,"Hourseau, Colette","15, rue Gambetta,F-95330 La Frette-sur-Seine",15 rue Gambetta F-95330 La Frette-sur-Seine,15 95330,15,FR,1,44,1,6,2,1,7,0.224298465,0.117454123,,,B212201,,,rue Gambetta,15,,F-95330,La Frette-sur-Seine,,,,,1
+3014889,"Selbmann, Heinz-Jîrg","Maisstrasse 3 D,W-8900 Augsburg 21",Maisstrasse 3 D W-8900 Augsburg 21,3 8900 21,3,DE,1,34,2,6,3,1,7,0.866689636,0.442949671,,,EXAMPLE,,,Maisstrasse,3 D,,W-8900,Augsburg,,,,,1
+3039030,"Shiga, Mikio","c/o Canon K.K., 3-30-2 Shimomaruko,Ohta-ku, Tokyo",c/o Canon K.K. 3-30-2 Shimomaruko Ohta-ku Tokyo,3302,3-,JP,1,49,1,7,1,1,4,0.41187185,0.140895105,,,B212202,Canon K.K,,3-30-2 Shimomaruko,,Ohta-ku,,Tokyo,,,,,1
+3084023,"SCHREYER, Horst","Peter-Henlein-Stra e 24,D-8562 Hersbruck",Peter-Henlein-Stra e 24 D-8562 Hersbruck,24 8562,24,DE,1,40,1,5,2,1,6,0.825031146,0.211162672,,,B212206,,,Peter-Henlein-Stra,24,Hersbruck,D-8562,,,,,,1
+3116754,"Uejima, Toshimi, c/o OMRON CORPORATION","Intell. Prop. Center, 20, Igadera, Shimo-Kaiinji,Nagaokakyo-City, Kyoto 617",Intell. Prop. Center 20 Igadera Shimo-Kaiinji Nagaokakyo-City Kyoto 617,20 617,20,JP,1,75,1,9,2,1,5,0.426694574,0.145505364,,,B212202,,Intell. Prop. Center,"20, Igadera, Shimo-Kaiinji",,,617,Nagaokakyo-City,Kyoto ,,,,1
+3128301,"Sato, Takeya","3-4-8, Suehiro-cho, Kawagoe-shi,Saitama-ken",3-4-8 Suehiro-cho Kawagoe-shi Saitama-ken,348,3-,JP,1,43,1,4,1,1,3,0.071529691,0.163655089,,,B212203,,,3-4-8,,Suehiro-cho,,Kawagoe-shi,Saitama-ken,,,,1
+3136767,"Donker, Cornelis Bernard, Unilever Research","Port Sunlight Lab., Quarry Road East, Bebington,Wirral, Merseyside L63 3JW",Port Sunlight Lab. Quarry Road East Bebington Wirral Merseyside L63 3JW,63 3,L63,GB,1,74,1,11,2,1,3,0.498479655,0.073492458,,,EXAMPLE,,Port Sunlight Lab. ,Quarry Road East ,,,L63 3JW,Bebington,Wirral; Merseyside,,,,1
+3158552,"Bahjat, Zuhair S.","1118 Fienemann Road,Farmington, CT. 06032",1118 Fienemann Road Farmington CT. 06032,1118 06032,,US,1,41,1,6,2,0,9,0.477932296,0.174703336,,,B212204,,,Fienemann road,1118,farmington,06032,CT,,,,,1
+3166235,"Fumex, AndrÇ","Le Bellevue Les Balmettes,F-74290 Talloires",Le Bellevue Les Balmettes F-74290 Talloires,74290,,FR,1,43,1,6,1,0,5,0.364093725,0.151851075,,,B212203,Le Bellevue Les Balmettes,,,,,F-74290,Talloires,,,,,0
+3174089,"RIEBER, Roy, S.","1302 Walnut Bend,Houston, TX 77042",1302 Walnut Bend Houston TX 77042,1302 77042,,US,1,34,2,6,2,0,9,0.677985224,0.364637297,,,EXAMPLE,,,,1302,Walnut Bend,77042,Houston,TX,,,,0
+3223634,"Link, Christoph","Herkommerstrasse 11,D-88250 Weingarten",Herkommerstrasse 11 D-88250 Weingarten,11 88250,11,DE,1,38,1,4,2,1,7,0.502464039,0.177205673,,,B212204,,,Herkommerstrasse,11,,D-88250,Weingarten,,,,,1
+3224183,"Klees, Winfried","Lohweg 1,D-35633 Lahnau/Dorlar",Lohweg 1 D-35633 Lahnau/Dorlar,1 35633,1,DE,1,30,2,4,2,1,6,0.900275457,0.409477853,,,EXAMPLE,,,Lohweg,1,Dorlar,D-35633,Lahnau,,,,,1
+3239768,"Passlick-Deetjen, Jutta, Dr.","Richard-Wagner-Strasse 14,D-35392 Giessen",Richard-Wagner-Strasse 14 D-35392 Giessen,14 35392,14,DE,1,41,1,4,2,1,7,0.580246784,0.194495545,,,B212205,,,Richard-Wagner-Strasse,14,,D-35392,Giessen,,,,,1
+3265949,"Swaybill, Bruce Peter","22 Bungalow Hill Road,Farmington, Connecticut 06032",22 Bungalow Hill Road Farmington Connecticut 06032,22 06032,22,US,1,51,1,7,2,1,7,0.162050985,0.161207905,,,B212203,,,Bungalow Hill Road,22,,06032,Farmington,Connecticut ,,,,1
+3269955,"Lalevee, Jean-Claude","28, rue du Päre Brottier,F-95110 Sannois",28 rue du Päre Brottier F-95110 Sannois,28 95110,28,FR,1,40,1,7,2,1,7,0.187560281,0.14178357,,,B212202,,,rue du Päre Brottier,28,,F-95110 ,Sannois,,,,,1
+3288592,"ARNVIDARSON, Bîrkur","Rormosen 204,DK-2990 Niv",Rormosen 204 DK-2990 Niv,204 2990,204,DK,1,24,2,4,2,1,7,0.677704513,0.371471781,,,EXAMPLE,,,Rormosen,204,,DK-2990,Niv,,,,,1
+3292015,"HAHN, Dieter","Augustenstrasse 120,D-70197 Stuttgart",Augustenstrasse 120 D-70197 Stuttgart,120 70197,120,DE,1,37,1,4,2,1,8,0.845208076,0.134286314,,,B212202,,,Augustenstrasse,120,,D-70197 ,Stuttgart,,,,,1
+3345490,"Muramoto, Akira, Sumitomo 3M Limited","33-1, Tamagawadei 2-chome, Setagaya-ku,Tokyo 158",33-1 Tamagawadei 2-chome Setagaya-ku Tokyo 158,331 2 158,33-,JP,1,48,1,6,3,1,7,0.411170301,0.133389546,,,B212202,,,33-1;Tamagawadei 2-chome,,Setagaya-ku,158,Tokyo,,,,,1
+3418418,Inscape Corporation,"P.O. Box 210,Newmarket, Ontario L3Y 4X3",P.O. Box 210 Newmarket Ontario L3Y 4X3,210 3 43,210,CA,1,39,1,7,3,1,6,0.313504629,0.131089699,,,B212202,,,P.O. Box 210,,,L3Y 4X3,Newmarket,Ontario,,,,1
+3419345,"BATTEN, Bobby G.","255 Archer's Mead,Williamsburg, VA 23185",255 Archer's Mead Williamsburg VA 23185,255 23185,255,US,1,40,1,6,2,1,8,0.980186436,0.156621649,,,B212203,,,Archer's Mead,255,,23185,Williamsburg,VA,,,,1
+3462080,"K-TEC CO., LTD.","3-4, Hattori-nishimachi 3-chome,Toyonaka-shi, Osaka 561",3-4 Hattori-nishimachi 3-chome Toyonaka-shi Osaka 561,34 3 561,3-,JP,1,55,1,6,3,1,6,0.813861777,0.212366118,,,B212206,,Hattori-nishimachi 3-chome,,3-4,Toyonaka-shi,561,Osaka,,,,,1
+3467387,"NÑppÑ, Pauli","LehmikentÑntie 236 C7,SF-90450 Kempele",LehmikentÑntie 236 C7 SF-90450 Kempele,236 7 90450,236,FI,1,38,1,5,3,1,9,0.070467898,0.181508903,,,B212205,,,LehmikentÑntie,236 C7,,90450,Kempele,,,,,1
+3483986,"Mecatherm, SociÇtÇ Anonyme","Route du MarÇchal De Lattre De Tassigny, Barembach,67130 Schirmeck",Route du MarÇchal De Lattre De Tassigny Barembach 67130 Schirmeck,67130,,FR,1,66,1,10,1,0,5,0.457124617,0.172952476,,,B212204,,,Rte MarÇchal de Lattre de Tassigny,,,67130,Barembach,Schirmek,,,,1
+3490940,"KURIHARA, Hideshi, Matsuyama Factory of Teijin Ltd","77, Kitayoshida-cho,Matsuyama-shi, Ehime 7911",77 Kitayoshida-cho Matsuyama-shi Ehime 7911,77 7911,77,JP,1,45,1,5,2,1,6,0.102650146,0.139113368,,,B212202,,,77;Kitayoshida-cho,,,7911,Matsuyama-shi,Ehime,,,,1
+3504230,"Carter, Lewis, M., Jr.","P.O. Drawer 428,Donalsonville, GA 31745",P.O. Drawer 428 Donalsonville GA 31745,428 31745,428,US,1,39,1,6,2,1,8,0.923088486,0.178539669,,,B212204,,,,P.O. Drawer 428,,31745,Donalsonville,GA,,,,1
+3508769,BOWLES FLUIDICS CORPORATION,"P.O. Box 6300,Columbia, Maryland 21045-6300",P.O. Box 6300 Columbia Maryland 21045-6300,6300 210456300,,US,1,43,1,6,2,0,13,0.27899703,0.191652338,,,B212205,,P.O. Box 6300,,,,21045-6300,Columbia,Maryland,,,,0
+3519351,"BRADSHAW, Benjamin, James","81 Hanbury Road Dorridge,Solihull West Midlands B93 8DN",81 Hanbury Road Dorridge Solihull West Midlands B93 8DN,81 93 8,81,GB,1,55,1,9,3,1,5,0.749371486,0.057674838,,,EXAMPLE,,,Hanbury Road,81,,B93 8DN,Dorridge,Solihull; West Midlands,,,,1
+3523020,"WENDT, Greg, Arthur","2434 Forest Manor Court,Neenah, WI 54956",2434 Forest Manor Court Neenah WI 54956,2434 54956,,US,1,40,1,7,2,0,9,0.202645584,0.171567701,,,B212204,,,Forest Manor Ct,2434,,54956,Neehah,WI,,,,1
+3527671,"ROY, Paul H.","28 Charles Garnier, Loretteville,Quebec G2A 2X8",28 Charles Garnier Loretteville Quebec G2A 2X8,28 2 28,28,CA,1,47,1,7,3,1,5,0.37034462,0.156109388,,,B212203,,,Charles Garnier,28,Loretteville,G2A 2X8,Quebec,,,,,1
+3560281,"Kato, Kazuo, c/o Asahi Glass Comp., Ltd.","Chuo Kenkyusho, 1150, Hazawa-cho, Kanagawa-ku,Yokohama-shi, Kanagawa",Chuo Kenkyusho 1150 Hazawa-cho Kanagawa-ku Yokohama-shi Kanagawa,1150,,JP,1,68,1,7,1,0,4,0.782998051,0.198825313,,,B212206,,,Chuo Kenkyusho,1150,Yokohama-shi,,Kanagawa,,,"Hazawa-cho, Kanagawa-ku",,1
+3560652,"Akagiri, Kenzo, c/o Sony Corp.","7-35, Kitashinagawa 6-chome,Shinagawa-ku, Tokyo",7-35 Kitashinagawa 6-chome Shinagawa-ku Tokyo,735 6,7-,JP,1,47,1,5,2,1,4,0.618105973,0.1788203,,,B212204,,,Kitashinagawa 6-chome,7-35,,,Shinagawa-ku,Tokyo,,,,1
+3600247,CGA Direct (Insurance Brokers) Limited,"UK House, Worthing Road,Horsham, W Sussex RH12 1SL",UK House Worthing Road Horsham W Sussex RH12 1SL,12 1,H12,GB,1,50,1,9,2,1,3,0.203083239,0.2088526,,,B212206,,UK House,Worthing Road,,,RH12 1SL,Horsham,W Sussex,,,,1
+3605039,Eurofeedback,"4, Boulevard du MarÇchal Leclerc, Aguado,91000 Evry",4 Boulevard du MarÇchal Leclerc Aguado 91000 Evry,4 91000,4,FR,1,51,1,8,2,1,6,0.756580199,0.152141788,,,B212203,Aguado,,Boulevard du MarÇchal Leclerc,4,,91000,Evry,,,,,1
+3610468,"Beckmann, Otto, Dr.","Langensalzastrasse 7 - 8,D-30169 Hannover",Langensalzastrasse 7 - 8 D-30169 Hannover,7 8 30169,7,DE,1,41,1,6,3,1,7,0.623553268,0.139142243,,,B212202,,,Langensalzastrasse,7 8,,30169,Hannover,,,,,1
+3620921,"GALLERY, Richard David","18 Farguharson Road,Croydon, Surrey CR0 2UH",18 Farguharson Road Croydon Surrey CR0 2UH,18 0 2,18,GB,1,43,1,7,3,1,4,0.456053806,0.200594255,,,B212206,,,Farguharson Road,18,Croydon,CR0 2UH,Surrey,,,,,1
+3621056,"YAMAGUCHI, Koichi","3397-12, Tokiwamachi Machida-shi,Tokyo 194-02",3397-12 Tokiwamachi Machida-shi Tokyo 194-02,339712 19402,-12,JP,1,45,1,5,2,1,11,0.064711072,0.136762054,,,B212202,,,,3397-12,Tokiwamachi Machida-shi,194-02,Tokyo,,,,,1
+3623940,"Jacobs, Clemens Josephus","Veenlanden 40,3871 RD Hoevelaken",Veenlanden 40 3871 RD Hoevelaken,40 3871,40,NL,1,32,2,5,2,1,6,0.0457715,0.446241079,,,EXAMPLE,,,Veenlanden,40,,3871 RD,Hoevelaken,,,,,1
+3624899,"LUCCHESI, Moreno","92 Chemin de Fey,F-54470 MAMEY",92 Chemin de Fey F-54470 MAMEY,92 54470,92,FR,1,30,2,6,2,1,7,0.380870276,0.363731268,,,EXAMPLE,,,Chemin de Fey,92,,F-54470,MAMEY,,,,,1
+3636484,"SKOG, Terje","Solberg,N-3180 Nykirke",Solberg N-3180 Nykirke,3180,,NO,1,22,2,3,1,0,4,0.385323197,0.337356624,,,EXAMPLE,,,,,,N-3180,Nykirke,,,,,0
+3645668,"ZHUKOV, Sergey Germanovich","Apartment 41 Tjernysjevsskij Square, 8,St.Petersburg, 196070",Apartment 41 Tjernysjevsskij Square 8 St.Petersburg 196070,41 8 196070,41,RU,1,60,1,7,3,1,9,0.291799032,0.176478536,,,B212204,,,Tjernysjevsskij Square Apartment 41,8,St.Petersburg,196070,,,,,,1
+3737974,"BUZDYGAR, Timur Valerievich","pl. Kurchatova, 1-19,Obninsk,Kaluzhskaya obl., 249020",pl. Kurchatova 1-19 Obninsk Kaluzhskaya obl. 249020,119 249020,1-,RU,1,53,1,7,2,1,9,0.081328924,0.130310368,,,B212201,,19,pl. Kurchatova,1,Kaluzhskaya obl.,249020,Obninsk,,,,,1
+3739427,"BLOOMER, Scott, D.","16503 Terrey Pine Drive,Eden Prairie, MN 55347",16503 Terrey Pine Drive Eden Prairie MN 55347,16503 55347,,US,1,46,1,8,2,0,10,0.744418658,0.163600856,,,B212203,,,Terrey Pine Drive,16503,,55347,Eden Prairie,MN,,,,1
+3746266,"SCHELL, Henricus, Wilhelmus, Maria","Prof. Holstlaan 6,NL-5656 AA Eindhoven",Prof. Holstlaan 6 NL-5656 AA Eindhoven,6 5656,6,NL,1,38,1,6,2,1,5,0.8913457,0.180399632,,,B212205,,,Prof. Holstlaan,6,,5656-AA,Eindhoven,,,,,1
+3778420,"KURISU, Kojiro","2-1-7, Mayumiminami,Ikoma-shi, Nara 630-01",2-1-7 Mayumiminami Ikoma-shi Nara 630-01,217 63001,2-,JP,1,42,1,5,2,1,8,0.054824267,0.129748445,,,B212201,,,2-1-7 Meayumiminami,,,630-01,Ikoma-shi,Nara,,,,1
+3782733,"TANIELYAN, Setrak, K.","11, Beech Street,Maplewood, New Jersey 07040",11 Beech Street Maplewood New Jersey 07040,11 07040,11,US,1,44,1,7,2,1,7,0.917727503,0.210178645,,,B212206,,,Beech Street,11,,07040,Maplewood,,,,,1
+3784344,"RAMANTHAN, Sasangan","105 Enchanted Way,San Ramon, CA 94583",105 Enchanted Way San Ramon CA 94583,105 94583,105,US,1,37,1,7,2,1,8,0.334827627,0.164285657,,,B212203,,,Enchanted Way,105,,94583,San Ramon,CA,,,,1
+3800941,"Sarkar, Sunil B.","1061 Northcrest Drive,Akron, Ohio 44319",1061 Northcrest Drive Akron Ohio 44319,1061 44319,,US,1,39,1,6,2,0,9,0.098245029,0.175606789,,,B212204,,,Northcrest Drive,1061,Akron,44319,Ohio,,,,,1
+3811921,"Madan, Sanjeev","120 Vanita Drive,Coraopolis, PA 15108",120 Vanita Drive Coraopolis PA 15108,120 15108,120,US,1,37,1,6,2,1,8,0.644884004,0.15226734,,,B212203,,,Vanita Drive,120,Coraopolis,15108,,PA,,,,0
+3833504,"Savage, Charles R.","136 Varsity Circle,Arlington, Texas 76013",136 Varsity Circle Arlington Texas 76013,136 76013,136,US,1,41,1,6,2,1,8,0.799396098,0.141080055,,,B212202,,,Varsity Circle,136,,76013,Arlington,Texas,,,,1
+3837562,"Slate, James Richard","1112 27th Street,Vienna, West Virginia 26105",1112 27th Street Vienna West Virginia 26105,1112 27 26105,27t,US,1,44,1,7,3,1,11,0.722559553,0.150073824,,,B212203,,,27th Street,1112,,,Vienna,West Virginia,,,,1
+3871180,"ROSENCHER, Emmanuel Thomson-CSF SCPI","13, avenue du PrÇsident Salvador Allende,F-94117 Arceuil Cedex",13 avenue du PrÇsident Salvador Allende F-94117 Arceuil Cedex,13 94117,13,FR,1,62,1,9,2,1,7,0.973756666,0.121676595,,,B212201,,,avenue du PrÇsident Salvador Allende,13,Arceuil Cedex,F-94117,,,,,,1
+3928106,"Akita, Manabu","33-18-1202 Hanakuma, Chuo-ku,Kobe-shi, Hyogo-ken",33-18-1202 Hanakuma Chuo-ku Kobe-shi Hyogo-ken,33181202,33-,JP,1,48,1,5,1,1,8,0.911716187,0.182735682,,,B212205,,,,,Kobe-shi,33-18-1202,Hanakuma,Hyogo-ken,,,,1
+3953086,"Tsujimoto, Ichiro","NEC Corporation, 7-1, Shiba 5-chome, Minato-ku,Tokyo 108-01",NEC Corporation 7-1 Shiba 5-chome Minato-ku Tokyo 108-01,71 5 10801,7-,JP,1,59,1,8,3,1,8,0.202373791,0.138071048,,,B212202,NEC Corporation,,7-1;Shiba 5-chome,,Minato-ku,108-01,Tokyo,,,,,1
+3954425,"Amagai, Takayuki","123-1, Kitanishi-cho,Yamatokoriyama-shi, Nara 639-1025",123-1 Kitanishi-cho Yamatokoriyama-shi Nara 639-1025,1231 6391025,123-,JP,1,54,1,5,2,1,11,0.661950112,0.116383016,,,B212201,,,123-1,,Kitanishi-cho,639-1025,Yamatokoriyama-shi,Nara,,,,1
+3976850,"Kudlugi, Muralidhar R.","2 John McQuinn Circle,Framingham, MA 01701",2 John McQuinn Circle Framingham MA 01701,2 01701,2,US,1,42,1,7,2,1,6,0.554817664,0.191600096,,,B212205,,,John McQuinn Circle,2,,MA 01701,Framingham,,,,,1
+3996969,"AHARONI, Eli","Habad Street 20/136,75302 Rishon le Zion",Habad Street 20/136 75302 Rishon le Zion,20136 75302,20/,IL,1,40,1,7,2,1,10,0.536316064,0.203947525,,,B212206,,,Habad Street, 20/136,,75302,Rishon le Zion,,,,,1
+4016524,"KATO, Shiro, Citizen Watch Co. Ltd.","2-1-1 Nishi-Shinjuku,,Shinjuku-ku, Tokyo 163-0428",2-1-1 Nishi-Shinjuku Shinjuku-ku Tokyo 163-0428,211 1630428,2-,JP,1,49,1,5,2,1,10,0.950718754,0.128811049,,,B212201,,,2-1-1 Nishi-Shinjuku,,,163-0428,Tokyo,Shinjuku-ku,,,,1
+4025618,"WACHTER, Anton","Am Mayerling 3,D-87541 Hindelang",Am Mayerling 3 D-87541 Hindelang,3 87541,3,DE,1,32,2,5,2,1,6,0.092588381,0.39333552,,,EXAMPLE,,,Am Mayerling,3,,D-87541,Hindelang,,,,,1
+4075709,"AUTHELIN, Jean-RenÇ, Rhìne-Poulenc Rorer S.A.","13, quai Jules Guesde, Boåte postale 14,F-94403 Cedex Vitry-Sur-Seine",13 quai Jules Guesde Boåte postale 14 F-94403 Cedex Vitry-Sur-Seine,13 14 94403,13,FR,1,69,1,10,3,1,9,0.083190129,0.170000902,,,B212204,,,quai Jules Guesde,13,Vitry-sur-Seine,F-94403,,,,,,1
+4080799,"KIRSCHBAUM, Martin","Wirtembergstrasse 2,71336 Waiblingen",Wirtembergstrasse 2 71336 Waiblingen,2 71336,2,DE,1,36,1,4,2,1,6,0.946828376,0.178675,,,B212204,,,Wirtembergstrasse,2,,71336,Waiblingen,,,,,1
+4123531,"BUENO, Ivan Stefano","Avenida Cìnego Peres, n 530, apto. 03, Centro,Nova Prata - Rs",Avenida Cìnego Peres n 530 apto. 03 Centro Nova Prata - Rs,530 03,530,BR,1,61,1,12,2,1,5,0.002092823,0.134882337,,,B212202,,apto. 03,Avenida Cìnego Peres,n 530,,,"Centro,Nova Prata - Rs",,,,,1
+4126773,Exploration Orbite Vspa Inc.,"400 rue St-Jacques Bureau 200,MontrÇal, QuÇbec H2Y 1S1",400 rue St-Jacques Bureau 200 MontrÇal QuÇbec H2Y 1S1,400 200 2 11,400,CA,1,54,1,9,4,1,9,0.166610845,0.178546916,,,B212204,, Bureau 200,rue St-Jacques,400,,H2Y 1S1,MontrÇal,QuÇbec,,,,1
+4139114,"FALLSHAW, Andrew","31 Wood Road,Bellbrae, Victoria 3228",31 Wood Road Bellbrae Victoria 3228,31 3228,31,AU,1,36,1,6,2,1,6,0.506630371,0.142653287,,,B212202,,,Wood Road,31,Bellbrae,3228,Victoria,,,,,1
+4176318,"KôNIG, Harald","13 rue de la Hte-Vienne,F-67480 Auenheim",13 rue de la Hte-Vienne F-67480 Auenheim,13 67480,13,FR,1,40,1,7,2,1,7,0.512282559,0.159579185,,,B212203,,,rue de la Hte-Vienne,13,,F-67480,Auenheim,,,,,1
+4181588,"Boustred, Graham Hubert","11 Elias Court, The Gardens,Manakau",11 Elias Court The Gardens Manakau,11,11,NZ,1,35,2,6,1,1,2,0.976803104,0.354133283,,,EXAMPLE,,,Elias Court,11,The Gardens,,Manakau,,,,,1
+4249503,"Vraux, Didier","9, avenue de Metz,93140, BONDY",9 avenue de Metz 93140 BONDY,9 93140,9,FR,1,30,2,6,2,1,6,0.745216642,0.392480032,,,EXAMPLE,,,avenue de Metz,9,,93140,BONDY,,,,,1
+4256161,"Martini, Ryan D.","412 E. Kenilworth Ave.,Royal Oak MI 48067",412 E. Kenilworth Ave. Royal Oak MI 48067,412 48067,412,US,1,41,1,8,2,1,8,0.533734473,0.175283067,,,B212204,,,Kenilworth Ave.,412E,Royal Oak,48067,,MI,,,,1
+4263634,"Hong, Xin","5009 Arbor Mill Dr,Fort Worth, TX 76135-9653",5009 Arbor Mill Dr Fort Worth TX 76135-9653,5009 761359653,,US,1,44,1,8,2,0,13,0.31661338,0.131544264,,,B212202,,,Arbor Mill Dr,5009,,76135-9653,Fort Worth,TX,,,,1
+4295674,"Belcher, Danny","10 Yehuda St.,52504, Ramat Gan",10 Yehuda St. 52504 Ramat Gan,10 52504,10,IL,1,30,2,6,2,1,7,0.607308013,0.44961781,,,EXAMPLE,,,Yehuda St.,10,,52504,Ramat Gan,,,,,1
+4318408,"GUPTA, Rajarshi","5775 Morehouse Drive,San Diego California 92121-1714",5775 Morehouse Drive San Diego California 92121-1714,5775 921211714,,US,1,52,1,7,2,0,13,0.1906835,0.137510307,,,B212202,,,Morehouse Drive,5775,,92121-1714,San Diego,California,,,,1
+4325495,"Long, Christopher Eugene","300 Garlington Road,Greenville, SC 29615",300 Garlington Road Greenville SC 29615,300 29615,300,US,1,40,1,6,2,1,8,0.146092335,0.209241246,,,B212206,,,Garlington Road,300,,29615,Greenville,SC,,,,1
+4384907,"SHAPIRA, Alina","457/11 Meonot Mizrah Hadash Technion City,32000 Haifa",457/11 Meonot Mizrah Hadash Technion City 32000 Haifa,45711 32000,457/,IL,1,53,1,8,2,1,10,0.547472847,0.134274552,,,B212202,,Technion City,Meonot Mizrah Hadash,457/11,,32000,Haifa,,,,,1
+4388390,"ABDEL NOUR, Charbel","8 Rue De Guyenne,F-29200 Brest",8 Rue De Guyenne F-29200 Brest,8 29200,8,FR,1,30,2,6,2,1,6,0.393171142,0.394034418,,,EXAMPLE,,,Rue De Guyenne,8,,F-29200,Brest,,,,,1
+4458212,"Balsari, Andrea","Via Mozart 15,20122 Milano",Via Mozart 15 20122 Milano,15 20122,15,IT,1,26,2,5,2,1,7,0.257798642,0.389201457,,,EXAMPLE,,,Via Mozart,15,,20122,Milano,,,,,1
+4470928,"FAN, Haihong","126 East Lincoln Avenue,Rahway New Jersey 07065-0907",126 East Lincoln Avenue Rahway New Jersey 07065-0907,126 070650907,126,US,1,52,1,8,2,1,12,0.804939086,0.140794986,,,B212202,,,East Lincoln Avenue,126,New Jersey ,07065-0907,Rahway,,,,,1
+4474168,"Wu, David","No. 66, Lane 642, Tung Wan Shou Rd. Gueishan Hsiang,Taoyuan Hsien",No. 66 Lane 642 Tung Wan Shou Rd. Gueishan Hsiang Taoyuan Hsien,66 642,66,TW,1,65,1,12,2,1,5,0.120297825,0.133889931,,,B212202,,Tung Wan Shou Rd, Lane 642,No. 66,Gueishan Hsiang,,Taoyuan Hsien,,,,,1
+4534429,"ZHANG, Jing","1621 Carlton Drive,Parsippany, NJ 07054",1621 Carlton Drive Parsippany NJ 07054,1621 07054,,US,1,39,1,6,2,0,9,0.87834461,0.18496219,,,B212205,,,Carlton Drive,1621,,07054,Parsippany,NJ,,,,1
+4565399,"Perrier, Michel","RUE 289 DOMAINE DU MOULIN,01250, JASSERONE",RUE 289 DOMAINE DU MOULIN 01250 JASSERONE,289 01250,289,FR,1,42,1,7,2,1,8,0.795301203,0.1264379,,,B212201,,,RUE DOMAINE DU MOULIN,289,,01250,JASSERONE,,,,,1
+4581272,"Fujita, Hirotoshi","Starting Industrial Co., Ltd. 4-4, Momoi 4-chome Suginami-ku,Tokyo 167",Starting Industrial Co. Ltd. 4-4 Momoi 4-chome Suginami-ku Tokyo 167,44 4 167,4-,JP,1,70,1,10,3,1,6,0.098677914,0.170671738,,,B212204,Starting Industrial Co.,,,,Momoi 4-chome Suginami-ku,,Tokyo,,,,,1
+4604522,"GABEN, Fabien","11 Bis Avenue Guy de Collongue,F-69130 Ecully",11 Bis Avenue Guy de Collongue F-69130 Ecully,11 69130,11,FR,1,45,1,8,2,1,7,0.955876048,0.155674445,,,B212203,,,Avenue Guy de Collongue,11 Bis,,F-69130,Ecully,,,,,1
+4629642,"LEE, Sang-Ho","306-1904 Samsan Jugong Mirae Town Apt. 390-6 Samsan-dong Bupyeong-gu,Incheon 403-090",306-1904 Samsan Jugong Mirae Town Apt. 390-6 Samsan-dong Bupyeong-gu Incheon 403-090,3061904 3906 403090,306-,KR,1,84,1,11,3,1,17,0.118699295,0.136887765,,,B212202,,Apt. 390-6,Samsan Jugong Mirae,306-1904,Samsan-dong Bupyeong-gu,403-090,Incheon,,,,,1
+4664257,"Fujii, Masahiro","c/o Mitsuboshi Diamond Industrial Co., Ltd. 2-12-12, Minami-Kaneden, Suita-city,Osaka",c/o Mitsuboshi Diamond Industrial Co. Ltd. 2-12-12 Minami-Kaneden Suita-city Osaka,21212,2-,JP,1,85,1,10,1,1,5,0.508821966,0.163653724,,,B212203,c/o Mitsuboshi Diamond Industrial Co.,,,Ltd. 2-12-12,Minami-Kaneden,,Suita-city,Osaka,,,,1
+4693337,"OWENS, Michael","6528 Morgan Ave. S.,Richfield Minnesota 55423",6528 Morgan Ave. S. Richfield Minnesota 55423,6528 55423,,US,1,45,1,7,2,0,9,0.667240176,0.18659937,,,B212205,,,Morgan Ave. S,6528,,55426,Richfield,Minnesota,,,,1
+4728185,"American Megatrends, Inc.","5555 Oakbrook Parkway Suite 200,Norcross, GA 30093",5555 Oakbrook Parkway Suite 200 Norcross GA 30093,5555 200 30093,200,US,1,50,1,8,3,1,12,0.223003909,0.147004977,,,B212203,,,Oakbrook Parkway,5555,,30093,Norcross,GA,,,,1
+4786060,"Tymm, David","203/204 Great Guildford Business Square 30 Great Guildford Street,London SE1 0HS",203/204 Great Guildford Business Square 30 Great Guildford Street London SE1 0HS,203204 30 1 0,203/,GB,1,80,1,12,4,1,10,0.462891197,0.129525642,,,B212201,,Great Guildford Business Square 203/204,Great Guildford Street,30,,SE1 0HS,London,,,,,1
+4786275,"Leung, Shui-on","c/o Immunomedics Inc. 300 American Road,Morris Plains, New Jersey 07950",c/o Immunomedics Inc. 300 American Road Morris Plains New Jersey 07950,300 07950,300,US,1,71,1,11,2,1,8,0.14950304,0.179079939,,,B212204,c/o Immunomedics Inc.,,American Road,300,,07950,Morris Plains,New Jersey,,,,1
+4814431,"Fano, Andrew E.","6 Plymouth Court,Lincolnshire, IL 60069",6 Plymouth Court Lincolnshire IL 60069,6 60069,6,US,1,39,1,6,2,1,6,0.662783362,0.165298214,,,B212204,,,Plymouth Court,6,Lake,60069,Lincolnshire,Illinois,,,,1
+4831458,"KOBASHI, Yoshihiki","c/o JMS CO. LTD., 12-17 Kakomachi, Naka-ku,Hiroshima-shi, Hiroshima 730-8652",c/o JMS CO. LTD. 12-17 Kakomachi Naka-ku Hiroshima-shi Hiroshima 730-8652,1217 7308652,12-,JP,1,76,1,10,2,1,11,0.782522279,0.162543288,,,B212203,c/o JMS CO. LTD.,,Kakomachi,12-17,Naka-ku,730-8652,Hiroshima-shi; Hiroshima,,,,,1
+4856968,"LEGUIN, Hermann","Ravensburger Strasse 28,88279 Amtzell",Ravensburger Strasse 28 88279 Amtzell,28 88279,28,DE,1,37,1,5,2,1,7,0.087123425,0.174246296,,,B212204,,,Ravensburger strasse,28,,88279,Amtzel,,,,,1
+4858577,"Hashizume, Takashi","c/o Honda R & D Co., Ltd. 4-1, Chuo 1-chome, Wako-shi,Saitama 351-0193",c/o Honda R & D Co. Ltd. 4-1 Chuo 1-chome Wako-shi Saitama 351-0193,41 1 3510193,4-,JP,1,70,1,13,3,1,10,0.054926711,0.132381507,,,B212202,,c/o Honda R & D Co., Ltd. 4-1;Chuo 1-chome,,,351-0193,Wako-shi,Saitama,,,,1
+4874904,"SCHNELL, Bettina","Connenweilerstrasse 21/1,74597 Rechenberg",Connenweilerstrasse 21/1 74597 Rechenberg,211 74597,21/,DE,1,41,1,4,2,1,8,0.085715495,0.144296418,,,B212202,,,Connenweilerstrasse,21-Jan,,74597,Rechenberg,,,,,1
+4877834,"BAHADOOR, Adilah","Apt 2B, 205 Walden Street,Cambridge MA 02140",Apt 2B 205 Walden Street Cambridge MA 02140,2 205 02140,2B,US,1,44,1,8,3,1,9,0.917296594,0.150414876,,,B212203,,,Walden Street,205 Apt 2B,,02140,Cambridge,MA,,,,1
+4922660,"Cunanan, Regina","9302 Hallsboro Circle, Apartment 302,Parkville Maryland 21234",9302 Hallsboro Circle Apartment 302 Parkville Maryland 21234,9302 302 21234,302,US,1,61,1,8,3,1,12,0.561724841,0.200722181,,,B212206,, Apartment 302,Hallsboro Circle,9302,Parkville,21234,Maryland,,,,,1
+4926704,"HO, Shun-Lung","11F., No.302, Rueiguang Rd., Neihu District,Taipei City",11F. No.302 Rueiguang Rd. Neihu District Taipei City,11 302,11F,TW,1,55,1,8,2,1,5,0.434480822,0.159785013,,,B212203,,,Rueiguang Rd.,No.302,Neihu District,,Taipei City,,,,,1
+4942050,ISHIGOOKA Tasuku,"c/o Hitachi Research Laboratory, HITACHI LTD., 1-1 Omikacho 7-chome,Hitachi-shi Ibaraki 319-1292",c/o Hitachi Research Laboratory HITACHI LTD. 1-1 Omikacho 7-chome Hitachi-shi Ibaraki 319-1292,11 7 3191292,1-,JP,1,96,1,12,3,1,10,0.693514948,0.166302689,,,B212204,HITACHI LTD.,itachi Research Laboratory,Hitachi-shi Ibaraki,319-1292,"1-1 Omikacho 7-chome,",,,,,,,1
+4992487,"HOREV, Rafi","24 Ir-Shemesh,69086 Tel Aviv",24 Ir-Shemesh 69086 Tel Aviv,24 69086,24,IL,1,28,2,5,2,1,7,0.05363078,0.382794064,,,EXAMPLE,,, Ir-Shemesh,24,,69086,Tel Aviv,,,,,1
+5017123,"Brouwer, Shaun P.","4567 Jonquil Lane,Monee, IL Illinois 60449",4567 Jonquil Lane Monee IL Illinois 60449,4567 60449,,US,1,42,1,7,2,0,9,0.656595929,0.173338344,,,B212204,,,Jonquil Lane,4567,,60449,Illinois,IL,,,,1
+5021215,"KAPUR, Pawan","601 Ansel Road, Apt. 212,Burlingame CA 94010",601 Ansel Road Apt. 212 Burlingame CA 94010,601 212 94010,601,US,1,44,1,8,3,1,11,0.350245936,0.204639152,,,B212206,, Apt. 212,Ansel Road,601,, 94010,Burlingame,CA,,,,1
+5023810,"Kwon, Heui-jin","202-1803 Hanshin Apt, Imae-dong, Bundang-gu, Seongnam-si,Gyeonggi-do",202-1803 Hanshin Apt Imae-dong Bundang-gu Seongnam-si Gyeonggi-do,2021803,202-,KR,1,68,1,7,1,1,7,0.990722696,0.130627287,,,B212201,,,202-1803 Hanshin Apt,,Bundang-gu,,Seongnam-si Imae-dong,Gyeonggi-do,,,,1
+5031411,"Benson, Terry J.","22069 W.Milestone Street,Santa Clarita, CA California 91390",22069 W.Milestone Street Santa Clarita CA California 91390,22069 91390,,US,1,59,1,8,2,0,10,0.01669222,0.123923883,,,B212201,,,W.Milestone Street,22069,,91390,Santa Clarita,CA,,,,1
+5052161,"VANDROUX, Laurent","RÇsidence le coteau, 202 rue des celliers,F-38570 Le Cheylas",RÇsidence le coteau 202 rue des celliers F-38570 Le Cheylas,202 38570,202,FR,1,60,1,10,2,1,8,0.052110773,0.12126138,,,B212201,,RÇsidence le coteau,rue des celliers,202,,F-38570,Le Cheylas,,,,,1
+5184945,"Torres, Seferino Enrique","23149 Los Alison Blvd., Mission Viejo,California 92691",23149 Los Alison Blvd. Mission Viejo California 92691,23149 92691,,US,1,54,1,8,2,0,10,0.135896064,0.192187726,,,B212205,,,Los Alison Blvd.,23149,Mission Viejo,92691,California,,,,,1
+5200958,"Kim, Kuntak","Samsung Electronics Co., Ltd., 129 Samsung-ro, Yeongtong-gu, Suwon-si,443-742 Gyeonggi-do",Samsung Electronics Co. Ltd. 129 Samsung-ro Yeongtong-gu Suwon-si 443-742 Gyeonggi-do,129 443742,129,KR,1,89,1,10,2,1,9,0.818392313,0.140985569,,,B212202,Samsung Electronics Co.Ltd,,Samsung-ro,129,Yeongtong-gu,443-742,Suwon-si,Gyeonggi-do,,,,1
+5201321,"Meyer, Paul Aloysius","50 Industrial Park Road,Lewistown, PA Pennsylvania 17044",50 Industrial Park Road Lewistown PA Pennsylvania 17044,50 17044,50,US,1,56,1,8,2,1,7,0.305225777,0.179636522,,,B212204,,,Industrial Park Road,50,,17044,Lewistown,PA Pennsylvania,,,,1
+5223007,"Gumbel, Helmut",Dannenfels,Dannenfels,,,DE,1,10,3,1,0,0,0,0.115848924,0.139624775,,,B212202,,,,,Dannenfels,,,,,,,0
+5223444,"Legiec, Irene E.","Mountainside,NJ",Mountainside NJ,,,US,1,15,3,2,0,0,0,0.761826429,0.17432663,,,B212204,,,,,Mountainside,,,NJ,,,,0
+5248897,"Tsuji, Toshiaki",Kobe,Kobe,,,JP,1,4,3,1,0,0,0,0.956675321,0.191255195,,,B212205,,,,,,,Kobe,,,,,0
+5297204,"Webcraft Technologies, Inc.",Horsham,Horsham,,,US,1,7,3,1,0,0,0,0.078796715,0.192826567,,,B212205,,,,,,,Horsham,,,,,0
+5304582,Siegfried Aktiengesellschaft,Zofingen,Zofingen,,,CH,1,8,3,1,0,0,0,0.398126495,0.183042369,,,B212205,,,,,,,Zofingen,,,,,0
+5327396,"Sensor Technologies, Inc.",Pennsauken,Pennsauken,,,US,1,10,3,1,0,0,0,0.07346282,0.100570514,,,EXAMPLE,,,,,,,Pennsauken,,,,,0
+5330949,"Hara, Yuichi",Hiratsuka,Hiratsuka,,,JP,1,9,3,1,0,0,0,0.917790618,0.148903324,,,B212203,,,,,,,Hiratsuka,,,,,0
+5343666,"Espinosa, Frank","Richmond,TX",Richmond TX,,,US,1,11,3,2,0,0,0,0.020362975,0.206445794,,,B212206,,,,,,,Richmond,TX,,,,0
+5350988,"Gascon, Rheal",Hanmer,Hanmer,,,CA,1,6,3,1,0,0,0,0.250593998,0.142755168,,,B212202,,,,,,,Hammer,,,,,0
+5357821,"Spademan, Richard G.",Incline Village,Incline Village,,,US,1,15,3,2,0,0,0,0.834337121,0.203135142,,,B212206,,,,,,,Incline Village,,,,,0
+5371217,"Kelly, Jr., Thomas M.","Dedham,MA",Dedham MA,,,US,1,9,3,2,0,0,0,0.492432816,0.158985729,,,B212203,,,,,,,Dedham,MA,,,,0
+5402680,"Venkatesh, Srilakshmi",Sunnyvale,Sunnyvale,,,US,1,9,3,1,0,0,0,0.194446088,0.122287529,,,B212201,,,,,,,Sunnyvale,,,,,0
+5410707,"Chien, Chen-Jung","Sunnyvale,CA",Sunnyvale CA,,,US,1,12,3,2,0,0,0,0.909753707,0.145474005,,,B212202,,,,,,,Sunnyvale,CA,,,,0
+5437029,"Kakehi, Takamaro",Nagaokakyo,Nagaokakyo,,,JP,1,10,3,1,0,0,0,0.350999349,0.196205618,,,B212205,,,,,,,Nagaokakyo,,,,,0
+5517990,"Martin, Matthew R.",Remsenburg,Remsenburg,,,US,1,10,3,1,0,0,0,0.301978734,0.178358704,,,B212204,,,,,,,Remsenburg,,,,,0
+5545800,"Jannard, James","Eastsound,WA",Eastsound WA,,,US,1,12,3,2,0,0,0,0.810269038,0.141892228,,,B212202,,,,,,,Eastsound,WA,,,,0
+5585872,Cholestech Corporation,Hayward,Hayward,,,US,1,7,3,1,0,0,0,0.472059147,0.134478131,,,B212202,,,,,,,Hayward,,,,,0
+5626403,"Dickson, LeRoy","Morgan Hill,CA",Morgan Hill CA,,,US,1,14,3,3,0,0,0,0.132815472,0.21241881,,,B212206,,,,,,,Morgan Hill,CA,,,,0
+5630911,"Michel, Richard P.","Minneapolis,MN",Minneapolis MN,,,US,1,14,3,2,0,0,0,0.300197625,0.147759717,,,B212203,,,,,,,Minneapolis,MN,,,,0
+5661137,"Nakao, Yasushi",Hiratsuka,Hiratsuka,,,JP,1,9,3,1,0,0,0,0.103497682,0.160700759,,,B212203,,,,,,,Hiratsuka,,,,,0
+5678935,Integrated Group Assets Inc.,"Dallas,TX",Dallas TX,,,US,1,9,3,2,0,0,0,0.96939372,0.182024388,,,B212205,,,,,,,Dallas,TX,,,,0
+5680169,"Shemtov, Israel",Brooklyn,Brooklyn,,,US,1,8,3,1,0,0,0,0.149293246,0.140783949,,,B212202,,,,,Brooklyn,,,,,,,0
+5699851,"Zimmerman, Nancy J.",Clemson,Clemson,,,US,1,7,3,1,0,0,0,0.934808582,0.20895789,,,B212206,,,,,,,Clemson,,,,,0
+5705640,"Guzowshi, Pamela Lynn","Glenview,IL",Glenview IL,,,US,1,11,3,2,0,0,0,0.724214463,0.150060944,,,B212203,,,,,,,Glenview,IL,,,,0
+5709927,"Kuckes, Arthur F.",Ithaca,Ithaca,,,US,1,6,3,1,0,0,0,0.269605772,0.177896924,,,B212204,,,,,,,Ithaca,,,,,0
+5712636,"Kato, Akihiko",Kanagawa,Kanagawa,,,JP,1,8,3,1,0,0,0,0.137352127,0.153167806,,,B212203,,,,,,,,Kanagawa,,,,0
+5748489,"Kato, Naoki",Kodaira,Kodaira,,,JP,1,7,3,1,0,0,0,0.786933027,0.158775294,,,B212203,,,,,,,Kodaira,,,,,0
+5780223,"Yamaguchi, Kisaburo",Hachioji,Hachioji,,,JP,1,8,3,1,0,0,0,0.694713353,0.192851888,,,B212205,,,,,,,Hachioji,,,,,0
+5788985,"Bailey, Kenneth S.","Longboat Key,FL",Longboat Key FL,,,US,1,15,3,3,0,0,0,0.168176361,0.134926207,,,B212202,,,,,,,Longboat Key,FL,,,,0
+5794138,"Bell, John Louis","Annapolis,MD",Annapolis MD,,,US,1,12,3,2,0,0,0,0.528523159,0.213052422,,,B212206,,,,,,,Annapolis,MD,,,,0
+5842127,"Kini, M. Vittal",Portland,Portland,,,US,1,8,3,1,0,0,0,0.880856099,0.129545435,,,B212201,,,,,,,Portland,,,,,0
+5852153,"Qi, Ning","Hamden,CT",Hamden CT,,,US,1,9,3,2,0,0,0,0.53069266,0.16591542,,,B212204,,,,,,,Hamden,CT,,,,0
+5860636,"NeuroPace, Inc.",Sunnyvale,Sunnyvale,,,US,1,9,3,1,0,0,0,0.696952993,0.160123722,,,B212203,,,,,,,Sunnyvale,,,,,0
+5878897,"Katayama, Makoto",Yokohama,Yokohama,,,JP,1,8,3,1,0,0,0,0.496406108,0.099964432,,,EXAMPLE,,,,,,,Yokohama,,,,,0
+5889314,"Tanaka, Osamu",Kyoto,Kyoto,,,JP,1,5,3,1,0,0,0,0.418811711,0.164055629,,,B212203,,,,,,,Kyoto,,,,,0
+5889383,"Boerema, Edward T.",West Olive,West Olive,,,US,1,10,3,2,0,0,0,0.435702572,0.142735914,,,B212202,,,,,,,West Olive,,,,,0
+5891604,"Kitagawa, Masahiro",Aichi-ken,Aichi-ken,,,JP,1,9,3,1,0,0,0,0.276327598,0.154585065,,,B212203,,,,,,,,Aichi-ken,,,,0
+5909131,"Yoshikawa, Satoshi",Otsu-shi,Otsu-shi,,,JP,1,8,3,1,0,0,0,0.319282155,0.155191921,,,B212203,,,,,,,Otsu-shi,,,,,0
+5924954,"Donahue, James","Falmouth,MA",Falmouth MA,,,US,1,11,3,2,0,0,0,0.292535675,0.154910978,,,B212203,,,,,,,Falmouth,MA,,,,0
+5938865,"Takamura, Norihiro",Osaka,Osaka,,,JP,1,5,3,1,0,0,0,0.33870457,0.097275815,,,EXAMPLE,,,,,,,Osaka,,,,,0
+5962262,"Yang, Woun-Suck",Gyeonggi-do,Gyeonggi-do,,,KR,1,11,3,1,0,0,0,0.132471712,0.126292141,,,B212201,,,,,,,,Gyeonggi-do,,,,0
+6007860,"Rakshani, Vafa James",Newport Coast,Newport Coast,,,US,1,13,3,2,0,0,0,0.847695582,0.175216104,,,B212204,,,,,Newport Coast,,,,,,,0
+6039710,Sherer; Darla J.,Bloomington,Bloomington,,,US,1,11,3,1,0,0,0,0.840345797,0.167060649,,,B212204,,,,,,,Bloomington,,,,,0
+6054117,"Bhatacharyya, Manoj K.",Cupertino,Cupertino,,,US,1,9,3,1,0,0,0,0.73463062,0.098604114,,,EXAMPLE,,,,,,,Cupertino,,,,,0
+6055222,"Cooper, John J.","Seattle,WA",Seattle WA,,,US,1,10,3,2,0,0,0,0.940988501,0.157323811,,,B212203,,,,,,,Seattle,WA,,,,0
+6067094,H Power Corporation,"Belleville,NJ",Belleville NJ,,,US,1,13,3,2,0,0,0,0.472177657,0.13563748,,,B212202,,,,,,,Belleville,NJ,,,,0
+6074363,"Nakajima, Yasuharu",Tokorozawa,Tokorozawa,,,JP,1,10,3,1,0,0,0,0.915039521,0.118172923,,,B212201,,,,,,,Tokorozawa,,,,,0
+6132384,"Mallet, Jean-Laurent",Nancy,Nancy,,,FR,1,5,3,1,0,0,0,0.65054665,0.147517955,,,B212203,,,,,,,Nancy,,,,,0
+6181478,"DeLombaert, St phane","Madison,CT",Madison CT,,,US,1,10,3,2,0,0,0,0.785025063,0.206322401,,,B212206,,,,,,,Madison,CT,,,,0
+6222241,"Ice Energy, Inc.",Windsor,Windsor,,,CA,1,7,3,1,0,0,0,0.833977845,0.128687143,,,B212201,,,,,,,Windsor,,,,,0
+6248957,"Restorff, James B.",College Park,College Park,,,US,1,12,3,2,0,0,0,0.692728865,0.191431753,,,B212205,,,,,,,College Park,,,,,0
+6250807,"Hanano, Kazunari",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.428174517,0.095035268,,,EXAMPLE,,,,,,,Tokyo,,,,,0
+6254823,"Loos and Co., Inc.",Pomfret,Pomfret,,,US,1,7,3,1,0,0,0,0.420730778,0.208202582,,,B212206,,,,,,,Pomfret,,,,,0
+6260169,"Lekkas, Panos C.","Worcester,MA",Worcester MA,,,US,1,12,3,2,0,0,0,0.427926978,0.207863068,,,B212206,,,,,,,Worcester,MA,,,,0
+6283456,"Markley, Stephen A.",Santa Paula,Santa Paula,,,US,1,11,3,2,0,0,0,0.014310075,0.136500303,,,B212202,,,,,,,Santa Paula,,,,,0
+6291640,Beckenbach; Ulrich,4005 Meerbusch 1,4005 Meerbusch 1,4005 1,1,DE,1,16,3,3,2,1,5,0.561063558,0.119279458,,,B212201,,,,1,,4005,Meerbusch,,,,,0
+6324879,"Hartmann, Manfred",Nenzing,Nenzing,,,AT,1,7,3,1,0,0,0,0.840825801,0.153053688,,,B212203,,,,,,,Nenzing,,,,,0
+6337063,"Cook, John",Wirral,Wirral,,,GB,1,6,3,1,0,0,0,0.080043653,0.116034564,,,B212201,,,,,,,,Wirral,,,,0
+6358453,"Hasegawa, Nobuki",Meguro-ku,Meguro-ku,,,JP,1,9,3,1,0,0,0,0.606913534,0.191509004,,,B212205,,,,,,,Megoru-ku,,,,,0
+6372696,"Hansson, Gote I.",S-453 00 Lysekil,S-453 00 Lysekil,453 00,-453,SE,1,16,3,3,2,1,5,0.360007941,0.180570847,,,B212205,,,,,,S-453 00,Lysekil,,,,,0
+6386852,"Dunlap, William L.",Elkhart,Elkhart,,,US,1,7,3,1,0,0,0,0.299295567,0.140264514,,,B212202,,,,,,,Elkhart,,,,,0
+6423851,"Grundmuller, Richard",Munchen,Munchen,,,DE,1,7,3,1,0,0,0,0.816487039,0.160031579,,,B212203,,,,,,,Munchen,,,,,0
+6428935,"Caillault, Oliver A. G.",Chalon-sur-Saone,Chalon-sur-Saone,,,FR,1,16,3,1,0,0,0,0.361349077,0.170713228,,,B212204,,,,,Chalon-sur-Saìne,,,,,,,0
+6444061,Fenwick; Chad,Northridge,Northridge,,,US,1,10,3,1,0,0,0,0.65229512,0.161645721,,,B212203,,,,,Northridge,,,,,,,0
+6528385,"Loenders, Raf",Bierbeek,Bierbeek,,,BE,1,8,3,1,0,0,0,0.675023922,0.16781227,,,B212204,,,,,,,Bierbeek,,,,,0
+6544681,"Ling, Sharon X.","Clarksville,MD",Clarksville MD,,,US,1,14,3,2,0,0,0,0.556237607,0.14061897,,,B212202,,,,,Clarksville,,,MD,,,,0
+6556730,"Lu, I-Min",Taipei,Taipei,,,TW,1,6,3,1,0,0,0,0.492606547,0.173760782,,,B212204,,,,,,,Tapei,,,,,0
+6602127,"Mitchell, Frank R.",South Pasadena,South Pasadena,,,US,1,14,3,2,0,0,0,0.418720786,0.13837488,,,B212202,,,,,,,South Pasadena,,,,,0
+6620812,"Lang, Werner",Mainz,Mainz,,,DE,1,5,3,1,0,0,0,0.486987154,0.192720621,,,B212205,,,,,,,Mainz,,,,,0
+6658523,"White, Donald R.",Warwich,Warwich,,,US,1,7,3,1,0,0,0,0.149603648,0.208195152,,,B212206,,,,,,,Warwich,,,,,0
+6660197,"Matteucci, Mark",Portola Valley,Portola Valley,,,US,1,14,3,2,0,0,0,0.763521497,0.179511262,,,B212204,,,,,,,Portola Valley,,,,,0
+6677248,"Ruppert, Stephan",Hamburg,Hamburg,,,DE,1,7,3,1,0,0,0,0.942741512,0.186034999,,,B212205,,,,,,,Hamburg,,,,,0
+6695047,"Farley, Michael D.",Burkittsville,Burkittsville,,,US,1,13,3,1,0,0,0,0.377066165,0.141143277,,,B212202,,,,,,,Burkittsville,,,,,0
+6726637,"Haug, Jurgen",Berlin,Berlin,,,DE,1,6,3,1,0,0,0,0.093673165,0.203889809,,,B212206,,,,,,,Berlin,,,,,0
+6753563,"Minagawa, Hajime",Yokohama-shi,Yokohama-shi,,,JP,1,12,3,1,0,0,0,0.20465389,0.163250378,,,B212203,,,,,,,Yokohama-shi,,,,,0
+6771589,"Forman, Adrienne",Great Neck,Great Neck,,,US,1,10,3,2,0,0,0,0.985167015,0.155205445,,,B212203,,,,,,,Great Neck,,,,,0
+6779608,"Nedzhvetskaya, Olga",Eatontown,Eatontown,,,US,1,9,3,1,0,0,0,0.996290647,0.154724177,,,B212203,,,,,,,Eatontown,,,,,0
+6780418,Lucio; Arturo,Chino Hills,Chino Hills,,,US,1,11,3,2,0,0,0,0.427526527,0.138991059,,,B212202,,,,,,,Chino Hills,,,,,0
+6817229,"Barnes, Darryl K.",Bellwood,Bellwood,,,US,1,8,3,1,0,0,0,0.711021028,0.119450431,,,B212201,,,,,,,Bellwood,,,,,0
+6869210,Stoffel Seals Corporation,Nyack,Nyack,,,US,1,5,3,1,0,0,0,0.769438667,0.139551049,,,B212202,Stoffel Seals Corporation,,,,Nyack,,,,,,,0
+6880892,"Waldner, Thomas",Malmo,Malmo,,,SE,1,5,3,1,0,0,0,0.702297659,0.202167592,,,B212206,,,,,,,Malmo,,,,,0
+6881046,"Wu, Sheng-Fu",Kaohsiung,Kaohsiung,,,TW,1,9,3,1,0,0,0,0.612553557,0.133933178,,,B212202,,,,,,,Kaohsiung,,,,,0
+6885678,Starks; Jimmy A.,Bossier City,Bossier City,,,US,1,12,3,2,0,0,0,0.46610035,0.14503158,,,B212202,,,,,,,Bossier City,,,,,0
+6889444,"Meehan, Tom",New York,New York,,,US,1,8,3,2,0,0,0,0.404616256,0.099859222,,,EXAMPLE,,,,,,,New York,,,,,0
+6915024,"Maeda, Takeaki",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.369729164,0.196820059,,,B212205,,,,,,,Tokyo,,,,,0
+6936036,"Ogata, Nobuhito",Tenri,Tenri,,,JP,1,5,3,1,0,0,0,0.049030709,0.190778772,,,B212205,,,,,,,Tenri,,,,,0
+6968179,"Frazier, Stanley J.",Seattle,Seattle,,,US,1,7,3,1,0,0,0,0.816843615,0.097721793,,,EXAMPLE,,,,,,,Seattle,,,,,0
+6990075,R. S. Owens and Company,"Chicago,IL",Chicago IL,,,US,1,10,3,2,0,0,0,0.796044389,0.203507751,,,B212206,,,,,,,Chicago,IL,,,,0
+7003850,Weber; Jean-Marc,CH-8620 Wetzikon,CH-8620 Wetzikon,8620,,CH,1,16,3,2,1,0,4,0.860103514,0.115784995,,,B212201,,,,,,CH-8620,Wetzikon,,,,,0
+7068702,"Fujiwara, Chie",Kurashiki,Kurashiki,,,JP,1,9,3,1,0,0,0,0.986464446,0.195302859,,,B212205,,,,,,,Kurashiki,,,,,0
+7154955,"Mulligan, Seamus",Monksland,Monksland,,,IE,1,9,3,1,0,0,0,0.928109862,0.120424735,,,B212201,,,,,Monksland,,,,,,,0
+7161234,"Garbacz, Jr., William F.","219 Locust Rd.,Fort Washington,PA,19034",219 Locust Rd. Fort Washington PA 19034,219 19034,219,US,1,39,1,7,2,1,8,0.094109916,0.206460972,,,B212206,,,Locust Rd.,219,,19034,Fort Washington,PA,,,,1
+7163817,"Voigtlander, Klaus",Wangen,Wangen,,,DE,1,6,3,1,0,0,0,0.01030914,0.168526202,,,B212204,,,,,,,Wangen,,,,,0
+7188314,"Hel, Zdenek","Rockville,MD",Rockville MD,,,US,1,12,3,2,0,0,0,0.118520247,0.15509624,,,B212203,,,,,,,Rockville,MD,,,,0
+7197270,de Buda; Eric G.,"Toronto, Ontario",Toronto Ontario,,,CA,1,16,3,2,0,0,0,0.8698989,0.102138687,,,EXAMPLE,,,,,,,Toronto,Ontario,,,,0
+7213793,"Cambron, Anne-France Gabrielle Jeanne-Marie",Luxembourg,Luxembourg,,,LU,1,10,3,1,0,0,0,0.282664885,0.189885963,,,B212205,,,,,,,Luxembourg,,,,,0
+7220255,"Matsubara, Yasushi",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.285922024,0.13115904,,,B212202,,,,,,,Tokyo,,,,,0
+7233257,"Peppiette, Roger",Shrewsbury,Shrewsbury,,,US,1,10,3,1,0,0,0,0.733157859,0.181993628,,,B212205,,,,,,,Shrewsbury,,,,,0
+7234815,"Bollan, Michael K.",Charleston,Charleston,,,US,1,10,3,1,0,0,0,0.392465119,0.194113674,,,B212205,,,,,,,Charleston,,,,,0
+7250497,"Murai, Hideya",Sodegaura,Sodegaura,,,JP,1,9,3,1,0,0,0,0.831565978,0.164374196,,,B212203,,,,,,,Sodegaura,,,,,0
+7297393,"Sentor Technologies, Inc.","Glen Allen,VA",Glen Allen VA,,,US,1,13,3,3,0,0,0,0.752102444,0.161752632,,,B212203,,,,,Glen Allen,,,VA,,,,0
+7320724,"Herb, Rolf",Frankenthal,Frankenthal,,,DE,1,11,3,1,0,0,0,0.030967954,0.204647021,,,B212206,,,,,,,Frankenthal,,,,,0
+7354948,"Ono, Eiichi",Toyota,Toyota,,,JP,1,6,3,1,0,0,0,0.584014769,0.116483064,,,B212201,Toyota,,,,,,,,,,,0
+7384980,"Johnson, Karen T.",Santa Monica,Santa Monica,,,US,1,12,3,2,0,0,0,0.078457731,0.136118402,,,B212202,,,,,,,Santa Monica,,,,,0
+7390538,"Rare Earth Medical, Inc.",West Yarmouth,West Yarmouth,,,US,1,13,3,2,0,0,0,0.843469553,0.167935756,,,B212204,,,,,,,West Yarmouth,,,,,0
+7390556,"Morgan, Michael W.",Camarillo,Camarillo,,,US,1,9,3,1,0,0,0,0.248579429,0.142300782,,,B212202,,,,,,,Camarillo,,,,,0
+7408880,"Batschari, Constantin",61118 Bad Vilbel,61118 Bad Vilbel,61118,,DE,1,16,3,3,1,0,5,0.957045703,0.17117813,,,B212204,,,,,,61118,Bad Vilbel,,,,,0
+7414538,SSI Schaefer Peen GmbH,Graz,Graz,,,AT,1,4,3,1,0,0,0,0.632964523,0.181766617,,,B212205,,,,,,,Graz,,,,,0
+7415980,"Friedlund, Richard H.",Jackson,Jackson,,,US,1,7,3,1,0,0,0,0.435609995,0.198902128,,,B212206,,,,,,,Jackson,,,,,0
+7423826,"Pellegatti, Giampaolo",Ferrara,Ferrara,,,IT,1,7,3,1,0,0,0,0.158798293,0.172054864,,,B212204,,,,,,,Ferrara,,,,,0
+7438551,"Gaillac, David",Thiais,Thiais,,,FR,1,6,3,1,0,0,0,0.242115113,0.153165674,,,B212203,,,,,,,Thiais,,,,,0
+7440231,"Nelson, Llewellyn W.",Elizabethtown,Elizabethtown,,,US,1,13,3,1,0,0,0,0.014525521,0.156261688,,,B212203,,,,,,,Elizabethtown,,,,,0
+7472628,"Koss, Herbert",Hildesheim,Hildesheim,,,DE,1,10,3,1,0,0,0,0.306024518,0.189028314,,,B212205,,,,,,,Hildesheim,,,,,0
+7476131,"UMESH, Anil","c/o NTT DoCoMo, Inc., SANNO PARK TOWER,Tokyo",c/o NTT DoCoMo Inc. SANNO PARK TOWER Tokyo,,,JP,1,44,1,8,0,0,0,0.605624838,0.171041469,,,B212204,NTT DoCoMo,SANNO PARK TOWER,,,,,Tokyo,,,,,0
+7481308,"Tang, Delia C.",Bethesda,Bethesda,,,US,1,8,3,1,0,0,0,0.392046717,0.127003595,,,B212201,,,,,Bethesda,,,,,,,0
+7486926,"Woods, Samuel G.",Bel Air,Bel Air,,,US,1,7,3,2,0,0,0,0.074348528,0.148062973,,,B212203,,,,,Bel Air,,,,,,,0
+7495075,"Henrich, Nolan","Chesterfield,VA",Chesterfield VA,,,US,1,15,3,2,0,0,0,0.437147529,0.190166575,,,B212205,,,,,,,Chesterfield,VA,,,,0
+7506225,"Moore, Jr., James E.",San Antonio,San Antonio,,,US,1,11,3,2,0,0,0,0.265917875,0.129982484,,,B212201,,,,,,,San Antonio,,,,,0
+7541441,"Terai, Masanori",Kanagawa,Kanagawa,,,JP,1,8,3,1,0,0,0,0.996442418,0.146639219,,,B212202,,,,,,,,Kanagawa,,,,0
+7549726,"Springer, Gilbert D.",Alameda,Alameda,,,US,1,7,3,1,0,0,0,0.233897243,0.123108717,,,B212201,,,,,,,Alameda,,,,,0
+7567765,"Demircan, Niyazi",Derby,Derby,,,GB,1,5,3,1,0,0,0,0.575952002,0.12034239,,,B212201,,,,,,,Derby,,,,,0
+7640595,"Quattrini, Paul J.","Amherst,NY",Amherst NY,,,US,1,10,3,2,0,0,0,0.465548925,0.100256048,,,EXAMPLE,,,,,,,Amherst,NY,,,,0
+7655208,Kughn; Richard P.,Detroit,Detroit,,,US,1,7,3,1,0,0,0,0.446385693,0.172811688,,,B212204,,,,,,,Detroit,,,,,0
+7671550,"Yamamoto, Seiji",Shizuoka,Shizuoka,,,JP,1,8,3,1,0,0,0,0.171722503,0.205580839,,,B212206,,,,,,,Shizuoka,,,,,0
+7684099,"Hook, Richard Bradford",Sharonville,Sharonville,,,US,1,11,3,1,0,0,0,0.860084844,0.194824465,,,B212205,,,,,Sharonville,,,,,,,0
+7687952,"Uchida, Masahiro",Chino-shi,Chino-shi,,,JP,1,9,3,1,0,0,0,0.351350831,0.122269535,,,B212201,,,,,,,Chino-shi,,,,,0
+7714205,"Wolford, Todd A.","Goshen,IN",Goshen IN,,,US,1,9,3,2,0,0,0,0.454517752,0.191548074,,,B212205,,,,,,,Goshen,IN,,,,0
+7717770,"Fukunaga, Seiki",Yono,Yono,,,JP,1,4,3,1,0,0,0,0.670810296,0.193735512,,,B212205,,,,,,,Yono,,,,,0
+7731588,"Schadt, Eric E.","Kirkland,WA",Kirkland WA,,,US,1,11,3,2,0,0,0,0.030170146,0.180446554,,,B212205,,,,,,,Kirkland,WA,,,,0
+7759210,"Hatata, Kenichi",Kobe-city,Kobe-city,,,JP,1,9,3,1,0,0,0,0.9132174,0.098841603,,,EXAMPLE,,,,,,,Kobe-city,,,,,0
+7774453,"Ehler, Guy W.",Easton,Easton,,,US,1,6,3,1,0,0,0,0.700985472,0.197576115,,,B212206,,,,,,,Easton,,,,,0
+7789160,"McGeough, Joseph A.",Aberdeen,Aberdeen,,,GB,1,8,3,1,0,0,0,0.222979958,0.180362973,,,B212205,,,,,,,Abderdeen,,,,,0
+7823325,"Rammal, Muhammad I.",Bay City,Bay City,,,US,1,8,3,2,0,0,0,0.386993152,0.161954748,,,B212203,,,,,,,Bay City,,,,,0
+7889589,"Peterson, Paul","New Prague,MN",New Prague MN,,,US,1,13,3,3,0,0,0,0.444345831,0.126908545,,,B212201,,,,,New Prague,,,MN,,,,0
+7894421,"Cabella, Paolo",Turin,Turin,,,IT,1,5,3,1,0,0,0,0.029361795,0.211282755,,,B212206,,,,,,,Turin,,,,,0
+7896360,"Kawasaki, Shinsaku",Wakayama,Wakayama,,,JP,1,8,3,1,0,0,0,0.378060287,0.199985837,,,B212206,,,,,,,Wakayama,,,,,0
+7924180,Van de Wiele; N.V. Michel,Kortrijk Marke,Kortrijk Marke,,,BE,1,14,3,2,0,0,0,0.28127531,0.130430218,,,B212201,,,,,,,Kortrijk Marke,,,,,0
+7929175,"Hauff, Werner",Ballmertshofen,Ballmertshofen,,,DE,1,14,3,1,0,0,0,0.178843261,0.185051809,,,B212205,,,,,Ballmertshofen,,,,,,,0
+7955413,Hall; Craig A.,Crofton,Crofton,,,US,1,7,3,1,0,0,0,0.515080991,0.12064423,,,B212201,,,,,,,Crofton,,,,,0
+7979530,"Der-Balian, Georges",Mountain View,Mountain View,,,US,1,13,3,2,0,0,0,0.560657023,0.155878165,,,B212203,,,,,,,Mountain View,,,,,0
+7982300,"Verga, Jose A.","Baldwin Park,CA",Baldwin Park CA,,,US,1,15,3,3,0,0,0,0.580934261,0.131009079,,,B212202,,,Baldwin Park,,,,,CA,,,,0
+8045147,"Metsig, John",Barrington,Barrington,,,US,1,10,3,1,0,0,0,0.862626824,0.195766462,,,B212205,,,,,Barrington,,,,,,,0
+8045680,"Shay, III, Robert J.",Park City,Park City,,,US,1,9,3,2,0,0,0,0.103886106,0.177883818,,,B212204,,,,,,,Park City,,,,,0
+8063719,"Winterholler, Cohann",Friedberg,Friedberg,,,DE,1,9,3,1,0,0,0,0.143979876,0.19843057,,,B212206,,,,,,,Friedberg,,,,,0
+8067814,"Leeson, Paul David",Congerstone,Congerstone,,,GB,1,11,3,1,0,0,0,0.565689813,0.124721172,,,B212201,,,,,,,Congerstone,,,,,0
+8165079,"Latham, Jr., Andrew V.",Ridgefield,Ridgefield,,,US,1,10,3,1,0,0,0,0.404749316,0.118623119,,,B212201,,,,,,,Ridgefield,,,,,0
+8192481,"Conner, Keith F.",Boonton,Boonton,,,US,1,7,3,1,0,0,0,0.150272003,0.152542012,,,B212203,,,,,,,Boonton,,,,,0
+8213027,"Sogo, Yukio",Kawasaki,Kawasaki,,,JP,1,8,3,1,0,0,0,0.183541106,0.129277528,,,B212201,,,,,,,Kawasaki,,,,,0
+8223137,"Takayanagi, Keiichi",Isesaki-shi,Isesaki-shi,,,JP,1,11,3,1,0,0,0,0.483484845,0.189385798,,,B212205,,,,,,,Isesaki-chi,,,,,0
+8232861,Gorbatov; Vasily Matveevich,Moscow,Moscow,,,RU,1,6,3,1,0,0,0,0.090407485,0.152497157,,,B212203,,,,,,,Moscow,,,,,0
+8260762,"Pelleg, Dan",Haifa,Haifa,,,IL,1,5,3,1,0,0,0,0.881180413,0.203548516,,,B212206,,,,,,,Haifa,,,,,0
+8279662,"Luheshi, Abdul B. N.",Hull,Hull,,,GB,1,4,3,1,0,0,0,0.739419807,0.1932693,,,B212205,,,,,,,Hull,,,,,0
+8338443,"Honda, Kazuhiko",Fukaya,Fukaya,,,JP,1,6,3,1,0,0,0,0.370611263,0.185667461,,,B212205,,,,,,,Fukaya,,,,,0
+8360640,"Palsulich, William G.",Lakewood,Lakewood,,,US,1,8,3,1,0,0,0,0.554079918,0.159031795,,,B212203,,,,,,,Lakewood,,,,,0
+8365017,"Mikelsaar, Marika",Tartu,Tartu,,,EE,1,5,3,1,0,0,0,0.600763,0.156346328,,,B212203,,,,,,,Tartu,,,,,0
+8390347,"Satoh, Yousuke",Wako,Wako,,,JP,1,4,3,1,0,0,0,0.438430525,0.188382321,,,B212205,,,,,,,Wako,,,,,0
+8393346,"Walters, Richard E.","Columbia,MD",Columbia MD,,,US,1,11,3,2,0,0,0,0.094067193,0.156651512,,,B212203,,,,,,,Columbia,MD,,,,0
+8397855,"Yamasaki, Yoshimari",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.005036671,0.211558967,,,B212206,,,,,,,Tokyo,,,,,0
+8469740,"Vallin, ?sa",Enskede,Enskede,,,SE,1,7,3,1,0,0,0,0.717436775,0.213499192,,,B212206,,,,,Enskede,,Enskede,,,,,0
+8513076,"Biali, Fabian Isaac",Buenos Aires,Buenos Aires,,,AR,1,12,3,2,0,0,0,0.438105863,0.196536325,,,B212205,,,,,,,Buenos Aires,,,,,0
+8527631,"Fewster, Paul Frederick",Brighton,Brighton,,,GB,1,8,3,1,0,0,0,0.800484061,0.132990623,,,B212202,,,,,,,Brighton,,,,,0
+8529463,"Thalhammer, Michaela",Freising,Freising,,,DE,1,8,3,1,0,0,0,0.38828757,0.164423173,,,B212204,,,,,,85354,Freising,,,,,0
+8530796,Sherman; Richard W.,Chillicothe,Chillicothe,,,US,1,11,3,1,0,0,0,0.250850793,0.126571631,,,B212201,,,,,Chillicothe,,,,,,,0
+8587974,"Muller, Beat W",Therwil/BL,Therwil/BL,,,CH,1,10,3,1,0,0,0,0.532657133,0.182946204,,,B212205,,,,,,,Therwil,BL,,,,0
+8592343,"Yasuda, Issey",Kadoma,Kadoma,,,JP,1,6,3,1,0,0,0,0.220781538,0.127488474,,,B212201,,,,,,,Kadoma,,,,,0
+8625987,"Hasskamp, Paul R.",Cockeysville,Cockeysville,,,US,1,12,3,1,0,0,0,0.90452548,0.101287236,,,EXAMPLE,,,,,,,Cockeysville,,,,,0
+8636276,"MacDonald, John",Swindon,Swindon,,,GB,1,7,3,1,0,0,0,0.172117067,0.183149255,,,B212205,,,,,,,Swindon,,,,,0
+8653922,"Sigona, Michael R.",Knoxville,Knoxville,,,US,1,9,3,1,0,0,0,0.680973918,0.197847436,,,B212206,,,,,,,Knoxville,,,,,0
+8701205,"Levinson, Leo",Berkeley,Berkeley,,,US,1,8,3,1,0,0,0,0.167744751,0.116585526,,,B212201,,,,,,,Berkeley,,,,,0
+8716344,"Ho, Chien-Kang",Taipei,Taipei,,,TW,1,6,3,1,0,0,0,0.628805646,0.172558504,,,B212204,,,,,,,Taipei,,,,,0
+8721648,"Rowney, John D.",Plano,Plano,,,US,1,5,3,1,0,0,0,0.157605772,0.189496136,,,B212205,,,,,,,Plano,,,,,0
+8724603,"Hungerford, Jr., Charles S.",New Canaan,New Canaan,,,US,1,10,3,2,0,0,0,0.157047481,0.121117699,,,B212201,,,,,,,New Canaan,,,,,0
+8728863,Koh Young Technology Inc,"605, 5-Cha, 493 Daerung-tchno Town,Seoul City,153-023",605 5-Cha 493 Daerung-tchno Town Seoul City 153-023,605 5 493 153023,605,KR,1,53,1,8,4,1,13,0.367397196,0.123259779,,,B212201,,,5-Cha,605,493 Daerung-tchno,153-023,Seoul City,,,,,1
+8742727,"Jaillet, Peter D.",Carrollton,Carrollton,,,US,1,10,3,1,0,0,0,0.849730975,0.155842914,,,B212203,,,,,,,Carrollton,,,,,0
+8758654,"Hausler, George C.",Maple Grove,Maple Grove,,,US,1,11,3,2,0,0,0,0.678701971,0.128474059,,,B212201,,,,,,,Maple Grove,,,,,0
+8882251,Kenmore Thermokalte GmbH,Bleicherode,Bleicherode,,,DE,1,11,3,1,0,0,0,0.33918926,0.213210201,,,B212206,,,,,,,Bleicherode,,,,,0
+8891095,"HO, Ka Yee","Flat F, 5/F, Block 18, La Pradera, 99 Tai Tong,Hong Kong",Flat F 5/F Block 18 La Pradera 99 Tai Tong Hong Kong,5 18 99,5/,HK,1,56,1,12,3,1,5,0.796237437,0.146056616,,,B212202,,"Flat F, 5/F, Block 18",La Pradera,99,Tai Tong,,Hong Kong,,,,,1
+8910715,"Nishioka, Takuya",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.978010059,0.128981018,,,B212201,,,,,,,Tokyo,,,,,0
+8919053,"MediaOne Group, Inc,",Denver,Denver,,,US,1,6,3,1,0,0,0,0.28894604,0.152503436,,,B212203,,,,,,,Denver,,,,,0
+8920509,"Bendall, Albert R.",San Diego,San Diego,,,US,1,9,3,2,0,0,0,0.947461832,0.172332294,,,B212204,,,,,,,San Diego,,,,,0
+8934990,"Timely Innovations, LP",Temecula,Temecula,,,US,1,8,3,1,0,0,0,0.51296722,0.19748349,,,B212206,,,,,,,Temecula,,,,,0
+8941771,"Amano, Mitsuo",Shizuoka,Shizuoka,,,JP,1,8,3,1,0,0,0,0.85127869,0.117558264,,,B212201,,,,,,,,Shizuoka,,,,0
+8959164,"Ukai, Tohiyuki",Sagamihara,Sagamihara,,,JP,1,10,3,1,0,0,0,0.788039186,0.144810817,,,B212202,,,,,,,Sagamihara,,,,,0
+8962398,"Yoshida, Fumitake",Kyoto,Kyoto,,,JP,1,5,3,1,0,0,0,0.224935235,0.097194164,,,EXAMPLE,,,,,,,Kyoto,,,,,0
+8979894,"Alderson, Robert C.",Greenwood,Greenwood,,,US,1,9,3,1,0,0,0,0.372769078,0.122439297,,,B212201,,,,,,,Greenwood,,,,,0
+8984641,"Yao, Yasuhisa",Hyogo,Hyogo,,,JP,1,5,3,1,0,0,0,0.58250881,0.180604472,,,B212205,,,,,,,,Hyogo,,,,0
+8987676,"Ogawa, Jinichi",Matsue-shi,Matsue-shi,,,JP,1,10,3,1,0,0,0,0.738040171,0.157219105,,,B212203,,,,,,,Matsue-shi,,,,,0
+9004569,"Aoki, Nobuo",Yokohama-shi,Yokohama-shi,,,JP,1,12,3,1,0,0,0,0.851216596,0.191703115,,,B212205,,,,,Yucheon-dong,,Yokohama-chi,,,,,0
+9029503,CONVE LTD.,"An Australian Company of Level 3, Legal & General,Perth,6000",An Australian Company of Level 3 Legal & General Perth 6000,3 6000,3,AU,1,60,1,11,2,1,5,0.533325373,0.12948424,,,B212201,Legal & General,,,,,6000,Perth,,,,,0
+9031377,"Raney, Kirk H.",Sugar Land,Sugar Land,,,US,1,10,3,2,0,0,0,0.382511666,0.184262874,,,B212205,,,,,,,Sugar Land,,,,,0
+9055608,"Jost, Philippe",Paris,Paris,,,FR,1,5,3,1,0,0,0,0.539952926,0.12806189,,,B212201,,,,,,,Paris,,,,,0
+9058927,"Oh, Seung Hoon","Daedong Apt. 104-303,Osan-si, Kyungki-do,447-010",Daedong Apt. 104-303 Osan-si Kyungki-do 447-010,104303 447010,104-,MD,1,48,1,6,2,1,12,0.46049624,0.16788091,,,B212204,,,Daedong,104-303,Osan-si,447-010,Kyungki-do,,,,,1
+9076002,"Niigata Seimitsu Co., Ltd.","Niigata,943-0834",Niigata 943-0834,9430834,943-,JP,1,16,3,2,1,1,7,0.000395565,0.193237313,,,B212205,,,,,,943-0834,Niigata,,,,,0
+9115231,"Kuo, Ming-Huang",Taipei Hsien,Taipei Hsien,,,TW,1,12,3,2,0,0,0,0.623163821,0.167737494,,,B212204,,,,,,,Taipei Hsien,,,,,0
+9124168,"Ma, Dong Kwan","Mogryendong APT. 805-506, Hogye-dong 1053-4, Dongan-gu,Anyang-si, Gyeonggi-do",Mogryendong APT. 805-506 Hogye-dong 1053-4 Dongan-gu Anyang-si Gyeonggi-do,805506 10534,805-,KR,1,77,1,8,2,1,11,0.840821652,0.114932621,,,B212201,,Mogryendong APT. 805-506,Hogye-dong 1053-4,,Dongan-gu,,Anyang-si,Gyeonggi-do,,,,1
+9143170,"Taketsugu, Hiroshi",Takasago,Takasago,,,JP,1,8,3,1,0,0,0,0.890497175,0.122224687,,,B212201,,,,,,,Takasago,,,,,0
+9177714,"Han, Hyo-jin",Taegu,Taegu,,,KR,1,5,3,1,0,0,0,0.174911909,0.187578458,,,B212205,,,,,,,Taegu,,,,,0
+9194128,"Phillips Petroleum Co., Inc.",Bartlesville,Bartlesville,,,US,1,12,3,1,0,0,0,0.600688501,0.160112604,,,B212203,,,,,,,Bartlesville,,,,,0
+9201355,"Andres, Peter",Hoccheim,Hoccheim,,,DE,1,8,3,1,0,0,0,0.476570695,0.116582372,,,B212201,,,,,,,Hoccheim,,,,,0
+9225646,"Gonzalez Marti, Carlos",Madrid,Madrid,,,ES,1,6,3,1,0,0,0,0.050546945,0.201940717,,,B212206,,,,,,,Madrid,,,,,0
+9293322,"Boysko, Glenn J.","Herndon,VA",Herndon VA,,,US,1,10,3,2,0,0,0,0.661974285,0.177021421,,,B212204,,,,,,,Herndon,VA,,,,0
+9335398,"Nagato, Yasuhiro",Nobeoka,Nobeoka,,,JP,1,7,3,1,0,0,0,0.872142848,0.161989739,,,B212203,,,,,,,Nobeoka,,,,,0
+9358110,Univ of Queensland,St. Lucia,St. Lucia,,,AU,1,9,3,2,0,0,0,0.27333684,0.188010602,,,B212205,,,,,,,,St. Lucia,,,,0
+9384610,Lin; Jen-Cheng,"9Fl., No. 786, Chung-Cheng Rd.,Chung-Ho City, Taipei Hsien",9Fl. No. 786 Chung-Cheng Rd. Chung-Ho City Taipei Hsien,9 786,9F,TW,1,58,1,9,2,1,4,0.127970673,0.162746085,,,B212203,,9Fl.,Chung-Cheng Rd.,No. 786,Chung-Ho City,,Taipei Hsien,,,,,1
+9393386,D'Ath; Philip O.,Mira Loma,Mira Loma,,,US,1,9,3,2,0,0,0,0.52328148,0.150674542,,,B212203,,,,,,,Mira Loma,,,,,0
+9414256,Trunkle; Timothy,Charleston,Charleston,,,US,1,10,3,1,0,0,0,0.805038923,0.132600088,,,B212202,,,,,,,Charleston,,,,,0
+9425312,"Platonov, Juri",Munich,Munich,,,DE,1,6,3,1,0,0,0,0.914802799,0.183515142,,,B212205,,,,,,,Munich,,,,,0
+9440061,"Ying, Zhang",Beijing,Beijing,,,CN,1,7,3,1,0,0,0,0.687251887,0.179191509,,,B212204,,,,,,,Beijing,,,,,0
+9453943,"Hruschka, Herbert",Kreuzlingen,Kreuzlingen,,,CH,1,11,3,1,0,0,0,0.657639682,0.118464781,,,B212201,,,,,,,Kreuzlingen,,,,,0
+9472642,"Iwai, Kunio",Inzai,Inzai,,,JP,1,5,3,1,0,0,0,0.552186007,0.183538357,,,B212205,,,,,,,Inzai,,,,,0
+9473797,"Takahashi, Yasumasa",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.312349788,0.197805566,,,B212206,,,,,,,Tokyo,,,,,0
+9491380,Mike Corporation,Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.45074087,0.161630515,,,B212203,,,,,,,Tokyo,,,,,0
+9491397,"Hedman, Per O.",Upplands Vasby,Upplands Vasby,,,SE,1,14,3,2,0,0,0,0.768717068,0.173132596,,,B212204,,,,,Upplands VÑsby,,,,,,,0
+9503702,Shepherd; Mark Stephen,Stockton,Stockton,,,US,1,8,3,1,0,0,0,0.810787556,0.144678763,,,B212202,,,,,,,Stockton,,,,,0
+9551214,"Hu, Zhiping","San Diego,CA",San Diego CA,,,US,1,12,3,3,0,0,0,0.278294098,0.096756564,,,EXAMPLE,,,,,,,San Diego,CA,,,,0
+9587384,"Womack, Michael G.",Knoxville,Knoxville,,,US,1,9,3,1,0,0,0,0.467592725,0.171349501,,,B212204,,,,,Knoxville,,,,,,,0
+9591711,"Hatti, Mallinath",Bangalore,Bangalore,,,IN,1,9,3,1,0,0,0,0.986829254,0.211555456,,,B212206,,,,,,,Bangalore,,,,,0
+9606759,"Paudler, Gary",Summerland,Summerland,,,US,1,10,3,1,0,0,0,0.437126259,0.141270448,,,B212202,,,,,,,Summerland,,,,,0
+9627851,"Miller, Grover","5712 Riverview Rd.,Peninsula,OH,44264",5712 Riverview Rd. Peninsula OH 44264,5712 44264,,US,1,37,1,6,2,0,9,0.165846357,0.207162154,,,B212206,,,Riverview Rd,5712,,44264,Peninsula,OH,,,,1
+9667199,"Gardier, Patrick",Villeurbanne,Villeurbanne,,,FR,1,12,3,1,0,0,0,0.662482239,0.144914542,,,B212202,,,,,,,Villeurbanne,,,,,0
+9722204,"Mahaney, Joseph B.",Pueblo West,Pueblo West,,,US,1,11,3,2,0,0,0,0.876867854,0.094577364,,,EXAMPLE,,,,,,,Pueblo West,,,,,0
+9741294,Nanyang Polytechnic,"180 Ang Mo Kio Avenue 8,Singapore,569830",180 Ang Mo Kio Avenue 8 Singapore 569830,180 8 569830,180,SG,1,40,1,8,3,1,10,0.981810938,0.126454574,,,B212201,,,Ang Mo Kio Avenue 8,180,,569830,Singapore,,,,,1
+9756712,"Bohn, Heinz",Rullstorf,Rullstorf,,,DE,1,9,3,1,0,0,0,0.828213284,0.163706389,,,B212203,,,,,,,Rullstorf,,,,,0
+9770728,"Manwell, Richard C.",Millington,Millington,,,US,1,10,3,1,0,0,0,0.929930204,0.101263904,,,EXAMPLE,,,,,,,Millington,,,,,0
+9771382,"Eul, William A.",Seattle,Seattle,,,US,1,7,3,1,0,0,0,0.813314367,0.124947364,,,B212201,,,,,,,Seattle,,,,,0
+9790682,"Looker, Douglas L.","Fort Lupton,CO",Fort Lupton CO,,,US,1,14,3,3,0,0,0,0.150502054,0.166169482,,,B212204,,,,,,,Fort Lupton,CO,,,,0
+9821507,"Moody, Gordon L.",Tracy,Tracy,,,US,1,5,3,1,0,0,0,0.320692514,0.174563769,,,B212204,,,,,Tracy,,,,,,,0
+9823146,"Potter, Christine",Baltimore,Baltimore,,,US,1,9,3,1,0,0,0,0.114925066,0.15773134,,,B212203,,,,,,,Baltimore,,,,,0
+9833694,Piattoni; Louis J.,Chicago Heights,Chicago Heights,,,US,1,15,3,2,0,0,0,0.505554981,0.164573996,,,B212204,,,,,Cook,60411,Chicago Heights,,,,,0
+9873979,"Francisco, Frank F.",Easton,Easton,,,US,1,6,3,1,0,0,0,0.558970061,0.190695783,,,B212205,,,,,,,Easton,,,,,0
+9906497,"Capdevila, Claudio",Barcelona 16,Barcelona 16,16,16,ES,1,12,3,2,1,1,2,0.956777153,0.16233291,,,B212203,,,,16,,,Barcelona,,,,,0
+9910367,"Riley, Daniel Innis",West Melbourne,West Melbourne,,,US,1,14,3,2,0,0,0,0.853539072,0.181529838,,,B212205,,,,,,,West Melbourne,,,,,0
+9916862,"Endou, Nobuyuki",Koriyama,Koriyama,,,JP,1,8,3,1,0,0,0,0.019080764,0.149169707,,,B212203,,,,,,,Koriyama,,,,,0
+9948635,"Tanohka, Hitoshi",Osaka,Osaka,,,JP,1,5,3,1,0,0,0,0.056789167,0.146020367,,,B212202,,,,,,,Osaka,,,,,0
+9957345,Shadrin; Nikolai I.,Donetsk,Donetsk,,,SU,1,7,3,1,0,0,0,0.579736013,0.160919662,,,B212203,,,,,,,Donetsk,,,,,0
+9960637,"Suvamakich, Kuntinee","Seattle,WA",Seattle WA,,,US,1,10,3,2,0,0,0,0.665236371,0.149812849,,,B212203,,,,,,,Seattle,WA,,,,0
+10006330,"Nikkel, Janna Marie",Christchurch,Christchurch,,,NZ,1,12,3,1,0,0,0,0.764379136,0.190293398,,,B212205,,,,,,,Christchurch,,,,,0
+10016896,"Wright, John A.",Arlington,Arlington,,,US,1,9,3,1,0,0,0,0.196950637,0.140054573,,,B212202,,,,,,,Arlington,,,,,0
+10065832,Gay; Charles C.,Bellville,Bellville,,,US,1,9,3,1,0,0,0,0.516463363,0.211899312,,,B212206,,,,,,,Bellville,,,,,0
+10093217,"Murphy, Donald J.","Valdosta,GA",Valdosta GA,,,US,1,11,3,2,0,0,0,0.510904056,0.207530232,,,B212206,,,,,,,Valdosta,GA,,,,0
+10155491,"Miyake, Kiyotaka",Higashi-yamato,Higashi-yamato,,,JP,1,14,3,1,0,0,0,0.775950773,0.177638928,,,B212204,,,,,,,Higashi-yamato,,,,,0
+10178270,"Fields, Thomas Joseph","Annandale,VA",Annandale VA,,,US,1,12,3,2,0,0,0,0.512138764,0.100512198,,,EXAMPLE,,,,,,,Annandale,VA,,,,0
+10183674,"Houck, Phil",Calgary,Calgary,,,CA,1,7,3,1,0,0,0,0.703187959,0.097042677,,,EXAMPLE,,,,,,,Calgary,,,,,0
+10191024,"Chase, Stephen E.","Jarreitsulle,MD",Jarreitsulle MD,,,US,1,15,3,2,0,0,0,0.31079266,0.201633694,,,B212206,,,,,,,Jarreitsulle,MD,,,,0
+10191144,Linjawi; Kareem O.,Jeddah,Jeddah,,,SA,1,6,3,1,0,0,0,0.30413138,0.094726256,,,EXAMPLE,,,,,,,Jeddah,,,,,0
+10201131,"Gryaznov, Dmitry O.","Portland,OR",Portland OR,,,US,1,11,3,2,0,0,0,0.021273506,0.197437379,,,B212205,,,,,,,Portland,OR,,,,0
+10202874,"Gauthler, Jr., Robert J.","Hinesburg,VT",Hinesburg VT,,,US,1,12,3,2,0,0,0,0.287936825,0.201399064,,,B212206,,,,,,,Hinesburg,VT,,,,0
+10203329,Wells; Lisalee Ann,Long Beach,Long Beach,,,US,1,10,3,2,0,0,0,0.175973901,0.125562163,,,B212201,,,,,,,Long Beach,,,,,0
+10216403,"Kwong, Wah S.",Stafford,Stafford,,,GB,1,8,3,1,0,0,0,0.716385331,0.172623769,,,B212204,,,,,Stafford,,,,,,,0
+10293806,"Chow, Hong-Jien",Taichung city,Taichung city,,,TW,1,13,3,2,0,0,0,0.411296537,0.136859477,,,B212202,,,,,,,Taichung city,,,,,0
+10298243,"Yesinowski, James P.",Fort Washington,Fort Washington,,,US,1,15,3,2,0,0,0,0.796496244,0.157867942,,,B212203,,,,,,,Fort Washington,,,,,0
+10327043,Lamb; George D.,Longmont,Longmont,,,US,1,8,3,1,0,0,0,0.378316101,0.17447801,,,B212204,,,,,Longmont,,,,,,,0
+10371881,"Kim, Yeung Jun","Placentia,CA",Placentia CA,,,US,1,12,3,2,0,0,0,0.836256253,0.165526497,,,B212204,,,,,,,Placentia,CA,,,,0
+10393213,"Li, Alfred","Naperville,IL",Naperville IL,,,US,1,13,3,2,0,0,0,0.37121774,0.203807572,,,B212206,,,,,,,Naperville,IL,,,,0
+10432057,"Kato, Mari",Narashino,Narashino,,,JP,1,9,3,1,0,0,0,0.988877111,0.145728616,,,B212202,,,,,,,Narashino,,,,,0
+10441106,"Katase, Kazunobu",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.532688937,0.192007785,,,B212205,,,,,,,Tokyo,,,,,0
+10491910,"Igata, Hiroyuki",Ebina,Ebina,,,JP,1,5,3,1,0,0,0,0.226887037,0.172409633,,,B212204,,,,,,,Ebina,,,,,0
+10500897,"Thomas, Ronald E.","Warren,PA",Warren PA,,,US,1,9,3,2,0,0,0,0.18738722,0.152790845,,,B212203,,,,,,,Warren,PA,,,,0
+10507272,"Ohno, Nobuo",Austin,Austin,,,US,1,6,3,1,0,0,0,0.755429104,0.159581531,,,B212203,,,,,,,Austin,,,,,0
+10509461,"Wunschl, Nicholas H.",La Grange,La Grange,,,US,1,9,3,2,0,0,0,0.73533811,0.195147435,,,B212205,,,,,La Grange,,,,,,,0
+10537271,"Tolman, Richard L.",Berkeley Heights,Berkeley Heights,,,US,1,16,3,2,0,0,0,0.842385287,0.138159545,,,B212202,,,,,,,Berkeley Heights,,,,,0
+10569588,SMS Schloemann-Siemag Aktiengesellschaft,DÅsseldorf,DÅsseldorf,,,DE,1,10,3,1,0,0,0,0.179286251,0.200566641,,,B212206,,,,,,,DÅsseldorf,,,,,0
+10569955,"Rohrbaugh, George W.",Williston,Williston,,,US,1,9,3,1,0,0,0,0.030664599,0.124845859,,,B212201,,,,,,,Williston,,,,,0
+10596982,"Okude, Kenzo",Kokubunji,Kokubunji,,,JP,1,9,3,1,0,0,0,0.45417729,0.178086156,,,B212204,,,,,,,Kokubunji,,,,,0
+10597807,Teigman; Jack,St. Petersburg,St. Petersburg,,,US,1,14,3,2,0,0,0,0.379295211,0.213575924,,,B212206,,,,,,,St. Petersburg,,,,,0
+10617485,"Kotzke, Andreas",Elmshorn,Elmshorn,,,DE,1,8,3,1,0,0,0,0.415047008,0.139851631,,,B212202,,,,,,,Elmshorn,,,,,0
+10629788,"Sandridge, Jack R.",St. Charles,St. Charles,,,US,1,11,3,2,0,0,0,0.165324134,0.177820183,,,B212204,,,,,,,St. Charles,,,,,0
+10643167,GMFanc Robotics Corporation,Auburn Hills,Auburn Hills,,,US,1,12,3,2,0,0,0,0.166009391,0.204206352,,,B212206,,,,,,,Auburn Hills,,,,,0
+10655622,"Semar, J. Lawrence",Tustin,Tustin,,,US,1,6,3,1,0,0,0,0.118675437,0.199853527,,,B212206,,,,,,,Tustin,,,,,0
+10692446,"Chadwick, Neil",St. Clair Beach,St. Clair Beach,,,CA,1,15,3,3,0,0,0,0.620681755,0.185481979,,,B212205,,,,,St. Clair Beach,,,,,,,0
+10698818,"Berg, Douglass J.","Great Falls,VA",Great Falls VA,,,US,1,14,3,3,0,0,0,0.954871239,0.132395941,,,B212202,,,,,Great Falls,,,VA,,,,0
+10701217,Stressgen Biotechnologies Corporation,Victoria,Victoria,,,  ,1,8,3,1,0,0,0,0.224342505,0.185995987,,,B212205,,,,,,,,Victoria,,,,0
+10701389,"Jackson, Graham",Oxon,Oxon,,,GB,1,4,3,1,0,0,0,0.463491907,0.129700788,,,B212201,,,,,,,Oxon,,,,,0
+10782463,"Le Maitre, Marcus John","Leesburg,VA",Leesburg VA,,,US,1,11,3,2,0,0,0,0.114732134,0.131983518,,,B212202,,,,,,,Leesburg,VA,,,,0
+10814736,"ONO, Takatoshi",Kanagawa,Kanagawa,,,JP,1,8,3,1,0,0,0,0.317597732,0.201981578,,,B212206,,,,,Kanagawa,,,,,,,0
+10815919,"Birnbaum, Ulrich",Epfenhausen,Epfenhausen,,,DE,1,11,3,1,0,0,0,0.3810146,0.140288416,,,B212202,,,,,,,Epfenhausen,,,,,0
+10825580,"Caldichoury, Anne",Saint-Cloud,Saint-Cloud,,,FR,1,11,3,1,0,0,0,0.765712782,0.212725603,,,B212206,,,,,,,Saint-Cloud,,,,,0
+10855049,"Tankersley, Lawrence L.","Annapolis,MD",Annapolis MD,,,US,1,12,3,2,0,0,0,0.056757345,0.161023336,,,B212203,,,,,,,Annapolis,MD,,,,0
+10877512,"Sano, Yuichi",Tochigi-ken,Tochigi-ken,,,JP,1,11,3,1,0,0,0,0.435030258,0.121582093,,,B212201,,,,,,,,Tochigi-ken,,,,0
+10914229,"Tada, Makoto",Hatogaya-Shi,Hatogaya-Shi,,,JP,1,12,3,1,0,0,0,0.872396948,0.191280379,,,B212205,,,,,,,Hatogaya-Shi,,,,,0
+10956562,"Golling, Manfred",NeusÑss,NeusÑss,,,DE,1,7,3,1,0,0,0,0.457881895,0.190611793,,,B212205,,,,,,,NeusÑss,,,,,0
+10983202,"Korkeakangas, Niko",Loimaa,Loimaa,,,FI,1,6,3,1,0,0,0,0.473106021,0.140102725,,,B212202,,,,,,,Loimaa,,,,,0
+11023794,"Kim, So Young",Daejeon,Daejeon,,,KR,1,7,3,1,0,0,0,0.219415843,0.146070108,,,B212202,,,,,,,Daejeon,,,,,0
+11041988,"Zielinski, Ernst",Bochum,Bochum,,,DE,1,6,3,1,0,0,0,0.399322855,0.159383986,,,B212203,,,,,,,Bochum,,,,,0
+11042971,"Cho, Sangrae",Daejeon-city,Daejeon-city,,,KR,1,12,3,1,0,0,0,0.829033642,0.129322187,,,B212201,,,,,,,Daejeon-city,,,,,0
+11060169,"Lin, Sung-Bin",Hsin-Chu City,Hsin-Chu City,,,TW,1,13,3,2,0,0,0,0.555860449,0.212611129,,,B212206,,,,,,,Hsin-Chu City,,,,,0
+11072811,"Yamagishi, Nobuyasu",Kanagawa,Kanagawa,,,JP,1,8,3,1,0,0,0,0.269515674,0.204700011,,,B212206,,,,,,,Kanagawa,,,,,0
+11103173,"Golden, Charles B.","Encinitas,CA",Encinitas CA,,,US,1,12,3,2,0,0,0,0.224154884,0.137527951,,,B212202,,,,,,,Morehouse Drive,CA,,,,0
+11112903,"Wilbur, Jason Matthew","Pasadena,CA",Pasadena CA,,,US,1,11,3,2,0,0,0,0.750794375,0.203340682,,,B212206,,,,,,,Pasadena,CA,,,,0
+11119226,"Bertelrud, Anders","Burlingame,CA",Burlingame CA,,,US,1,13,3,2,0,0,0,0.316493488,0.141300074,,,B212202,,,,,,,Burlingame,CA,,,,0
+11120617,"Feddersen, Terrance D.","Belle Plaine,MN",Belle Plaine MN,,,US,1,15,3,3,0,0,0,0.506651055,0.200099082,,,B212206,,,,,,,Belle Plaine,MN,,,,0
+11141205,"Lawrence, Kristina","Escondido,CA",Escondido CA,,,US,1,12,3,2,0,0,0,0.292531511,0.126593299,,,B212201,,,,,,,Escondido,CA,,,,0
+11160095,"Dinter-Heidorn, Heike",Hannover,Hannover,,,DE,1,8,3,1,0,0,0,0.143550674,0.120522767,,,B212201,,,,,,,Hannover,,,,,0
+11166502,"Yuasa, Hideo",Qingdao,Qingdao,,,CN,1,7,3,1,0,0,0,0.862459664,0.118156486,,,B212201,,,,,,,Qingdao,,,,,0
+11176037,Stone Island Holdings Ltd,East Sussex,East Sussex,,,GB,1,11,3,2,0,0,0,0.381578439,0.196711663,,,B212205,,,,,East Sussex,,,,,,,0
+11247403,"Peregrino, Arnold Alberto",Cagayan de Oro,Cagayan de Oro,,,PH,1,14,3,3,0,0,0,0.56432166,0.119090393,,,B212201,,,,,,,Cagayan de Oro,,,,,0
+11297755,"AVERY BIOMEDICAL DEVICES, INC.","Commack,NY",Commack NY,,,US,1,10,3,2,0,0,0,0.443035039,0.120259653,,,B212201,,,,,Commack,,,NY,,,,0
+11309030,CAMBRIDEG DISPLAY TECHNOLOGY LIMITED,Cambridgeshire,Cambridgeshire,,,GB,1,14,3,1,0,0,0,0.39659514,0.196071222,,,B212205,,,,,Cambridgeshire,,,,,,,0
+11314516,"LV, Feng","Shanghai,201203",Shanghai 201203,201203,,CN,1,15,3,2,1,0,6,0.557112317,0.201669062,,,B212206,,,,,,201203,Shanghai,,,,,0
+11326332,"Ishida, Atsushi",Nagaokakyo,Nagaokakyo,,,JP,1,10,3,1,0,0,0,0.706879484,0.159707061,,,B212203,,,,,,,Nagaokakyo,,,,,0
+11343572,"Magnusson, Elinor",Mîlnlycke,Mîlnlycke,,,SE,1,9,3,1,0,0,0,0.324125209,0.11671885,,,B212201,,,,,,,Mîlnlycke,,,,,0
+11350426,"Vercammen, Dominique",Bottelare,Bottelare,,,BE,1,9,3,1,0,0,0,0.156853239,0.153974047,,,B212203,,,,,,,Bottelare,,,,,0
+11351510,"KOHLMAIER, Martin",Bad Voelsau,Bad Voelsau,,,AT,1,11,3,2,0,0,0,0.83859658,0.142297601,,,B212202,,,,,,,Bad Voelsau,,,,,0
+11365410,"Hasbun, William M.","Mount Laurel,NJ",Mount Laurel NJ,,,US,1,15,3,3,0,0,0,0.0408218,0.120801142,,,B212201,,,,,,,Mount Laurel,NJ,,,,0
+11390766,"Bux, Wolfgang",Malans,Malans,,,CH,1,6,3,1,0,0,0,0.632831003,0.195396299,,,B212205,,,,,Malans,,,,,,,0
+11436901,"Reichert, Andrea",Emskirchen,Emskirchen,,,DE,1,10,3,1,0,0,0,0.315657076,0.123989996,,,B212201,,,,,,,Emskirchen,,,,,0
+11442243,"Rexhepi, Vlora",Den Hoorn,Den Hoorn,,,NL,1,9,3,2,0,0,0,0.48878831,0.177050618,,,B212204,,,,,,,Den Hoorn,,,,,0
+11461662,"Kang, Ji Won",Incheon,Incheon,,,KR,1,7,3,1,0,0,0,0.423954329,0.192617273,,,B212205,,,,,,,Incheon,,,,,0
+11462064,"Di, Jianbo","Palatine,IL",Palatine IL,,,US,1,11,3,2,0,0,0,0.440169205,0.157805843,,,B212203,,,,,,,Palatine,IL,,,,0
+11504151,"Jonsson, Sigurdur Vidar",Jericho,Jericho,,,GB,1,7,3,1,0,0,0,0.213289894,0.194587653,,,B212205,,,,,,,Jericho,,,,,0
+11515028,"Brehmer, Sven","Foster City,CA",Foster City CA,,,US,1,14,3,3,0,0,0,0.784269178,0.192858748,,,B212205,,,,,Foster City,,,CA,,,,0
+11548280,"Powell, Tristan Alexander",Somerset,Somerset,,,GB,1,8,3,1,0,0,0,0.040533579,0.127472926,,,B212201,,,,,,,,Somerset,,,,0
+11553699,"FETSCHER, Joachim",Schopfloch,Schopfloch,,,DE,1,10,3,1,0,0,0,0.734693208,0.210438292,,,B212206,,,,,,,Schopfloch,,,,,0
+11573864,"Ansley, Matthew B.","Muskego,WI",Muskego WI,,,US,1,10,3,2,0,0,0,0.478278325,0.158104234,,,B212203,,,,,,,Muskego,WI,,,,0
+11581678,"Eriksen, KÜre Otto",Stavanger,Stavanger,,,NO,1,9,3,1,0,0,0,0.7647687,0.146374622,,,B212202,,,,,,,Stavanger,,,,,0
+11591225,Algonquin College,Ottawa,Ottawa,,,CA,1,6,3,1,0,0,0,0.373218792,0.207090404,,,B212206,,,,,,,Ottawa,,,,,0
+11592395,One Medimmune Way,"Gaithersburg,MD",Gaithersburg MD,,,US,1,15,3,2,0,0,0,0.452339333,0.190048523,,,B212205,,,,,,,Gaithersburg,MD,,,,0
+11598798,"DiCarlo, Edward J.","Boynton Beach,FL",Boynton Beach FL,,,US,1,16,3,3,0,0,0,0.998897493,0.202064531,,,B212206,,,,,,,Boynton Beach,FL,,,,0
+11609817,"Markley, Matthew A.","Hays,KS",Hays KS,,,US,1,7,3,2,0,0,0,0.405456287,0.131502934,,,B212202,,,,,,,Hays,KS,,,,0
+11615309,"Weinberg, Shari A.","Atlanta,GA",Atlanta GA,,,US,1,10,3,2,0,0,0,0.64302649,0.116329897,,,B212201,,,,,,,Atlanta,GA,,,,0
+11625159,"Goldfield, Garrett R.","Encinitas,CA",Encinitas CA,,,US,1,12,3,2,0,0,0,0.106453566,0.13852124,,,B212202,,,,,,,Encinitas,CA,,,,0
+11631647,"Gupta, Vipin","Las Cruces,NM",Las Cruces NM,,,US,1,13,3,3,0,0,0,0.93515203,0.195327986,,,B212205,,,,,,,Las Cruces,NM,,,,0
+11642218,"Bradley, Neil","Tigard,OR",Tigard OR,,,US,1,9,3,2,0,0,0,0.470514639,0.194580801,,,B212205,,,,,Tigard,,,OR,,,,0
+11676218,"Kaur, Sukhdeep",Maharashtra,Maharashtra,,,IN,1,11,3,1,0,0,0,0.940928836,0.1282482,,,B212201,,,,,,,,Maharashtra,,,,0
+11685335,"Schneider, Uwe",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.011484982,0.124826687,,,B212201,,,,,,,Tokyo,,,,,0
+11691110,"SOMADA, Hiroki",Shizuoka,Shizuoka,,,JP,1,8,3,1,0,0,0,0.868195792,0.195820069,,,B212205,,,,,,,Shizuoka,,,,,0
+11695654,"Ma, Hua-Qiao",Shanghai,Shanghai,,,CN,1,8,3,1,0,0,0,0.574195014,0.166863156,,,B212204,,,,,,,Shanghai,,,,,0
+11706436,"Gentry, Steven Richard","The Woodlands,TX",The Woodlands TX,,,US,1,16,3,3,0,0,0,0.521150715,0.174104553,,,B212204,,,,,The Woodlands,,,TX,,,,0
+11727874,"Kasselman, Pieter R.",Dublin,Dublin,,,IE,1,6,3,1,0,0,0,0.952468618,0.191738149,,,B212205,,,,,,,Dublin,,,,,0
+11790534,"Ducy, Patricia F.","New York,,NY",New York NY,,,US,1,12,3,3,0,0,0,0.937974762,0.172272303,,,B212204,,,,,,,New-York,NY,,,,0
+11822620,"KAWAMURA, Hiromu",Takarazuka-shi,Takarazuka-shi,,,JP,1,14,3,1,0,0,0,0.955736617,0.14550513,,,B212202,,,,,,,Takarazuka-shi,,,,,0
+11832075,"LIU, Sipei",Nanjing,Nanjing,,,CN,1,7,3,1,0,0,0,0.589814286,0.143370244,,,B212202,,,,,,,Nanjing,,,,,0
+11846681,"Tajima, Nobuyasu",Chigasaki-shi,Chigasaki-shi,,,JP,1,13,3,1,0,0,0,0.662002546,0.136884315,,,B212202,,,,,,,Chigasaki-shi,,,,,0
+11859254,"Randall, Peter L.","Davie,FL",Davie FL,,,US,1,8,3,2,0,0,0,0.238240684,0.177224796,,,B212204,,,,,,,Davie,FL,,,,0
+11881137,"Brosnahan, L. Nicholas","Sunnyvale,CA",Sunnyvale CA,,,US,1,12,3,2,0,0,0,0.326982345,0.119998016,,,B212201,,,,,,,Sunnyvale,CA,,,,0
+11903674,"Suyan, Pang",Heilongjiang,Heilongjiang,,,CN,1,12,3,1,0,0,0,0.841957241,0.183893854,,,B212205,,,,,,,,Heilongjiang,,,,0
+11908510,"McCarthy, Michael Joseph","Marietta,GA",Marietta GA,,,US,1,11,3,2,0,0,0,0.550960344,0.165219241,,,B212204,,,,,Cobb,30006-08,Marietta,GA,,,,0
+11921475,"Atkins, Charles F.","Yoncalla,OR",Yoncalla OR,,,US,1,11,3,2,0,0,0,0.332273119,0.118840284,,,B212201,,,,,,,,Yoncalla;OR,,,,0
+11985514,"Hollenberg, Lloyd",Carlton,Carlton,,,AU,1,7,3,1,0,0,0,0.69742856,0.146872797,,,B212203,,,,,,,Carlton,,,,,0
+11998131,"Westlake, Paul","Warwick,RI",Warwick RI,,,US,1,10,3,2,0,0,0,0.863371328,0.151463801,,,B212203,,,,,,,Warwick,RI,,,,0
+12015964,"Whitman, Daniel W.","Howell,MI",Howell MI,,,US,1,9,3,2,0,0,0,0.167007682,0.153524178,,,B212203,,,,,,,Howell,MI,,,,0
+12029213,"Millspaugh, Michael L.","Burke,VA",Burke VA,,,US,1,8,3,2,0,0,0,0.422121278,0.190960639,,,B212205,,,,,,,Burke,VA,,,,0
+12036407,"Kusunoki, Toshiki",Ritto-shi,Ritto-shi,,,JP,1,9,3,1,0,0,0,0.17970665,0.138465879,,,B212202,,,,,,,Ritto-shi,,,,,0
+12064816,"LEE, Don","Portland,OR",Portland OR,,,US,1,11,3,2,0,0,0,0.418017631,0.213496852,,,B212206,,,,,,,Portland,OR,,,,0
+12087707,"Wheeler, Dean","Provo,UT",Provo UT,,,US,1,8,3,2,0,0,0,0.323476364,0.160745533,,,B212203,,,,,,,Provo,UT,,,,0
+12093968,"YUN, Hyeong-won",Yongin-si,Yongin-si,,,KR,1,9,3,1,0,0,0,0.502367421,0.188076582,,,B212205,,,,,,,Yongin-si,,,,,0
+12118141,"Muniz, Annelis","Miami,FL",Miami FL,,,US,1,8,3,2,0,0,0,0.431444668,0.171790269,,,B212204,,,,,,,Miami,FL,,,,0
+12126218,"SAUERBECK, Silke",Bruckmuhl,Bruckmuhl,,,DE,1,9,3,1,0,0,0,0.914498675,0.157401911,,,B212203,,,,,,,Bruckmuhl,,,,,0
+12139748,"Choi, Hak Ki",Seocho-Gu,Seocho-Gu,,,KR,1,9,3,1,0,0,0,0.821822271,0.160974605,,,B212203,,,,,Seocho-Gu,,,,,,,0
+12140547,"Atanackovic, Petar Branko",Henley Beach,Henley Beach,,,AU,1,12,3,2,0,0,0,0.604795732,0.130096527,,,B212201,,,,,,,,Henley Beach,,,,0
+12150926,"Huang, I-Jen",Hsinchu City,Hsinchu City,,,TW,1,12,3,2,0,0,0,0.586016604,0.164384767,,,B212204,,,,,,,Hsinchu City,,,,,0
+12155795,"Innovcoat Nanocoatings and Surface Products Indust ry, Sales and R&D Incorporation",Gebze-Kocaeli,Gebze-Kocaeli,,,TR,1,13,3,1,0,0,0,0.350629628,0.189796066,,,B212205,,,,,Gebze,,,Kocaeli,,,,0
+12185307,"Tuckett, Robert P.","Sandy,UT",Sandy UT,,,US,1,8,3,2,0,0,0,0.353203066,0.155626014,,,B212203,,,,,,,Sandy,UT,,,,0
+12200290,"Morrow, James M.","Sparks,NV",Sparks NV,,,US,1,9,3,2,0,0,0,0.970779325,0.133385344,,,B212202,,,,,,,Sparks,NV,,,,0
+12218135,"Irvine, Trey","Weston,FL",Weston FL,,,US,1,9,3,2,0,0,0,0.481924848,0.152503546,,,B212203,,,,,,,Weston,FL,,,,0
+12271469,"Mason, Henry Graham","San Francisco,CA",San Francisco CA,,,US,1,16,3,3,0,0,0,0.372410498,0.138410472,,,B212202,,,,,,,San Francisco,CA,,,,0
+12301039,"Ruggiero, Alessandra",Napoli,Napoli,,,IT,1,6,3,1,0,0,0,0.177258941,0.144400675,,,B212202,,,,,,,Napoli,,,,,0
+12330885,"NIKAKU, Daisuke",Kanagawa,Kanagawa,,,JP,1,8,3,1,0,0,0,0.891124172,0.187407732,,,B212205,,,,,,,,Kanagawa,,,,0
+12340859,"Olen, Vadim","Cedar Rapids,IA",Cedar Rapids IA,,,US,1,15,3,3,0,0,0,0.441977451,0.127186494,,,B212201,,,,,,,Cedar Rapids,IA,,,,0
+12350249,"Raudenbush, Brian Christopher","Brookfield,CT",Brookfield CT,,,US,1,13,3,2,0,0,0,0.444592748,0.213030376,,,B212206,,,,,,,Brookfield,CT,,,,0
+12398751,"Gompel, Paul",Boulogne,Boulogne,,,FR,1,8,3,1,0,0,0,0.898828168,0.13293625,,,B212202,,,,,,,Boulogne,,,,,0
+12413341,"Kompatsiaris, Ioannis",Thermi,Thermi,,,GR,1,6,3,1,0,0,0,0.66678722,0.178507319,,,B212204,,,,,,,Thermi,,,,,0
+12445603,"Tanaka, Yoshiyuki",Matsumoto,Matsumoto,,,JP,1,9,3,1,0,0,0,0.885901561,0.119392904,,,B212201,,,,,,,Matsumoto,,,,,0
+14619441,"COOPER, PAUL","163 INGRAM ROAD;ACACIA RIDGE, QLD 4110",163 INGRAM ROAD;ACACIA RIDGE QLD 4110,163 4110,163,AU,1,38,1,6,2,1,7,0.530264295,0.20742285,,,B212206,,,INGRAM ROAD,163,ACACIA RIDGE,4110,,QLD,,,,0
+16223033,"DUFFIELD, LESLIE","T0K1W0 BOX 296 PINCHER CREEK, ALBERTA",T0K1W0 BOX 296 PINCHER CREEK ALBERTA,010 296,T0K,CA,1,37,1,6,2,1,6,0.169621722,0.173812282,,,B212204,,T0K1W0,,296,pincher creek,,alberta,,,,,0
+16280439,"JPI TRANSPORTATION PRODUCTS, INC.","325 EAST EISENHOWER PARKWAY, ANN ARBOR, MICHIGAN, 48108",325 EAST EISENHOWER PARKWAY ANN ARBOR MICHIGAN 48108,325 48108,325,US,1,55,1,8,2,1,8,0.83736065,0.176675324,,,B212204,,,EAST EISENHOWER PARKWAY,325,ANN ARBOR,48108,MICHIGAN,,,,,1
+25611042,"ENGELSKIRCHEN, KONRAD",GONELLASTRASSE 24;D-4005 MEERBUSCH 3,GONELLASTRASSE 24;D-4005 MEERBUSCH 3,244005 3,24;,DE,1,36,1,4,2,1,7,0.68035887,0.127482677,,,B212201,,,GONELLASTRASSE,24,,D-4005,MEERBUSCH 3,,,,,1
+26237821,"TSUDA,HISATSUGU","2-2, MINAMIDAMACHI-2-CHOME, TOYAMA-SHI",2-2 MINAMIDAMACHI-2-CHOME TOYAMA-SHI,22 2,2-,JP,1,38,1,3,2,1,3,0.191255978,0.195390258,,,B212205,MINAMIDAMACHI-2-CHOME,,2-2,,,,TOYAMA-SHI,,,,,1
+26328578,"W.L. GORE & ASSOCIATES, INC.","555 PAPER MILL ROAD,P.O.BOX 9329, NEWARK, DELAWARE",555 PAPER MILL ROAD P.O.BOX 9329 NEWARK DELAWARE,555 9329,555,US,1,50,1,8,2,1,7,0.001689806,0.159031343,,,B212203,,,PAPER MILL ROAD,555,,,NEWARK,DELAWARE,,,,1
+26444655,"OBERMEIER,,RAINER",Langenhainer Weg 14 6234 Hattersheim am Main Germany,Langenhainer Weg 14 6234 Hattersheim am Main Germany,14 6234,14,DE,1,52,1,8,2,1,6,0.890676884,0.203030392,,,B212206,,,Langenhainer Weg,14,,6234,Hattersheim am Main,,Germany,,,1
+26462062,"BLANCHETTE,ROBERT A.","975 West County Road I, Shoreview, MN 55126",975 West County Road I Shoreview MN 55126,975 55126,975,US,1,43,1,8,2,1,8,0.803812898,0.192510306,,,B212205,,,West County Road I,975,Shoreview,55126,,MN,,,,1
+26505310,"SOIDINMAEKI,YRJOE MATIAS","PylkînmÑki, SoijinmÑentie 75 A 1, Mahlu",PylkînmÑki SoijinmÑentie 75 A 1 Mahlu,75 1,75,FI,1,39,1,6,2,1,3,0.70751723,0.18660342,,,B212205,,A 1,SoijinmÑentie,75,,,,PylkînmÑki,,,,1
+28426250,BRICKHOUSE DUDLEY MANUFACTURING LIMITED,"DUDLEY ROAD WEST,TIPTON,WEST MIDLANDS,DY4 7XD",DUDLEY ROAD WEST TIPTON WEST MIDLANDS DY4 7XD,4 7,Y4,  ,1,45,1,8,2,1,2,0.043618185,0.174401964,,,B212204,,,Dudley road west,,tipton,DY4 7XD,,,,,,1
+28459162,KAMETAKA SHIGERU,"1-8-1 TATSUMINISHI,IKUNO-KU,OSAKA,JAPAN",1-8-1 TATSUMINISHI IKUNO-KU OSAKA JAPAN,181,1-,  ,1,39,1,5,1,1,3,0.94303311,0.183300234,,,B212205,,,,,TATSUMINISHI,,Osaka,IKUNO-KU,,,,0
+28475598,CHRISTOPHER EDWARD * BURNETT,"12 WOODVALE CLOSE,DODDINGTON PARK,LINCOLN,LN6 3RL",12 WOODVALE CLOSE DODDINGTON PARK LINCOLN LN6 3RL,12 6 3,12,  ,1,49,1,8,3,1,4,0.403521581,0.132233189,,,B212202,,,WOODVALE CLOSE,12,DODDINGTON PARK,LN6 3RL,LINCOLN,,,,,1
+28491288,JOHN ALFRED * WORTHINGTON,"4 NORMAN WAY,OVER INDUSTRIAL PARK,OVER,CAMBRIDGESHIRE",4 NORMAN WAY OVER INDUSTRIAL PARK OVER CAMBRIDGESHIRE,4,4,  ,1,53,1,8,1,1,1,0.332106631,0.124702924,,,B212201,,,NORMAN WAY,422B,OVER INDUSTRIAL PARK;OVER,,,CAMBRIDGESHIRE,,,,0
+28496850,HIDEAKI * YUMOTO,"391-1 YOHDA,ONOE-CHO,KAKOGAWA,675 JAPAN",391-1 YOHDA ONOE-CHO KAKOGAWA 675 JAPAN,3911 675,391-,  ,1,39,1,6,2,1,7,0.555785787,0.213569377,,,B212206,,,,391-1,,675,KAKOGAWA,,JAPAN,,,0
+28593440,SATOSHI * TANABE,"606 KOSHIKIYA,AGEO-SHI,SAITAMA-KEN,JAPAN",606 KOSHIKIYA AGEO-SHI SAITAMA-KEN JAPAN,606,606,  ,1,40,1,5,1,1,3,0.266196556,0.168483734,,,B212204,,,KOSHIKIYA,606,AGEO-SHI,,SAITAMA-KEN,,JAPAN,,,1
+28596011,JOHN WALTER * TURKO,"24 WEST CICOTTE STREET,RIVER ROUTE,MICHIGAN 48218",24 WEST CICOTTE STREET RIVER ROUTE MICHIGAN 48218,24 48218,24,  ,1,49,1,8,2,1,7,0.515850811,0.139419904,,,B212202,,,west cicotte street,24,michigan,48218,river route,,,,,1
+28662909,SARTORIUS GMBH,"WEENDER LANDSTRASSE 94 TO 108,3400 GOTTINGEN",WEENDER LANDSTRASSE 94 TO 108 3400 GOTTINGEN,94 108 3400,94,DE,1,44,1,7,3,1,9,0.103178322,0.147006135,,,B212203,,,WEENDER LANDSTRASSE,94 TO 108,3400,,GOTTINGEN,,,,,1
+28687276,SHIGEHARU * OOTSUKA,"107 MATSUGAOKA 4-CHOME,KAGAMIHARA-SHI,GIFU 509-01",107 MATSUGAOKA 4-CHOME KAGAMIHARA-SHI GIFU 509-01,107 4 50901,107,  ,1,49,1,6,3,1,9,0.218145023,0.207670501,,,B212206,,,MATSUGAOKA 4-CHOME,107,KAGAMIHARA-SHI,509-01,GIFU,,  ,,,1
+28690483,JAMES B * WIESER,"32744 ORICK STREET,UNION CITY,CALIFORNIA 94587,UNITED STATES OF AMERICA",32744 ORICK STREET UNION CITY CALIFORNIA 94587 UNITED STATES OF AMERICA,32744 94587,,  ,1,71,1,11,2,0,10,0.945099114,0.190825367,,,B212205,,,ORICK STREET,32744,,94587,UNION CITY,CALIFORNIA,UNITED STATES OF AMERICA,,,1
+28909953,FREDERICK THOMAS DAVID * GOLDIE,"88 APPLEGARTH AVENUE,GUILDFORD,SURREY,GU2 6LR",88 APPLEGARTH AVENUE GUILDFORD SURREY GU2 6LR,88 2 6,88,GB,1,45,1,7,3,1,4,0.124008205,0.174584534,,,B212204,,,Applegrath avenue,88,Guildford ,GU2 6LR,,,,,,1
+30192982,PERRI PASQUALE,A COSENZA VIA PIETRO DE ROBERTI 20/R COSENZA,A COSENZA VIA PIETRO DE ROBERTI 20/R COSENZA,20,20/,  ,1,44,1,8,1,1,2,0.763961412,0.186844942,,,B212205,,,VIA PIETRO DE ROBERTI,20,,,COSENZA,,,,,1
+31242155,"HAMADA, YASUO","TOTO LTD. CHIGASAKI PLANT;8-1, HONSON 2-CHOME;CHIGASAKI-SHI KANAGAWA 253",TOTO LTD. CHIGASAKI PLANT;8-1 HONSON 2-CHOME;CHIGASAKI-SHI KANAGAWA 253,81 2 253,;8-,JP,1,72,1,8,3,1,6,0.723517941,0.123765953,,,B212201,TOTO LTD.,CHIGASAKI PLANT,"8-1, HONSON 2-CHOME",,KANAGAWA,253,CHIGASAKI-SHI,,,,,1
+37673543,"PRIESTER, RALPH, D., JR.","428 HUCKLEBERRY;LAKE JACKSON, TX 77566",428 HUCKLEBERRY;LAKE JACKSON TX 77566,428 77566,428,  ,1,38,1,5,2,1,8,0.304935062,0.153417668,,,B212203,,,HUCKLEBERRY,428,,77566,LAKE JACKSON,TX,,,,1
+40064267,"BAYER SCHERING PHARMA OY,","PL 415, Turku",PL 415 Turku,415,415,FI,1,13,3,3,1,1,3,0.536870923,0.168590401,,,B212204,PL 415,,,,,,Turku,,,,,0
+44771018,"Ichikawa, Yoshifumi, c/o Hitachi, Ltd.","New Marunouchi Bldg., 5-1, Marunouchi 1-chome,Chiyoda-ku, Tokyo 100-8220",New Marunouchi Bldg. 5-1 Marunouchi 1-chome Chiyoda-ku Tokyo 100-8220,51 1 1008220,5-,JP,1,72,1,9,3,1,10,0.613467729,0.179621314,,,B212204,,,New Marunouchi Bldg., 5-1,"Marunouchi 1-chome,Chiyoda-ku",100-8220,,Tokyo,,,,1
+44795209,"LITTLEWOOD, David Thomas","Quarry Road East, Bebington,Wirral, Merseyside CH63 3JW",Quarry Road East Bebington Wirral Merseyside CH63 3JW,63 3,H63,GB,1,55,1,8,2,1,3,0.687777122,0.140707151,,,B212202,,,Quarry Road East,,"Merseyside ,Wirral",CH63 3JW,Bebington,,,,,1
+44795400,"MORIYAMA, Masahiro","5-1-4-611, Shiginonishi, Joto-ku,Osaka-shi, Osaka 536-0014",5-1-4-611 Shiginonishi Joto-ku Osaka-shi Osaka 536-0014,514611 5360014,5-,JP,1,58,1,6,2,1,13,0.607885583,0.20007014,,,B212206,,,5-1-4-611,,Osaka-shi,536-0014,Osaka,,,"Shiginonishi, Joto-ku",,1
+44824587,"HARNOIS, Malcolm","c/o Prof. Holstlaan 6,NL-5656 AA Eindhoven",c/o Prof. Holstlaan 6 NL-5656 AA Eindhoven,6 5656,6,NL,1,42,1,7,2,1,5,0.316885207,0.18360446,,,B212205,,, Prof. Holstlaan,6,,5656,Eindhoven,,,,,1
+44858683,"BIGOT, Jacques","24, rue des Cerisiers,F-78420 Carriäres sur Seine",24 rue des Cerisiers F-78420 Carriäres sur Seine,24 78420,24,FR,1,49,1,8,2,1,7,0.601326185,0.136316784,,,B212202,,,rue des Cerisiers,24,Carriäres sur Seine,F-78420,,,,,,1
+44875457,"RYDQUIST, Jan, Erling","ôstra BjîrnvÑgen 2,S-429 30 Kullavik",ôstra BjîrnvÑgen 2 S-429 30 Kullavik,2 429 30,2,SE,1,36,1,6,3,1,6,0.092445338,0.120108438,,,B212201,,,ôstra BjîrnvÑgen,2,,S-429 30,Kullavik,,,,,1
+44904338,"DEPENBUSCH, Brandon","1306 8th Street,Wamego, Kansas 66547",1306 8th Street Wamego Kansas 66547,1306 8 66547,8t,US,1,36,1,6,3,1,10,0.262105159,0.168431635,,,B212204,,,8th Street,1306,,66547,Wamego,Kansas,,,,1
+44937938,Anox B.V.,"Industrielaan 17,3925 BD Scherpenzeel",Industrielaan 17 3925 BD Scherpenzeel,17 3925,17,NL,1,37,1,5,2,1,6,0.981868188,0.12659349,,,B212201,,,Industrielaan,17,,3925,BD Scherpenzeel,,,,,1
+44949618,"NIESSEN, Rogier A. H.","High Tech Campus Building 44,5656 AE Eindhoven",High Tech Campus Building 44 5656 AE Eindhoven,44 5656,44,NL,1,46,1,8,2,1,6,0.155874656,0.121595101,,,B212201,High Tech Campus,Building 44,,,,5656,Eindhoven,AE,,,,1
+44952512,"PICKERING, Sharon","Genzyme Diagnostics Bldg. 700, 4th Floor One Kendall Square,Cambridge, MA 02139",Genzyme Diagnostics Bldg. 700 4th Floor One Kendall Square Cambridge MA 02139,700 4 02139,700,US,1,79,1,12,3,1,9,0.337152989,0.213254697,,,B212206,,Genzyme Diagnostics Bldg,4th Floor One Kendall Square,,,,Cambridge,MA,,,,0
+44968870,"Inoue, Takahiro","c/o Intellectual Property Department, NTT DoCoMo, Inc., Sanno Park Tower, 11-1, Nagatacho 2 chome, Chiyoda-ku,Tokyo Tokyo 100-6150",c/o Intellectual Property Department NTT DoCoMo Inc. Sanno Park Tower 11-1 Nagatacho 2 chome Chiyoda-ku Tokyo Tokyo 100-6150,111 2 1006150,11-,JP,1,130,1,18,3,1,11,0.859376446,0.137287255,,,B212202,c/o Intellectual Property Department,Sanno Park Tower,11-1;Nagatacho 2 chome,,,100-6150,Tokyo,Tokyo,,,,1
+44986792,"Antalek, James D.","43 Wilderness Lane,Valatie, NY 12184",43 Wilderness Lane Valatie NY 12184,43 12184,43,US,1,36,1,6,2,1,7,0.933789191,0.155156244,,,B212203,,,Wilderness Lane,43,,12184,Valatie,NY,,,,1
+45038172,"KONG, Consuelo","4808 Winton Road,Cincinnati, Ohio 45232",4808 Winton Road Cincinnati Ohio 45232,4808 45232,,US,1,39,1,6,2,0,9,0.338996209,0.180178979,,,B212204,,,Winton Road,4808,Cincinnati,45232,Ohio,,,,,1
+45098573,"SOGAME, Masanobu","c/o Mitsubishi Gas Chemical Company Inc., Tokyo Techno Park, 1-1 Niijuku 6-chome, Katsushika-ku,Tokyo 125-8601",c/o Mitsubishi Gas Chemical Company Inc. Tokyo Techno Park 1-1 Niijuku 6-chome Katsushika-ku Tokyo 125-8601,11 6 1258601,1-,JP,1,110,1,15,3,1,10,0.318529554,0.182066841,,,B212205,c/o Mitsubishi Gas Chemical Company Inc.,, Niijuku 6-chome,1-1,Katsushika-ku,125-8601,Tokyo,,,,,1
+45101407,"HAZRA, Mousumi M.","16635 SW Ivy Glenn St,Beaverton, Oregon 97007",16635 SW Ivy Glenn St Beaverton Oregon 97007,16635 97007,,US,1,45,1,8,2,0,10,0.179305016,0.161354203,,,B212203,,,SW Ivy Glenn St,16635,,97007,Beaverton,Oregon,,,,1
+45146674,"Finell, Rebecca M.","1152 E. Cottonwood, Ln.,Phoenix,AZ,85048",1152 E. Cottonwood Ln. Phoenix AZ 85048,1152 85048,,US,1,40,1,7,2,0,9,0.900273381,0.148343007,,,B212203,,,"E. Cottonwood, Ln.",1152,,85048,Phoenix,AZ,,,,1
+45190835,"Kumai, Takaho",Kawagoe,Kawagoe,,,JP,1,7,3,1,0,0,0,0.106242753,0.123510754,,,B212201,,,,,,,Kawagoe,,,,,0
+45212554,"Nishitani, Toru",Nisshin,Nisshin,,,JP,1,7,3,1,0,0,0,0.210248296,0.120162521,,,B212201,,,,,,,Nisshin,,,,,0
+45215780,Intellmedical Technologies PTY Ltd c/o MGI Melbourne,Melbourne,Melbourne,,,AU,1,9,3,1,0,0,0,0.97878159,0.178669373,,,B212204,,,,,,,Melbourne,,,,,0
+45216622,"Walk Score Management, LLC","Seattle,WA",Seattle WA,,,US,1,10,3,2,0,0,0,0.34120761,0.138244925,,,B212202,,,,,,,Seattle,WA,,,,0
+45258131,"Schulz, Mario",Geithain,Geithain,,,DE,1,8,3,1,0,0,0,0.623791995,0.188227893,,,B212205,,,,,,,Geithian,,,,,0
+45268856,"Stelzer, Norbert Matthias",Idstein,Idstein,,,DE,1,7,3,1,0,0,0,0.140931921,0.175201383,,,B212204,,,,,,,Idstein,,,,,0
+45294534,"Schmidt, Martin",Schmalkalden,Schmalkalden,,,DE,1,12,3,1,0,0,0,0.765228599,0.157148038,,,B212203,,,,,,,Schmalkalden,,,,,0
+45299045,"Li, Yu Meng",Huilongguan,Huilongguan,,,CN,1,11,3,1,0,0,0,0.22906615,0.206758626,,,B212206,,,,,,,Huilongguan,,,,,0
+45309644,"Craig, Murray Dean","Loveland,CO",Loveland CO,,,US,1,11,3,2,0,0,0,0.30974752,0.17711193,,,B212204,,,,,,,Loveland,CO,,,,0
+45335244,"Bengio, Samy","Los Altos,CA",Los Altos CA,,,US,1,12,3,3,0,0,0,0.177895483,0.125140734,,,B212201,,,,,Los Altos,,,CA,,,,0
+45359685,"Pitta, Brandi Michelle","Eagle,ID",Eagle ID,,,US,1,8,3,2,0,0,0,0.763329989,0.204328677,,,B212206,,,,,,,Eagle,ID,,,,0
+45386521,"MENDON, CHANDARANI","San Jose,CA",San Jose CA,,,US,1,11,3,3,0,0,0,0.864129943,0.152353427,,,B212203,,,,,,,San Jose,CA,,,,0
+45400910,"Carroll, Timothy","Chicago,IL",Chicago IL,,,US,1,10,3,2,0,0,0,0.611602183,0.175045649,,,B212204,,,,,,,Chicago,IL,,,,0
+46986010,"Wood, Dennis","'Chez d'Jou' Brightwell-cum-Sotwell,Wallingford Oxfordshire",'Chez d'Jou' Brightwell-cum-Sotwell Wallingford Oxfordshire,,,GB,1,59,1,5,0,0,0,0.99996961,0.208542653,,,B212206,'Chez d'Jou',, Brightwell-cum-Sotwell,,,,Wallingford Oxfordshire,,,,,0
+46986671,Fasteners Solutions Limited,"19/21 New Road, Willenhall,West Midlands WV13 2BG",19/21 New Road Willenhall West Midlands WV13 2BG,1921 13 2,19/,GB,1,49,1,8,3,1,7,0.37154017,0.159763024,,,B212203,,,New Road,19/21,,WV13 2BG,Willenhall,West Midlands,,,,1
+47024752,"LANSALOT-MATRAS, Clement","A501 Picasso Villa, 79-5 Banpo-dong,Seocho-gu Seoul 137-040",A501 Picasso Villa 79-5 Banpo-dong Seocho-gu Seoul 137-040,501 795 137040,A501,KR,1,59,1,8,3,1,12,0.781579038,0.161761398,,,B212203,,A501 Picasso Villa,Banpo-dong,79-5,Seocho-gu,137-040,Seoul,,,,,1
+47027091,"WATANABE, Toru","c/o Astellas Pharma Inc., 3-11 Nihonbashi-Honcho2-chome, Chuo-ku,Tokyo 103-8411",c/o Astellas Pharma Inc. 3-11 Nihonbashi-Honcho2-chome Chuo-ku Tokyo 103-8411,311 2 1038411,3-,JP,1,79,1,9,3,1,11,0.806684744,0.14446656,,,B212202,Astellas Pharma Inc.,,3-11 Nihonbashi-Honcho2-chome,,Chuo-ku,103-8411,Tokyo,,,,,1
+47060271,"Sakai, Norio, c/o(A170) Intellectual Property Dpt.","Murata Manufacturing Co, Ltd, 26-10, Tenjin 2-chome,Nagaokakyo-shi, Kyoto-fu 617-8555",Murata Manufacturing Co Ltd 26-10 Tenjin 2-chome Nagaokakyo-shi Kyoto-fu 617-8555,2610 2 6178555,26-,JP,1,85,1,10,3,1,12,0.366356993,0.205667482,,,B212206,"Murata Manufacturing Co, Ltd",, Tenjin 2-chome,,Nagaokakyo-shi,617-8555,Kyoto-fu,,,,,1
+47075795,"ANDALCIO, Jason","2129 8th Ave. West Apt B,Seattle, Washington 98119",2129 8th Ave. West Apt B Seattle Washington 98119,2129 8 98119,8t,US,1,50,1,9,3,1,10,0.226079595,0.211024041,,,B212206,,Apt B, 8th Ave West,2129,,,Seattle,,,,,1
+47090684,"YAMADA, Mototsugu","c/o Meiji Seika Pharma Co. Ltd., 760 Morooka-cho, Kohoku-ku,Yokohama-shi Kanagawa 222-8567",c/o Meiji Seika Pharma Co. Ltd. 760 Morooka-cho Kohoku-ku Yokohama-shi Kanagawa 222-8567,760 2228567,760,JP,1,90,1,12,2,1,10,0.318992889,0.134072655,,,B212202,,c/o Meiji Seika Pharma Co. Ltd.,Morooka-cho,760,Kohoku-ku,222-8567,Yokohama-shi Kanagawa,,,,,1
+47134801,"NICOL, David H.","13758 Ruette Le Parc A,Del Mar California 92014",13758 Ruette Le Parc A Del Mar California 92014,13758 92014,,US,1,47,1,9,2,0,10,0.508281025,0.198323053,,,B212206,,,Ruette Le Parc A,13758,Del Mar,92014,California,,,,,1
+47135242,"Smith, Gordon Raymond","1 River Road,Schenectady, New York 12345",1 River Road Schenectady New York 12345,1 12345,1,US,1,40,1,7,2,1,6,0.67304099,0.167142737,,,B212204,,,River Road,1,Schenectady,12345,New York,,,,,1
+47139126,"Asahi, Tadashi","c/o Nippon Light Metal Co., Ltd. 2-20, Higashi-,Shinagawa 2-chome Shinagawa-ku Tokyo",c/o Nippon Light Metal Co. Ltd. 2-20 Higashi- Shinagawa 2-chome Shinagawa-ku Tokyo,220 2,2-,JP,1,84,1,12,2,1,4,0.973880214,0.210820694,,,B212206,"c/o Nippon Light Metal Co., Ltd",, 2-20,,Higashi-;Shinagawa 2-chome Shinagawa-ku,,Tokyo,,,,,1
+47147261,"Hiller, Joseph F.",Midland,Midland,,,  ,1,7,3,1,0,0,0,0.580708476,0.143213914,,,B212202,,,,,,,Midland,,,,,0
+47161424,"Platkowski, Kristina",Leipzig,Leipzig,,,DE,1,7,3,1,0,0,0,0.570265532,0.130870349,,,B212202,,,,,,,Leipzig,,,,,0
+47182804,"Scarfe, Daniel Jonathan",Berkshire,Berkshire,,,GB,1,9,3,1,0,0,0,0.066972499,0.200220029,,,B212206,,,,,,,Berkshire,,,,,0
+47186236,"Kong, Xiangrui",Shenzhen,Shenzhen,,,CN,1,8,3,1,0,0,0,0.033213792,0.202613708,,,B212206,,,,,,,Shenzhen,,,,,0
+47198597,"Browne, Niall","Redwood City,CA",Redwood City CA,,,US,1,15,3,3,0,0,0,0.668281798,0.115818989,,,B212201,,,,,,,Redwood City,CA,,,,0
+47267846,Dawson Medical Technologies LLC,"Waterford,PA",Waterford PA,,,US,1,12,3,2,0,0,0,0.102082227,0.132999009,,,B212202,,,,,,,Waterford,PA Pennsylvania,,,,0
+47270758,"Ando, Shigeru",Odawara,Odawara,,,JP,1,7,3,1,0,0,0,0.743418238,0.183151707,,,B212205,,,,,,,Odawara,,,,,0
+47276588,"Shin, Hyun Jun",Yeongdeungpo-gu,Yeongdeungpo-gu,,,KR,1,15,3,1,0,0,0,0.403169364,0.132311811,,,B212202,,,,,Yeongdeungpo-gu,,,,,,,0
+47287316,"LAI, PO-HUNG",MIAOLI COUNTY,MIAOLI COUNTY,,,TW,1,13,3,2,0,0,0,0.462391734,0.118838936,,,B212201,,,,,,,,MIAOLI COUNTY,,,,0
+47289896,"Shaughnessy, Kevin","Tuscaloosa,AL",Tuscaloosa AL,,,US,1,13,3,2,0,0,0,0.935379091,0.138948855,,,B212202,,,,,,,Tuscaloosa,AL,,,,0
+47291146,"Williams, Travis","Scarborough,ME",Scarborough ME,,,US,1,14,3,2,0,0,0,0.762307232,0.180526796,,,B212205,,,,,,,Scarborough,ME,,,,0
+47314245,"Parmar, Sanjay","Foster City,CA",Foster City CA,,,US,1,14,3,3,0,0,0,0.250434674,0.208959865,,,B212206,,,,,,,Foster City,CA,,,,0
+47324964,"Konsek, Steven",Malmî,Malmî,,,SE,1,5,3,1,0,0,0,0.003074758,0.141711856,,,B212202,,,,,,,Malmî,,,,,0
+47335664,"Li, Dave","West Roxbury,MA",West Roxbury MA,,,US,1,15,3,3,0,0,0,0.384830149,0.14770535,,,B212203,,,,,West Roxbury,,,MA,,,,0
+47918804,"ATTUCCI, Francesco","Via San Giovanni Bosco 16,I-20028 San Vittore Olona MI",Via San Giovanni Bosco 16 I-20028 San Vittore Olona MI,16 20028,16,IT,1,54,1,10,2,1,7,0.631519197,0.131054937,,,B212202,,,Via San Giovanni Bosco,16,San Vittore Olona,I-20028,,MI,,,,1
+47926797,"FRIEDRICH, Glenn","c/o Kymab Limited, Meditrina (B260), Babraham Research Campus,Cambridge, Cambridgeshire CB22 3AT",c/o Kymab Limited Meditrina (B260) Babraham Research Campus Cambridge Cambridgeshire CB22 3AT,260 22 3,B260),GB,1,96,1,12,3,1,6,0.835393682,0.130733752,,,B212202,c/o Kymab Limited, Meditrina (B260), Babraham Research Campus,,,CB22 3AT,Cambridge,Cambridgeshire,,,,1
+47976371,"Lee, Mun Woo","102-1505 POSCO Sup. Apt.,Yucheon-dong",102-1505 POSCO Sup. Apt. Yucheon-dong,1021505,102-,KR,1,37,1,5,1,1,7,0.552579048,0.191729466,,,B212205,POSCO ,Sup. Apt,,102-1505,Yucheon-dong,,,,,,,0
+48016103,"EGAMI, Miki Wakamatsu Factory","Catalysts & Chem. Ind.,13-2, Kitaminatomachi",Catalysts & Chem. Ind. 13-2 Kitaminatomachi,132,13-,JP,1,44,1,6,1,1,3,0.019463379,0.119973309,,,B212201,Catalysts & Chem. Ind.,,13-2,,,,,Kitaminatomachi,,,,0
+48035186,UNO Masaharu,"c/o PERMELEC ELECTRODE LTD.,2023-15 Endo",c/o PERMELEC ELECTRODE LTD. 2023-15 Endo,202315,-15,JP,1,40,1,6,1,1,6,0.467878301,0.175156041,,,B212204,PERMELEC ELECTRODE LTD,,2023-15 Endo,,,,,,,,,0
+48094641,"NISHIOKA, Yuhei","c/o Rakuten, Inc.,4-12-3 Higashishinagawa",c/o Rakuten Inc. 4-12-3 Higashishinagawa,4123,4-,JP,1,41,1,5,1,1,4,0.324024844,0.175878803,,,B212204,c/o Rakuten,inc.,4-12-3,,,,Higashishinagawa,,,,,1
+48098927,"OKAYAMA, Hironao","c/o TOYO KOHAN CO. LTD. Technical Research,Laboratory",c/o TOYO KOHAN CO. LTD. Technical Research Laboratory,,,JP,1,53,1,8,0,0,0,0.532831336,0.200343583,,,B212206,"c/o TOYO KOHAN CO. LTD. Technical Research,Laboratory",,,,,,,,,,,0
+48109864,"SHIBASAKI, Masakatsu","c/o Microbial Chemistry Research Foundation,14-23 Kamiosaki 3-chome",c/o Microbial Chemistry Research Foundation 14-23 Kamiosaki 3-chome,1423 3,14-,JP,1,67,1,8,2,1,5,0.312051625,0.200619963,,,B212206,c/o Microbial Chemistry Research Foundation,,,14-23,,,,,,Kamiosaki 3-chome,,0
+48128777,"BURDETT, John H.","106 Crane Street,Charlton, New York 12302",106 Crane Street Charlton New York 12302,106 12302,106,US,1,41,1,7,2,1,8,0.301411615,0.145315198,,,B212202,,,Crane Street,106,Charlton,12302,New York,,,,,1
+48163512,"YAMAUCHI, Akiyoshi","c/o DAIKAN INDUSTRIES, LTD.,Umeda Center Building",c/o DAIKAN INDUSTRIES LTD. Umeda Center Building,,,JP,1,49,1,7,0,0,0,0.8437989,0.160252118,,,B212203,"c/o DAIKAN INDUSTRIES, LTD.",Umeda Center Building,,,,,,,,,,0
+48169994,"Rice, Jordan M","c/o Nike, Inc, One Bowerman Drive,Beaverton, OR Oregon 97005",c/o Nike Inc One Bowerman Drive Beaverton OR Oregon 97005,97005,,US,1,60,1,10,1,0,5,0.739745042,0.197280856,,,B212205,"c/o Nike, Inc",,One Bowerman Drive,,Beaverton,97005,,OR Oregon,,,,1
+48212201,"Johnson, James Neil","GE Global Research,One Research Circle",GE Global Research One Research Circle,,,US,1,38,1,6,0,0,0,0.777326885,0.128388529,,,B212201,GE Global Research;One Research Circle,,,,,,,,,,,0
+48212213,"PAYNE, Andrew Dean","48 Karewa parade, Papamoa Beach,Papamoa, 3118",48 Karewa parade Papamoa Beach Papamoa 3118,48 3118,48,NZ,1,45,1,7,2,1,6,0.071822793,0.162411552,,,B212203,,,Karewa parade,48,Papamoa Beach,3118,Papamoa,,,,,1
+48229992,"OKA, Toru","c/o Sunstar Engineering Inc.,3-1 Asahi-machi",c/o Sunstar Engineering Inc. 3-1 Asahi-machi,31,3-,JP,1,44,1,6,1,1,2,0.813655222,0.136450297,,,B212202,c/o Sunstar Engineering Inc.,,3-1;Asahi-machi,,,,,,,,,0
+48293938,"El Mazria, Omar",Seichamps,Seichamps,,,FR,1,9,3,1,0,0,0,0.584628842,0.17561194,,,B212204,,,,,,,Seichamps,,,,,0
+48296506,"Rantala, Kimmo",HyvinkÑÑ,HyvinkÑÑ,,,FI,1,8,3,1,0,0,0,0.741782599,0.125376702,,,B212201,,,,,,,HyvinkÑÑ,,,,,0
+48340937,"Chuang, Chen-Pang",Taoyuan,Taoyuan,,,TW,1,7,3,1,0,0,0,0.519264826,0.193748742,,,B212205,,,,,,,Taoyuan,,,,,0
+48349119,"Adamex, Tomasz",Madrid,Madrid,,,ES,1,6,3,1,0,0,0,0.701356465,0.142280295,,,B212202,,,,,,,Madrid,,,,,0
+48362635,"Hata, Yoshihiko",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.769669227,0.163813389,,,B212203,,,,,,,Tokyo,,,,,0
+48365130,"METZGER, Robert",Wakarusa,Wakarusa,,,IN,1,8,3,1,0,0,0,0.328465805,0.115839565,,,B212201,,,,,,,Wakarusa,,,,,0
+48386117,"Yoshizaki, Yukinobu",Kiyosu-shi,Kiyosu-shi,,,JP,1,10,3,1,0,0,0,0.416874039,0.162869802,,,B212203,,,,,,,Kiyosu-shi,,,,,0
+48405642,"SKY SOCKETT, LLC","Atlanta,GA",Atlanta GA,,,US,1,10,3,2,0,0,0,0.606572518,0.120838365,,,B212201,,,,,,,Atlanta,GA,,,,0
+48451731,"Klicpera, Elizabeth","San Diego,CA",San Diego CA,,,US,1,12,3,3,0,0,0,0.072291608,0.187722467,,,B212205,,,,,,,San Diego,CA,,,,0
+48479735,"HEARTWOOD CARVING, INC.","Eugene,OR",Eugene OR,,,US,1,9,3,2,0,0,0,0.658252126,0.183056162,,,B212205,,,,,,,Eugene,OR,,,,0
+49097323,"Marculescu, Rodrig","MEDIZINISCHE UNIVERSITéT WIEN, KILM, Leitstelle 5H,WÑhringer GÅrtel 18-20,1090 Vienna",MEDIZINISCHE UNIVERSITéT WIEN KILM Leitstelle 5H WÑhringer GÅrtel 18-20 1090 Vienna,5 1820 1090,5H,AT,1,85,1,11,3,1,9,0.026325913,0.191915003,,,B212205,KILM,MEDIZINISCHE UNIVERSITéT WIEN,WÑhringer GÅrtel ,18-20,Leitstelle 5H,1090 ,Vienna,,,,,1
+49104640,"BI, Xiao, Tao","Apartment 2,2520 Van Horne Street,Montreal, Quebec H3S 1P1",Apartment 2 2520 Van Horne Street Montreal Quebec H3S 1P1,2 2520 3 11,2,CA,1,58,1,10,4,1,8,0.487970497,0.213579865,,,B212206,,Apartment 2,Van Horne Street,2520,,H3S 1P1,Montreal,Quebec,,,,1
+49115782,"Restle, Karl-Heinz","Renergon International AG,HolzÑckerlistrasse 6,8280 Kreuzlingen",Renergon International AG HolzÑckerlistrasse 6 8280 Kreuzlingen,6 8280,6,CH,1,63,1,7,2,1,5,0.7100559,0.181929329,,,B212205,Renergon International AG,,HolzÑckerlistrasse,6,,8280,Kreuzlingen,,,,,1
+49121868,"Institute Of Microbiology, Chinese Academy Of Sciences","No.1, West Beichen Road,Chaoyang District,Beijing 100101",No.1 West Beichen Road Chaoyang District Beijing 100101,1 100101,.1,CN,1,56,1,8,2,1,7,0.129027578,0.18013009,,,B212204,,,West Beichen Road,No.1,Chaoyang District,100101,Beijing,,,,,1
+49129347,"COVESI, Leticia Khater","Rodovia SP 101,Km 08,CEP:13186-901 HortolÉndia - SP",Rodovia SP 101 Km 08 CEP:13186-901 HortolÉndia - SP,101 08 13186901,101,BR,1,51,1,9,3,1,13,0.481890174,0.148791675,,,B212203,,,"Rodovia SP 101, Km 08",,,CEP:13186-901,HortolÉndia,SP,,,,1
+49167771,"Roberts, Anthony c/o Stuttgart Technology Center","/ Sony Deutschland Gmbh,Hedelfinger Strasse 61 /",/ Sony Deutschland Gmbh Hedelfinger Strasse 61 /,61,61,DE,1,48,1,8,1,1,2,0.025015235,0.118575161,,,B212201,Sony Deutschland Gmbh,,Hedelfinger Strasse,61,,,,,,,,0
+49193862,"Encaoua, Serge","c/o SAGEM DEFENSE SECURITE,Le Ponant de Paris,27 rue Leblanc,75015 PARIS",c/o SAGEM DEFENSE SECURITE Le Ponant de Paris 27 rue Leblanc 75015 PARIS,27 75015,27,FR,1,72,1,13,2,1,7,0.460084908,0.160732192,,,B212203,c/o SAGEM DEFENSE SECURITE,Le Ponant de Paris,rue Leblanc,27,,75015,PARIS,,,,,1
+49249679,"IMAEDA, Minoru","c/o NGK INSULATORS LTD.,2-56, Suda-cho,Mizuho-ku,Nagoya-shi Aichi 467-8530",c/o NGK INSULATORS LTD. 2-56 Suda-cho Mizuho-ku Nagoya-shi Aichi 467-8530,256 4678530,2-,JP,1,74,1,10,2,1,10,0.655063638,0.184069132,,,B212205,c/o NGK INSULATORS LTD.,,Suda-Cho,2-56,Mizuho-ku,467-8530,Nagoya-shi,Aichi,,,,1
+49278727,"Kaji, Tadashi","c/o Hitachi. Ltd.,Intellectual Property Office,12F, Marunouchi Center Building,6-1, Marunouchi 1-chome,Chiyoda-ku, Tokyo 100-8220",c/o Hitachi. Ltd. Intellectual Property Office 12F Marunouchi Center Building 6-1 Marunouchi 1-chome Chiyoda-ku Tokyo 100-8220,12 61 1 1008220,12F,JP,1,129,1,16,4,1,12,0.024166069,0.208152494,,,B212206,c/o Hitachi. Ltd,Intellectual Property Office,Marunouchi 1-chome,6-1,Marunouchi Center Building,100-8220,Tokyo,,,,,1
+49279897,"SHIBUYA, Mariko","c/o National Hospital Organization,Chiba Medical Center,4-1-2 Tsubakimori,Chuo-ku,Chiba-shi Chiba 260-8606",c/o National Hospital Organization Chiba Medical Center 4-1-2 Tsubakimori Chuo-ku Chiba-shi Chiba 260-8606,412 2608606,4-,JP,1,106,1,13,2,1,10,0.346921801,0.129793131,,,B212201,"c/o National Hospital Organization,Chiba Medical Center",,4-1-2 Tsubakimori,,Chuo-ku,260-8606,Chiba-shi Chiba,,,,,1
+49323742,"Tarusawa, Yoshiaki","c/o Intellectual Property Department NTT,DoCoMo. Inc.,Sanno Park Tower,11-1 Nagatacho, 2-chome, Chiyoda-ku,Tokyo 100-6150",c/o Intellectual Property Department NTT DoCoMo. Inc. Sanno Park Tower 11-1 Nagatacho 2-chome Chiyoda-ku Tokyo 100-6150,111 2 1006150,11-,JP,1,121,1,16,3,1,11,0.624203837,0.175957133,,,B212204,c/o Intellectual Property Department NTT,DoCoMo. Inc,11-1 Nagatacho,,Sanno Park Tower, 100-6150,Chiyoda-ku,,Tokyo,,,1
+49366309,"Takeuchi, Kensuke","AISIN AW CO., LTD.,6-18 Harayama, Okacho,Okazaki Aichi 444-8564",AISIN AW CO. LTD. 6-18 Harayama Okacho Okazaki Aichi 444-8564,618 4448564,6-,JP,1,63,1,10,2,1,10,0.306058297,0.173475964,,,B212204,AISIN AW CO.,,Harayama,6-18,,444-8564,Okacho,Okazaki Aichi,,,,1
+49367586,"TERAOKA, Takeshi, Pharmaceutical Research Center","Meiji Seika Kaisha Ltd., 760, Morooka-cho, Kouhoku,-ku, Yokohama-shi, Kanagawa 222-8567",Meiji Seika Kaisha Ltd. 760 Morooka-cho Kouhoku -ku Yokohama-shi Kanagawa 222-8567,760 2228567,760,JP,1,87,1,11,2,1,10,0.765998431,0.119182841,,,B212201,Meiji Seika Kaisha Ltd.,,222-8567,,Morooka-cho,760,,"Kouhoku,-ku;Yokohama-shi;Kanagawa",,,,1
+49394456,"SUZUKI, Hiroko","c/o MITSUBISHI TANABE PHARMA CORPORATION,2-6-18 Kitahama,Chuo-ku,Osaka-shi Osaka 541-8505",c/o MITSUBISHI TANABE PHARMA CORPORATION 2-6-18 Kitahama Chuo-ku Osaka-shi Osaka 541-8505,2618 5418505,2-,JP,1,89,1,11,2,1,11,0.299578314,0.123868515,,,B212201,c/o MITSUBISHI TANABE PHARMA CORPORATION,,2-6-18 Kitahama,,Chuo-ku,541-8505,Osaka-shi Osaka,,,,,1
+49405290,"Kang, Jeong Hoon","2-1006, Jangmi Apt., Sincheon-dong,,Songpa-gu,Seoul",2-1006 Jangmi Apt. Sincheon-dong Songpa-gu Seoul,21006,2-,KR,1,51,1,6,1,1,5,0.926740584,0.173913822,,,B212204,,Jangmi Apt.,,,Sincheon-dong,,Songpa-gu,Seoul,,,,1
+49425298,"SINGLETON, Freddie, L.","Apt. 1,790 Court of Birch,Vernon Hills IL 60061",Apt. 1 790 Court of Birch Vernon Hills IL 60061,1 790 60061,1,US,1,47,1,10,3,1,9,0.13586263,0.20403704,,,B212206,,Apt. 1,Court of Birch,790,,60061,Vernon Hills,IL,,,,1
+49433135,"Zubiate, Brett","500 Tripoli Street,Apartment 212,Pittsburgh, PA Pennsylvania 15212",500 Tripoli Street Apartment 212 Pittsburgh PA Pennsylvania 15212,500 212 15212,500,US,1,66,1,9,3,1,11,0.867290138,0.146782853,,,B212202,,,Tripoli Street,500 Apartment 212,,15212,Pittsburgh,PA Pennsylvania,,,,1
+49464111,"Ruhs, Joanna","BDF AG, 4537,545,Ratiborweg 18,22043 Hamburg",BDF AG 4537 545 Ratiborweg 18 22043 Hamburg,4537 545 18 22043,545,DE,1,44,1,8,4,1,14,0.375616496,0.132211905,,,B212202,,,Ratiborweg,18,,22043,Hamburg,,,,,1
+49471866,"MINAMI, Tetsuya T.","C/O Nice, Inc.,One Bowerman Drive,Beaverton, OR 97005-6453",C/O Nice Inc. One Bowerman Drive Beaverton OR 97005-6453,970056453,,US,1,58,1,9,1,0,9,0.254278307,0.206266875,,,B212206,"C/O Nice, Inc",,One Bowerman Drive,,,97005-6453,Beaverton,OR,,,,1
+49485955,"HYNES, Alan","10 The Courtyard,Castleredmond,Midleton",10 The Courtyard Castleredmond Midleton,10,10,IE,1,39,1,5,1,1,2,0.344669725,0.184457658,,,B212205,,,The Courtyard,10,Castleredmond,,Midleton,,,,,1
+49501741,"LIU, Jianli","ZTE CORPORATION ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan,Shenzhen, Guangdong 518057",ZTE CORPORATION ZTE Plaza Keji Road South Hi-Tech Industrial Park Nanshan Shenzhen Guangdong 518057,518057,,CN,1,100,1,14,1,0,6,0.976581861,0.182726665,,,B212205,ZTE CORPORATION ZTE Plaza,,Keji Road South,,Nashan,518057,Shenzen,Guangdong,,,,1
+49504335,"JAMIL, Asha","c/o School of Pharmacy,RCSI,122 St Stephens Green,Dublin, D2",c/o School of Pharmacy RCSI 122 St Stephens Green Dublin D2,122 2,122,IE,1,60,1,11,2,1,4,0.875721079,0.12671763,,,B212201,c/o School of Pharmacy;RCSI,,St Stephens Green,122,,D2,Dublin,,,,,1
+49505189,"Fletcher, Paul","Mars Drinks UK Ltd.,Armstrong Road,Basingstoke, Hampshire RG24 8NU",Mars Drinks UK Ltd. Armstrong Road Basingstoke Hampshire RG24 8NU,24 8,G24,GB,1,66,1,10,2,1,3,0.929603968,0.173270459,,,B212204,,Mars Drinks UK Ltd.,Armstrong Road,,,,Basingstoke,Hampshire,,,,1
+49566769,"Nagai, Kiyoshi","c/o CKD CORPORATION,250, Ouji 2-chome,Komaki-shi, Aichi 485-8551",c/o CKD CORPORATION 250 Ouji 2-chome Komaki-shi Aichi 485-8551,250 2 4858551,250,JP,1,64,1,9,3,1,11,0.837324783,0.144468938,,,B212202,CKD CORPORATION,,250 Ouji 2-chome,,Komaki-shi,485-8551,Aichi,,,,,1
+49591312,"NAKATA, Masanori, c/o Mitsubishi Denki K.K.","2-3, Marunouchi 2-chome,Chiyoda-ku,Tokyo 100-8310",2-3 Marunouchi 2-chome Chiyoda-ku Tokyo 100-8310,23 2 1008310,2-,JP,1,49,1,6,3,1,10,0.950133043,0.139279136,,,B212202,Mitsubishi Denki K.K.,,"2-3, Marunouchi 2-chome",100,Chiyoda-ku,8310,Tokyo,,,,,1
+49593240,SUZUKI Keiichiro,"c/o SUMITOMO CHEMICAL COMPANY LIMITED,5-1 Sobiraki-cho,Niihama-shi Ehime 792-8521",c/o SUMITOMO CHEMICAL COMPANY LIMITED 5-1 Sobiraki-cho Niihama-shi Ehime 792-8521,51 7928521,5-,JP,1,81,1,10,2,1,9,0.154668627,0.167051084,,,B212204,SUMITOMO CHEMICAL COMPANY LIMITED,,"Sobiraki-cho,",5-1 ,Sobiraki-cho,792-8521,Niihama-shi,,,,,1
+49601639,"Tadmor, Oren","c/o Orcam Technologies Ltd.,13 Hartom St.,91450 Jerusalem",c/o Orcam Technologies Ltd. 13 Hartom St. 91450 Jerusalem,13 91450,13,IL,1,57,1,9,2,1,7,0.042007503,0.184129613,,,B212205,c/o Orcam Technologies Ltd,,Hartom St.,13,,91450 ,Jerusalem,,,,,1
+49612185,"OTSUKA, Tatsushi","c/o FUJITSU LIMITED,1-1, Kamikodanaka 4-chome,Nakahara-ku,Kawasaki-shi Kanagawa 211-8588",c/o FUJITSU LIMITED 1-1 Kamikodanaka 4-chome Nakahara-ku Kawasaki-shi Kanagawa 211-8588,11 4 2118588,1-,JP,1,88,1,10,3,1,10,0.366285675,0.124837407,,,B212201,c/o FUJITSU LIMITED,,"1-1, Kamikodanaka 4-chome",,Nakahara-ku; Kawasaki-sh,211-8588,Kanagawa,,,,,1
+49629864,"SAITO, Shun","c/o Asahi Glass Company, Limited,5-1, Marunouchi 1-chome,Chiyoda-ku,Tokyo 100-8405",c/o Asahi Glass Company Limited 5-1 Marunouchi 1-chome Chiyoda-ku Tokyo 100-8405,51 1 1008405,5-,JP,1,82,1,11,3,1,10,0.457483423,0.127591534,,,B212201,c/o Asahi Glass Company;Limited,,"5-1, Marunouchi 1-chome",,Chiyoda-ku,100-8405,Tokyo ,,,,,1
+49652604,"ATKINS, Robin","c/o Dolby Laboratories, Inc.,100 Potrero Avenue,San Francisco, California 94103-4813",c/o Dolby Laboratories Inc. 100 Potrero Avenue San Francisco California 94103-4813,100 941034813,100,US,1,84,1,11,2,1,12,0.855802356,0.170022684,,,B212204,,Dolby Laboratories,Potrero Avenue,100,,94103-4813,San-Fransico,California,,,,1
+49654202,"Pellacini, Roberto","Stamplast S.A.S.,Strada Pilastro 10/A,Torrechiara Langhirano,43010 Parma",Stamplast S.A.S. Strada Pilastro 10/A Torrechiara Langhirano 43010 Parma,10 43010,10/,IT,1,72,1,9,2,1,7,0.801014457,0.124219001,,,B212201,Stamplast S.A.S.,,Strada Pilastro,10/A,Torrechiara Langhirano,43010,Parma,,,,,1
+49664721,Xavant Technology (Pty) Limited,"Ravello,Delmondo Office Park,169 Garstfontein Road,Ashlea Gardens,0081 Pretoria",Ravello Delmondo Office Park 169 Garstfontein Road Ashlea Gardens 0081 Pretoria,169 0081,169,ZA,1,79,1,11,2,1,7,0.472312823,0.139103661,,,B212202,,Delmondo Office Park,Garstfontein Road,169,Ashlea Gardens,0081,Pretoria,,,,,1
+49675333,"LEE, Jae Wook","LG Institute,533 Hogye 1(il)-dong,Dongan-gu,Anyang-si Gyeonggi-do 431-080",LG Institute 533 Hogye 1(il)-dong Dongan-gu Anyang-si Gyeonggi-do 431-080,533 1 431080,533,KR,1,73,1,9,3,1,10,0.643274685,0.176129337,,,B212204,LG Institute,,Hogye 1(il)-dong,533,,,,,,,,1
+49710389,"Johanson, James E.","P.O Box 189,147 Ashley Hill Road,Old Chatham,New York, NY 12136",P.O Box 189 147 Ashley Hill Road Old Chatham New York NY 12136,189 147 12136,189,US,1,63,1,13,3,1,11,0.280901991,0.197620148,,,B212206,,P.O Box 189,Ashley Hill Road,147,Old Chatham,12136,New York,NY,,,,1
+49777142,"KIM, Jong Sun","123-1206 Mokdong Apt.,Mok6-dong,Yangcheon-gu,Seoul, 158-050",123-1206 Mokdong Apt. Mok6-dong Yangcheon-gu Seoul 158-050,1231206 6 158050,123-,KR,1,59,1,7,3,1,14,0.767987284,0.19942304,,,B212206,,Mokdong Apt.,Mok6-dong,123-1206,Yangcheon-gu,158-050,Seoul,,,,,1
+49814183,"ZHOU, Bin","Room 203,No. 146,Gao Jing No. 1 Residential Quarter,Yin Gao Road (West), Baoshan District,Shanghai 200439",Room 203 No. 146 Gao Jing No. 1 Residential Quarter Yin Gao Road (West) Baoshan District Shanghai 200439,203 146 1 200439,203,CN,1,105,1,18,4,1,13,0.704598216,0.211240341,,,B212206,,"Room 203,Jing No. 1 Residential Quarter",Yin Gao Road (West),No. 146,Baoshan District,200439,Shanghai,,,,,1
+49814472,"Sugita, Narutoshi","c/o Honda R&D Co., Ltd.,4-1, Chuo 1-chome,Wako-shi, Saitama 351-0193",c/o Honda R&D Co. Ltd. 4-1 Chuo 1-chome Wako-shi Saitama 351-0193,41 1 3510193,4-,JP,1,68,1,11,3,1,10,0.40507833,0.145869844,,,B212202,"Honda R&D Co., Ltd.",,"4-1, Chuo 1-chome",,,351-0193,Wako-shi,Saitama ,,,,1
+49908558,"Ogino, Tsukasa",Kiryu,Kiryu,,,JP,1,5,3,1,0,0,0,0.375124843,0.184362595,,,B212205,,,,,,,Kiryu,,,,,0
+49943385,"Salman, Nader",Tananger,Tananger,,,NO,1,8,3,1,0,0,0,0.208386712,0.174355531,,,B212204,,,,,tanager,,,,,,,0
+49988207,"Lim, Sang Hyup",Seoul,Seoul,,,KR,1,5,3,1,0,0,0,0.546862779,0.181563908,,,B212205,,,,,,,Seoul,,,,,0
+49992224,"CHEN, Su-Huey",Hsinchu City,Hsinchu City,,,TW,1,12,3,2,0,0,0,0.47325269,0.127086842,,,B212201,,,,,,,Hsinchu City,,,,,0
+49995342,"Powell, Kevin Blake",Clevedon,Clevedon,,,NZ,1,8,3,1,0,0,0,0.379877262,0.152026043,,,B212203,,,,,,,Clevedon,,,,,0
+50000977,"Monsalvo, Rodolfo","San Diego,CA",San Diego CA,,,US,1,12,3,3,0,0,0,0.97983724,0.202721373,,,B212206,,,,,,,San Diego,CA,,,,0
+50004566,"Chen, Tina Yung-Ting","San Jose,CA",San Jose CA,,,US,1,11,3,3,0,0,0,0.997719424,0.182641411,,,B212205,,,,,,,San Jose,CA,,,,0
+50030628,"Motegi, Takeshi",Utsunomiya-shi,Utsunomiya-shi,,,JP,1,14,3,1,0,0,0,0.464568945,0.177742539,,,B212204,,,,,,,Utsunomiya-shi,,,,,0
+50123623,"LECART, SANDRINE","15 rÇsidence Guillaume de voisin, 91190 Gif-sur-Yvette FR",15 rÇsidence Guillaume de voisin 91190 Gif-sur-Yvette FR,15 91190,15,FR,1,57,1,8,2,1,7,0.453764073,0.164118909,,,B212203,,,rÇsidence Guillaume de voisin,15,,91190,Gif-sur-Yvette,,FR,,,1
+50280807,"KOESLING, JAN","9E, Laiguangying Road Chao Yang District, Beijing, CN",9E Laiguangying Road Chao Yang District Beijing CN,9,9E,CN,1,53,1,8,1,1,1,0.797180381,0.14060144,,,B212202,,,,9E,Laiguangying Road Chao Yang District,,Beijing,,CN,,,1
+51176471,"DEFERT, Olivier","Amakem NV,Life Sciences Incubator,Agoralaan A bis,B-3590 Diepenbeek",Amakem NV Life Sciences Incubator Agoralaan A bis B-3590 Diepenbeek,3590,,BE,1,67,1,10,1,0,4,0.975478398,0.174673746,,,B212204,Amakem NV,Life Sciences Incubator,Agoralaan A,,,3590,Diepenbeek,,,,,1
+51230032,"KNIGHT, Matthew","Heathbank,Newmachar,Aberdeen Aberdeenshire AB21 7PP",Heathbank Newmachar Aberdeen Aberdeenshire AB21 7PP,21 7,B21,GB,1,51,1,6,2,1,3,0.011101134,0.203126406,,,B212206,,,Heathbank,,Newmachar,AB21 7PP,Aberdeenshire,,,Aberdeen,,0
+51269987,"LEE, Brendan","5710 Dumfries,Houston, TX Texas 77096",5710 Dumfries Houston TX Texas 77096,5710 77096,,US,1,37,1,6,2,0,9,0.500738511,0.154806095,,,B212203,,,Dumfries,Dumfries,,77096,Houston,TX Texas,,,,1
+51315603,"Warner, Charles H.","35 Carter Street,South Portland, Maine 04106",35 Carter Street South Portland Maine 04106,35 04106,35,US,1,44,1,7,2,1,7,0.58426209,0.201296448,,,B212206,,,Carter Street,35,South Portland,4106,Maine,,,,,1
+51343003,"DE PONNAT, Arnaud","22 rue de la Pinotiäre,F-Parcay-Meslay 37210",22 rue de la Pinotiäre F-Parcay-Meslay 37210,22 37210,22,FR,1,44,1,7,2,1,7,0.672513402,0.18332041,,,B212205,,,rue de la Pinotiäre,22,,37210,F-Parcay-Meslay,,,,,1
+51379064,QIAGEN Hamburg GmbH,Hilden,Hilden,,,DE,1,6,3,1,0,0,0,0.740853582,0.190300035,,,B212205,,,,,,,Hilden,,,,,0
+51381776,"Hashimoto, Ryuichiro",Soraku-gun,Soraku-gun,,,JP,1,10,3,1,0,0,0,0.689529613,0.134501878,,,B212202,,,,,,,,Soraku-gun,,,,0
+51404023,"Sasaki, Takuro",Chiyoda-ku,Chiyoda-ku,,,JP,1,10,3,1,0,0,0,0.216047115,0.212844084,,,B212206,,,,,Chiyoda-ku,,,,,,,0
+51425157,"MINTZ, Hagay",Kiryat Ata,Kiryat Ata,,,IL,1,10,3,2,0,0,0,0.988328408,0.192013358,,,B212205,,,,,,,Kiryat Ata,,,,,0
+51440580,"PARK, Jeong Sun",Yongin-si,Yongin-si,,,KR,1,9,3,1,0,0,0,0.569861709,0.176989411,,,B212204,,,,,,,Yongin-si,,,,,0
+51443311,"Inoue, Takuya",Kawasaki-shi,Kawasaki-shi,,,JP,1,12,3,1,0,0,0,0.418875657,0.171017965,,,B212204,,,,,,,Kawasaki-shi,,,,,0
+51468782,"JUN, Joon Ho",Gyeonggi-do,Gyeonggi-do,,,KR,1,11,3,1,0,0,0,0.459891413,0.148697732,,,B212203,,,,,,,,Gyeonggi-do,,,,0
+51475304,"Karashima, Shuichi",Osaka,Osaka,,,JP,1,5,3,1,0,0,0,0.365821098,0.16571653,,,B212204,,,,,,,Osaka,,,,,0
+51496172,"Tosunian, Michael","Brea,CA",Brea CA,,,US,1,7,3,2,0,0,0,0.247726446,0.124710116,,,B212201,,,,,Brea,,,CA,,,,0
+51517097,"Hembra, Robert Louis","Bloomington,IL",Bloomington IL,,,US,1,14,3,2,0,0,0,0.521190957,0.20025547,,,B212206,,,,,,,Bloomington,IL,,,,0
+51522098,"Bennett, Jessica Wilbanks","Loganville,GA",Loganville GA,,,US,1,13,3,2,0,0,0,0.233826885,0.122306585,,,B212201,,,,,,,Loganville,GA,,,,0
+51524169,"SATO, Kachiyasu",Tsurugashima-shi,Tsurugashima-shi,,,JP,1,16,3,1,0,0,0,0.649721326,0.204528177,,,B212206,,,Tsurugashima-shi,,,,,,,,,0
+51528432,"Baron, Carlos Nino","Edwards,IL",Edwards IL,,,US,1,10,3,2,0,0,0,0.252729959,0.169418816,,,B212204,,,,,,,Edwards,IL,,,,0
+51531657,Blue-Band LLC,"Orlando,FL",Orlando FL,,,US,1,10,3,2,0,0,0,0.206035911,0.134827231,,,B212202,,,,,,,Orlando,FL,,,,0
+51551087,"Ramsaroop, Shawn","Pine Bluff,AR",Pine Bluff AR,,,US,1,13,3,3,0,0,0,0.320176229,0.204682943,,,B212206,,,,,,,Pine Bluff,AR,,,,0
+51774238,"KAMPE, PHILIP",Lange Koepoortstraat 49 B-2000 Antwerpen BE,Lange Koepoortstraat 49 B-2000 Antwerpen BE,49 2000,49,BE,1,43,1,6,2,1,6,0.820057853,0.19356548,,,B212205,,,Lange Koepoortstraat,49,, B-2000,Antwerpen,BE,,,,1
+51787033,PERCEPTIMED INC.,365 San Antonio Rd. Mountain View CA 94040,365 San Antonio Rd. Mountain View CA 94040,365 94040,365,US,1,42,1,8,2,1,8,0.72588727,0.135988064,,,B212202,,,San Antonio Rd.,365,,94040,Mountain View,CA,,,,1
+51901570,"LIU, HAILONG","ROOM 403, EAST BLOCK 2, SEG PARK, ZHENXING ROAD, FUTIAN DISTRICTSHENZHEN, GUANGDONG 518000 CN",ROOM 403 EAST BLOCK 2 SEG PARK ZHENXING ROAD FUTIAN DISTRICTSHENZHEN GUANGDONG 518000 CN,403 2 518000,403,CN,1,93,1,14,3,1,10,0.750750252,0.186586735,,,B212205,SEG PARK,"ROOM 403, EAST BLOCK 2",ZHENXING ROAD,,FUTIAN DISTRICT,518000,SHENZHEN,GUANGDONG,CN,,,1
+52005469,UNIVERSAL CITY STUDIOS LLLP,"UNIVERSAL CITY PLAZA UNIVERSAL CITY, CA 91608 (US) US",UNIVERSAL CITY PLAZA UNIVERSAL CITY CA 91608 (US) US,91608,,US,1,53,1,9,1,0,5,0.520673333,0.17361555,,,B212204,,,,,,91608,UNIVERSAL,CA,US,,,1
+52036840,"CHUNG, IN- SUN",203 101 (Deokso DooSan Weve Apt.) 180 Deokso ro Wabu eup Namyangju si Gyeonggi do 472 962,203 101 (Deokso DooSan Weve Apt.) 180 Deokso ro Wabu eup Namyangju si Gyeonggi do 472 962,203 101 180 472 962,203,KR,1,89,1,17,5,1,15,0.867231836,0.153832037,,,B212203,,(Deokso DooSan Weve Apt.) ,180 ,203 101 ,Deokso ro; Wabu eup,472 962,Namyangju si,Gyeonggi do,,,,1
+52070552,ELECTRICFIL AUTOMOTIVE,"77, ALLêE DES GRANDES COMBES, ZI QUEST BEYNOST, 01708 MIRIBEL CEDEX FR",77 ALLêE DES GRANDES COMBES ZI QUEST BEYNOST 01708 MIRIBEL CEDEX FR,77 01708,77,FR,1,70,1,12,2,1,7,0.789945834,0.135627983,,,B212202,ZI QUEST BEYNOST,,ALLêE DES GRANDES COMBES,77,MIRIBEL CEDEX,01708,,,FR,,,1
+52119656,YAMADA MIKIO,c/o HITACHI APPLIANCES INC. 800 Tomida Ohira machi Tochigi shi Tochigi 3294493,c/o HITACHI APPLIANCES INC. 800 Tomida Ohira machi Tochigi shi Tochigi 3294493,800 3294493,800,JP,1,78,1,12,2,1,10,0.005513699,0.145117164,,,B212202,HITACHI APPLIANCES INC.,,800 Tomida Ohira machi,,,3294493,Tochigi,Tochigi,,,,1
+52160281,DAN COLVIN,"920 EAST CREEK DRIVE, DRIPPING SPRINS, TEXAS 78620, E.U.A. US",920 EAST CREEK DRIVE DRIPPING SPRINS TEXAS 78620 E.U.A. US,920 78620,920,US,1,61,1,10,2,1,8,0.997707639,0.145314257,,,B212202,,,EAST CREEK DRIVE,920,,,DRIPPING SPRINS,TEXAS,"US, E.U.A",,,1
+52184589,PERRY ROBERT CZIMMEK,"8213 OLD MILL LANE, WILLIAMSBURG VA 23188 US US",8213 OLD MILL LANE WILLIAMSBURG VA 23188 US US,8213 23188,,US,1,47,1,9,2,0,9,0.646919342,0.159956615,,,B212203,,,OLD MILL LANE,8213,,23188,WILLIAMSBURG,VA,US,,,1
+52233052,ADOLF FOHL GMBH + CO. KG.,"SCHONBLICK 17, 73635 RUDERSBERG, GERMANY",SCHONBLICK 17 73635 RUDERSBERG GERMANY,17 73635,17,DE,1,40,1,5,2,1,7,0.353001443,0.147472817,,,B212203,,,SCHONBLICK,17,,73635,RUDERSBERG,,GERMANY,,,1
+52239583,"STEIDL, STEFAN","C/O MORPHOSYS AG, Lena-Christ-Strasse 48, 82152 Martinsried/Planegg GERMANY",C/O MORPHOSYS AG Lena-Christ-Strasse 48 82152 Martinsried/Planegg GERMANY,48 82152,48,DE,1,75,1,8,2,1,7,0.059320714,0.179990862,,,B212204,C/O MORPHOSYS AG,,Lena-Christ-Strasse,48,,82152,Martinsried/Planegg,,GERMANY,,,1
+52259693,"VIRUN, INC.","21118 Commerce Pointe Drive Walnut, CA 91789 US",21118 Commerce Pointe Drive Walnut CA 91789 US,21118 91789,,US,1,47,1,8,2,0,10,0.293232619,0.176097128,,,B212204,,, Commerce Pointe Drive,21118,,91789,Walnut,CA,US,,,1
+52266361,"YAMANAKA, SHINYA","c/o Center for iPS Cell Research and Application,Institute for Integrated Cell-Material Sciences, JP",c/o Center for iPS Cell Research and Application Institute for Integrated Cell-Material Sciences JP,,,JP,1,100,1,14,0,0,0,0.599608574,0.212689144,,,B212206,c/o Center for iPS Cell Research and Applicatio,,,,,,,,JP,,,0
+52349646,"GUNJIMA, Seiji","c/o Toppan Printing Co., Ltd.,5-1 Taito 1-chome,Taito-ku,Tokyo 110-0016",c/o Toppan Printing Co. Ltd. 5-1 Taito 1-chome Taito-ku Tokyo 110-0016,51 1 1100016,5-,JP,1,71,1,11,3,1,10,0.91496395,0.152737601,,,B212203,"c/o Toppan Printing Co., Ltd.",,1-chome 5-1 ,,Taito; Taito-ku,110-0016,Tokyo ,,,,,1
+52351317,"KOLLER, Avi","Kiryat Weizmann,P.O. Box 150,76101 Rehovot",Kiryat Weizmann P.O. Box 150 76101 Rehovot,150 76101,150,IL,1,42,1,7,2,1,8,0.646381465,0.203435308,,,B212206,,,P.O. Box 150,,Kiryat Weizmann,76101,Rehovot,,,,,1
+52375308,"Park, Su-Bum","219-24, Gasan-Dong,Geumcheon-Gu Seoul",219-24 Gasan-Dong Geumcheon-Gu Seoul,21924,219-,KR,1,37,1,4,1,1,5,0.523685283,0.193906783,,,B212205,,,219-24,,Gasan-Dong;Geumcheon-Gu,,Seoul,,,,,1
+52447559,"CHAN, Eva, King, Fan","800 North Lindbergh Blvd.,St. Louis, MO 63167",800 North Lindbergh Blvd. St. Louis MO 63167,800 63167,800,US,1,45,1,8,2,1,8,0.120555876,0.192680741,,,B212205,,,North Lindbergh Blvd.,800,,63167,St. Louis,MO,,,,1
+52467121,"TIBBEN, Bradley Steve","621 14th Street Place,Nevada, IA 50201",621 14th Street Place Nevada IA 50201,621 14 50201,621,US,1,38,1,7,3,1,10,0.744341061,0.207337037,,,B212206,,,14th Street Place,621,Nevada,50201,,IA,,,,0
+52555194,HELMHOLTZ ZENTRUM MöNCHEN DEUTSCHES FORSCHUNGSZENT RUM FöR GESUNDHEIT UND UMWELT (GMBH),Neuherberg,Neuherberg,,,DE,1,10,3,1,0,0,0,0.647115662,0.122134447,,,B212201,,,,,,,Neuherberg,,,,,0
+52558718,"KATAOKA, Yusuke","Tsu-shi, Mie-ken",Tsu-shi Mie-ken,,,JP,1,16,3,2,0,0,0,0.720989306,0.17953809,,,B212204,,,,,,,Tsu-shi,Mie-ken,,,,0
+52559625,"HAN, Joo-Man",Seoul,Seoul,,,KR,1,5,3,1,0,0,0,0.384418188,0.206242081,,,B212206,,,,,,,Seoul,,,,,0
+52569819,"SUMITOMOMETAL MINING CO., LTD.",Tokyo,Tokyo,,,JP,1,5,3,1,0,0,0,0.127370527,0.17674497,,,B212204,,,,,,,Tokyo,,,,,0
+52572832,"Aragone, Matteo",Genova,Genova,,,IT,1,6,3,1,0,0,0,0.575923767,0.12776531,,,B212201,,,,,,,Genova,,,,,0
+52575535,"KODAMA, Satoshi",Kanagawa,Kanagawa,,,JP,1,8,3,1,0,0,0,0.105481019,0.171171612,,,B212204,,,,,,,,Kanagawa,,,,0
+52582395,"Skoretz, Dallas Wayne","McDonald,TN",McDonald TN,,,US,1,11,3,2,0,0,0,0.137446132,0.184951709,,,B212205,,,,,McDonald,,,TN,,,,0
+52586750,Whistler Technologies Inc,"Longmont,CO",Longmont CO,,,US,1,11,3,2,0,0,0,0.871288785,0.200910108,,,B212206,,,,,,,Longmont,CO,,,,0
+52644806,"Singh, Dave P.","Portland,OR",Portland OR,,,US,1,11,3,2,0,0,0,0.02271062,0.209507039,,,B212206,,,,,,,Portland,OR,,,,0
+52801376,BENILDO SOUSA CAVADA,BR,BR,,,BR,1,2,3,1,0,0,0,0.790592409,0.164264666,,,B212203,,,,,,,,,BR,,,0
+52890318,"DENG, ZHIPIN","Building A, Raycom Info Tech Park Tower 2 Kexueyuan Nanlu,zhongguancun 100081 CN",Building A Raycom Info Tech Park Tower 2 Kexueyuan Nanlu zhongguancun 100081 CN,2 100081,2,CN,1,80,1,13,2,1,7,0.040997717,0.18572492,,,B212205,Raycom Info Tech Park Tower,Building A,Kexueyuan Nanlu,2,zhonggauncun,100081,,,,,,1
+52926019,KAZUO NISHIKAWA,"A/C SHARP KABUSHIKI KAISHA, 22-22, NAGAIKE-CHO, ABENO-KU, OSAKA-SHI, OSAKA 545-8522 JP",A/C SHARP KABUSHIKI KAISHA 22-22 NAGAIKE-CHO ABENO-KU OSAKA-SHI OSAKA 545-8522 JP,2222 5458522,22-,JP,1,86,1,11,2,1,11,0.261980271,0.153969065,,,B212203,A/C SHARP KABUSHIKI KAISHA,,22-22,,NAGAIKE-CHO; ABENO-KU,545-8522,OSAKA-SHI,OSAKA,JP,,,1
+52932908,PEDRO SILVA INµCIO,"RUA HENRIQUE MIERS, 427, APTO 402, COSTA E SILVA 89218600 JOINVILLE BR",RUA HENRIQUE MIERS 427 APTO 402 COSTA E SILVA 89218600 JOINVILLE BR,427 402 89218600,427,BR,1,70,1,12,3,1,14,0.84903236,0.138495047,,,B212202,,APTO 402,RUA HENRIQUE MIERS,427,COSTA E SILVA,89218600,JOINVILLE,,BR,,,1
+52951173,CATALYTIC DISTILLATION TECHNOLOGIES,10100 Bay Area Boulevard~Pasadena~Texas~77507 US,10100 Bay Area Boulevard~Pasadena~Texas~77507 US,10100 77507,,US,1,48,1,5,2,0,10,0.204421256,0.157868114,,,B212203,,,Bay Area Boulevard,10100,,77507,Pasadena,Texas,US,,,1
+53280373,"DE LA SERNA, PEDRO E.","375 Patton Avenue San Jose, CA 95128 US",375 Patton Avenue San Jose CA 95128 US,375 95128,375,US,1,39,1,8,2,1,8,0.100599705,0.169385215,,,B212204,,,Patton Ave,375,,95128,San Jose,CA,US,,,1
+53341073,"PEREZ MARTINEZ, Alfonso de Jesus","Avda. Valladolid N¯21 B Bajo,E-28008 Madrid",Avda. Valladolid N¯21 B Bajo E-28008 Madrid,21 28008,¯21,ES,1,43,1,7,2,1,7,0.696030339,0.199857977,,,B212206,,,Avda. Valladolid,N¯21 B,Bajo,E-28008,Madrid,,,,,1
+53409264,E1023 Corporation,"34361 Innovation Drive,Ronan, MT 59864",34361 Innovation Drive Ronan MT 59864,34361 59864,,US,1,38,1,6,2,0,10,0.498110911,0.168373816,,,B212204,,,Innovation Drive,34361,,59864,Ronan,MT,,,,1
+53419370,DEINOVE,"1682 Rue de la Valsiäre,Cap Sigma-Zac Euromedecine II,34790 Grabels",1682 Rue de la Valsiäre Cap Sigma-Zac Euromedecine II 34790 Grabels,1682 34790,,FR,1,67,1,11,2,0,9,0.887367019,0.212624749,,,B212206,,,Rue de la Valsiäre,1682,Cap Sigma-Zac Euromedecine II,34790,Grabels,,,,,1
+53423938,"ZHANG, Naiqian","DYNAX SEMICONDUCTOR, INC.,No.18 Chenfeng Road, Yushan Town,Kunshan Jiangsu 215300",DYNAX SEMICONDUCTOR INC. No.18 Chenfeng Road Yushan Town Kunshan Jiangsu 215300,18 215300,.18,CN,1,81,1,11,2,1,8,0.899023173,0.127408823,,,B212201,DYNAX SEMICONDUCTOR;INC.,,Chenfeng Road,No.18,,215300,Yushan Town,Kunshan Jiangsu,,,,1
+53455489,TAMURA Masaki,"c/o MITSUBISHI ENGINEERING-PLASTICS CORPORATION,6-2 Higashiyawata 5-chome,Hiratsuka-shi Kanagawa 254-0016",c/o MITSUBISHI ENGINEERING-PLASTICS CORPORATION 6-2 Higashiyawata 5-chome Hiratsuka-shi Kanagawa 254-0016,62 5 2540016,6-,JP,1,105,1,10,3,1,10,0.063964291,0.212335694,,,B212206,c/o MITSUBISHI ENGINEERING-PLASTICS CORPORATION,,6-2 Higashiyawata 5-chome,,,254-0016,Hiratsuka-shi Kanagawa,,,,,1
+53476833,"NISHII, Takahito","C/O DENSO CORPORATION,1-1 Showa-cho,Kariya-city Aichi 448-8661",C/O DENSO CORPORATION 1-1 Showa-cho Kariya-city Aichi 448-8661,11 4488661,1-,JP,1,62,1,8,2,1,9,0.649390719,0.1664798,,,B212204,DENSO CORPORATION,,Showa-cho,1-1,,448-8661,Kariya-city,Aichi,,,,1
+53491737,"TAYLOR, Ron",Highland Park,Highland Park,,,AU,1,13,3,2,0,0,0,0.720206749,0.180074008,,,B212204,,,,,,,Highland Park,,,,,0
+53493890,H2WIN S.A.,Nivelles,Nivelles,,,BE,1,8,3,1,0,0,0,0.800584131,0.128463934,,,B212201,,,,,,,Nivelles,,,,,0
+53501166,"Tixhon, Eric",Louvain-la-Neuve,Louvain-la-Neuve,,,BE,1,16,3,1,0,0,0,0.42784841,0.142354734,,,B212202,,,,,,,Louvain-la-Neuve,,,,,0
+53518830,"Chopra, Nagesh",Chandigarm,Chandigarm,,,IN,1,10,3,1,0,0,0,0.07029014,0.205130049,,,B212206,,,,,,,Chandigarm,,,,,0
+53528999,"VARGHESE, Thoppil Antony",Chennai,Chennai,,,IN,1,7,3,1,0,0,0,0.924137176,0.127354329,,,B212201,,,,,,,Chennai,,,,,0
+53550132,"Park, Bong-Im",Hwaseong-si,Hwaseong-si,,,KR,1,11,3,1,0,0,0,0.851902114,0.164809445,,,B212204,,,,,,,Hwaseong-si,,,,,0
+53584150,"LI, CHIH-WEN",TAOYUAN CITY,TAOYUAN CITY,,,TW,1,12,3,2,0,0,0,0.489513996,0.177243564,,,B212204,,,,,,,TAOYUAN CITY,,,,,0
+53626403,"Lee, Tao-Yi",Taichung City,Taichung City,,,TW,1,13,3,2,0,0,0,0.166339786,0.146278501,,,B212202,,,,,,,Taichung City,,,,,0
+53640174,"SONG, Minwoo",Gumi-si,Gumi-si,,,KR,1,7,3,1,0,0,0,0.308431102,0.197922618,,,B212206,,,,,,,Gumi-si,,,,,0
+53680005,"Oh, Jee-Seok",Yongin,Yongin,,,KR,1,6,3,1,0,0,0,0.583433543,0.19364835,,,B212205,,,,1144,,,Yongin,,,,,0
+53685322,"Nu Visions International, Inc.","Milford,PA",Milford PA,,,US,1,10,3,2,0,0,0,0.22089091,0.196658004,,,B212205,,,,,Milford,,,PA,,,,0
+53691899,"AudioNow IP Holdings, LLC","Wilmington,DE",Wilmington DE,,,US,1,13,3,2,0,0,0,0.989358394,0.209091784,,,B212206,,,,,,,Wilmington,DE,,,,0
+53831471,YOUNG IAIN,ARMIDALE AU,ARMIDALE AU,,,AU,1,11,3,2,0,0,0,0.656961677,0.143074708,,,B212202,,,,,,,ARMIDALE,,AU,,,0
+53835839,"WANG, Yujiang","NO.936 ZHANG HENG ROAD,ZHANGJIANG HI-TECH PARK SHANGHAI 201203",NO.936 ZHANG HENG ROAD ZHANGJIANG HI-TECH PARK SHANGHAI 201203,936 201203,.936,CN,1,62,1,9,2,1,9,0.472794234,0.209662276,,,B212206,,,ZHANG HENG ROAD,NO.936,ZHANGJIANG HI-TECH PARK,201203,SHANGHAI,,,,,1
+53843855,"SARATHY, Siva Rajan","1537 SANDPIPER DRIVE LONDON, ONTARIO N5X 0G4",1537 SANDPIPER DRIVE LONDON ONTARIO N5X 0G4,1537 5 04,N5X,CA,1,44,1,7,3,1,7,0.141013395,0.151705495,,,B212203,,,SANDPIPER DRIVE,1537,,N5X 0G4,London,Ontario,,,,1
+53865283,"SHANG, Ergang","ZTE PLAZA SHENZHEN, GUANGDONG 518057 KEJI ROAD SOUTH, HI-TECH INDUSTRIAL PARK, NANSHAN DISTRICT",ZTE PLAZA SHENZHEN GUANGDONG 518057 KEJI ROAD SOUTH HI-TECH INDUSTRIAL PARK NANSHAN DISTRICT,518057,,CN,1,95,1,13,1,0,6,0.656384925,0.210425559,,,B212206,,,KEJI ROAD SOUTH,,,518057,GUANGDONG,,,,,1
+53973090,EIGENBROD VOLKMAR,KREFELD DE,KREFELD DE,,,DE,1,10,3,2,0,0,0,0.783753312,0.211712763,,,B212206,,,,,,,KREFELD,,DE,,,0
+53973853,HIROI Takashi,"C/O HITACHI HIGH-TECHNOLOGIES CORPORATION, 24-14, NISHI SHIMBASHI 1-CHOME, MINATO-KU, TOKYO 1058717 ?1058717",C/O HITACHI HIGH-TECHNOLOGIES CORPORATION 24-14 NISHI SHIMBASHI 1-CHOME MINATO-KU TOKYO 1058717 ?1058717,2414 1 1058717 1058717,24-,JP,1,108,1,12,4,1,19,0.465222014,0.182369127,,,B212205,C/O HITACHI HIGH-TECHNOLOGIES CORPORATION,,24-14,,MINATO-KU,?1058717,Tokyo,,,,,1
+53995356,"SARVER, Edwin Jay","84 PITT STREET SYDNEY, NEW SOUTH WALES 2000",84 PITT STREET SYDNEY NEW SOUTH WALES 2000,84 2000,84,AU,1,43,1,8,2,1,6,0.870728208,0.13584232,,,B212202,,,PITT STREET,84,,2000, SYDNEY,NEW SOUTH WALES,,,,1
+54036070,BEDNARZ SZCZEPAN,KRAK‡W PL,KRAK‡W PL,,,PL,1,9,3,2,0,0,0,0.851050612,0.154056717,,,B212203,,,,,,,KRAK‡W,,PL,,,0
+54148378,"GARDNER, Andrew","AB CONNECTORS LTD RHONDDA CYNON TAFF, MID GLAMORGAN CF45 4SF ABERCYNON, MOUNTAIN ASH",AB CONNECTORS LTD RHONDDA CYNON TAFF MID GLAMORGAN CF45 4SF ABERCYNON MOUNTAIN ASH,45 4,F45,GB,1,84,1,13,2,1,3,0.234494585,0.127070452,,,B212201,AB CONNECTORS LTD,,,,MID GLAMORGAN,CF45 4SF,ABERCYNON,MOUNTAIN ASH;RHONDDA CYNON TAFF,,,,0
+54151193,SASAKUMA KHidekhiro,"129090, Moskva, ul. B. Spasskaja, 25, stroenie 3, OOO 'JUridicheskaja firma Gorodisskij i Partnery'",129090 Moskva ul. B. Spasskaja 25 stroenie 3 OOO 'JUridicheskaja firma Gorodisskij i Partnery',129090 25 3,25,JP,1,99,1,14,3,1,9,0.383912447,0.12350174,,,B212201,OOO 'JUridicheskaja firma Gorodisskij i Partnery',stroenie 3,ul. B. Spasskaja,25,,129090,Moskva,,,,,1
+54256847,"DONATI, Daniele","PO Box 11, V.le Pasteur 10, I-20014 Nerviano (MI) IT",PO Box 11 V.le Pasteur 10 I-20014 Nerviano (MI) IT,11 10 20014,11,IT,1,52,1,10,3,1,9,0.885965808,0.121735471,,,B212201,,,"PO Box 11, V.le Pasteur 10",10,,I-20014,Nerviano,(MI),IT,,,1
+54276591,"BAUDOUX, Jean-Pierre","Rue de l'Institut 89, B-1330 Rixensart BE",Rue de l'Institut 89 B-1330 Rixensart BE,89 1330,89,BE,1,41,1,7,2,1,6,0.986099168,0.200215886,,,B212206,,,Rue de l'Institut,89,,B-1330,Rixensart,,BE,,,1
+54323217,TOPSUN CREATIVE DESIGN,"28 XIANGYUAN ROAD, GONGSHU DISTRICT HANGZHOU, ZHEJIANG 310015",28 XIANGYUAN ROAD GONGSHU DISTRICT HANGZHOU ZHEJIANG 310015,28 310015,28,CN,1,61,1,8,2,1,8,0.905179946,0.166013955,,,B212204,,,"XIANGYUAN ROAD,",28,"GONGSHU DISTRICT HANGZHOU,",310015,ZHEJIANG,,,,,1
+54413781,"WESTERBY, Carl, Benjamin","3264 S. SPRINGFIELD AVENUE MILWAUKEE, WI 53207",3264 S. SPRINGFIELD AVENUE MILWAUKEE WI 53207,3264 53207,,US,1,46,1,7,2,0,9,0.96595802,0.137558511,,,B212202,,, S. SPRINGFIELD AVENUE,3264,,53207,MILWAUKEE,WI,,,,1
+54426332,"ZHANG, Dong","HUAWEI ADMINISTRATION BUILDING SHENZHEN, GUANGDONG 518129 BANTIAN, LONGGANG DISTRICT",HUAWEI ADMINISTRATION BUILDING SHENZHEN GUANGDONG 518129 BANTIAN LONGGANG DISTRICT,518129,,CN,1,84,1,9,1,0,6,0.576772526,0.176793021,,,B212204,,HUAWEI ADMINISTRATION BUILDING SHENZHEN,,,LONGGANG DISTRICT,518129,GUANGDONG,BANTIAN,,,,1
+54435885,"WOO, Ji Hoon","53, YEONGTONG-RO 27BEON-GIL GYEONGGI-DO 18376 HWASEONG-SI",53 YEONGTONG-RO 27BEON-GIL GYEONGGI-DO 18376 HWASEONG-SI,53 27 18376,53,KR,1,57,1,6,3,1,9,0.786044954,0.123009419,,,B212201,,,YEONGTONG-RO 27BEON-GIL,53,,18376,HWASEONG-SI,GYEONGGI-DO,,,,1
+54465385,Peking University Shenzhen Graduate School,"Peking University Campus,Xili University Town,Nanshan District,Shenzhen, Guangdong 518055",Peking University Campus Xili University Town Nanshan District Shenzhen Guangdong 518055,518055,,CN,1,89,1,11,1,0,6,0.228840643,0.127274373,,,B212201,Peking University Campus,,,,Xili University Town;Nanshan District,518055,Shenzhen,Guangdong,,,,0
+54466213,"GENG, Meiyu","No.555 of Zuchongzhi Road,Zhangjiang,Pudong New Area,Shanghai 201203",No.555 of Zuchongzhi Road Zhangjiang Pudong New Area Shanghai 201203,555 201203,.555,CN,1,68,1,10,2,1,9,0.776098012,0.204490464,,,B212206,Zhangjiang,No.555, Zuchongzhi Road,,Pudong New Area,201203,Shanghai,,,,,1
+54485652,Chromition Limited,"11 Riverview,Teh Embankment Business Park,Heaton Mersey,Stockport,Cheshire SK4 3GN",11 Riverview Teh Embankment Business Park Heaton Mersey Stockport Cheshire SK4 3GN,11 4 3,11,GB,1,82,1,12,3,1,4,0.500305013,0.144390132,,,B212202,,Teh Embankment Business Park,Riverview,11,Heaton Mersey,SK4 3GN,Stockport,Cheshire,,,,1
+54488119,"Cleary, Sean","Meritor Heavy Vehicle Braking Systems (UK) Limited,Grange Road,Cwmbran, Monmouthshire NP44 3XU",Meritor Heavy Vehicle Braking Systems (UK) Limited Grange Road Cwmbran Monmouthshire NP44 3XU,44 3,P44,GB,1,94,1,13,2,1,3,0.456740446,0.160679773,,,B212203,Meritor Heavy Vehicle Braking Systems (UK) Limited,,Grange Road,,,Monmouthshire,Cwmbran,Monmouthshire,,,,1
+54506562,"O'KELLY, Sophie Alexandra","c/o IP Group,Mars Incorporated,Dunde Road,Slough Berkshire SL1 4JX",c/o IP Group Mars Incorporated Dunde Road Slough Berkshire SL1 4JX,1 4,L1,GB,1,66,1,11,2,1,2,0.452077263,0.157924129,,,B212203,"c/o IP Group,Mars Incorporated",,Dunde Road,,,SL1 4JX,Slough,Berkshire,,,,1
+54523967,"TOMICHI, Hiroyuki","c/o Autoliv Japan Ltd.,4F Innotech Bldg.,3-17-6 Shinyokohama, Kohoku-ku,Yokohama, Kanagawa 222-8580",c/o Autoliv Japan Ltd. 4F Innotech Bldg. 3-17-6 Shinyokohama Kohoku-ku Yokohama Kanagawa 222-8580,4 3176 2228580,4F,JP,1,99,1,13,3,1,12,0.662080585,0.179260208,,,B212204,c/o Autoliv Japan Ltd.,, Innotech Bldg.,4F,"3-17-6 Shinyokohama, Kohoku-ku,Yokohama",222-8580,Kanagawa,,,,,1
+54606794,"Peregrine Surgical, Ltd.","51 Britain Drive,New Britain, PA 18901",51 Britain Drive New Britain PA 18901,51 18901,51,US,1,38,1,7,2,1,7,0.291958892,0.152945218,,,B212203,,,Britain Drive,51,,18901,New Britain,PA,,,,1
+54633635,"NANJING TOPTO MATERIALS CO., LTD.",Nanjing,Nanjing,,,CN,1,7,3,1,0,0,0,0.392447057,0.208947762,,,B212206,,,,,,,Nanjing,,,,,0
+54642804,"Brinkmeier, Jan-Philipp",Braunschweig,Braunschweig,,,DE,1,12,3,1,0,0,0,0.714934872,0.166017992,,,B212204,,,Braunschweig,,,,,,,,,0
+54665688,"YAO, GUOHAI",Zhejiang,Zhejiang,,,CN,1,8,3,1,0,0,0,0.908261125,0.211604238,,,B212206,,,,,,,Zhejiang,,,,,0
+54727908,"KIM, Ye Jeong",Suwon-si,Suwon-si,,,KR,1,8,3,1,0,0,0,0.34262048,0.173557507,,,B212204,,,,,,,Suwon-si,,,,,0
+54752769,"Kanesada, Takayasu",Yamato,Yamato,,,JP,1,6,3,1,0,0,0,0.2806592,0.126422538,,,B212201,,,,,,,Yamato,,,,,0
+54786980,"Stearman, Phillip Charles","Northport,AL",Northport AL,,,US,1,12,3,2,0,0,0,0.289176412,0.209627334,,,B212206,,,,,,,Northport,AL,,,,0
+54789634,"TSENG, KUAN-CHUN",HSINCHU CITY,HSINCHU CITY,,,TW,1,12,3,2,0,0,0,0.203531436,0.146185224,,,B212202,,,,,,,HSINCHU CITY,,,,,0
+54820170,"Shen, Yi","Seminole,FL",Seminole FL,,,US,1,11,3,2,0,0,0,0.047397199,0.196104013,,,B212205,,,,,Seminole,,,FL,,,,0
+55060385,Zhukova Olga Gennadevna,"129226, Moskva, pr-t Mira, 171, pom. 19, Davidenko N.F.",129226 Moskva pr-t Mira 171 pom. 19 Davidenko N.F.,129226 171 19,171,RU,1,55,1,9,3,1,11,0.590388998,0.166358226,,,B212204,,,pr-t Mira,171,,129226,Moskva,Davidenko,,,,1
+55205156,Ryagin Sergej Nikolaevich,"142210, Moskovskaya obl., g. Serpukhov, B. Udarnyj per., 1a, Mezhregionalnoe obshchestvennoe uchrezhdenie 'Institut inzhenernoj fiziki'",142210 Moskovskaya obl. g. Serpukhov B. Udarnyj per. 1a Mezhregionalnoe obshchestvennoe uchrezhdenie 'Institut inzhenernoj fiziki',142210 1,1a,RU,1,135,1,15,2,1,7,0.992949201,0.127738714,,,B212201,Mezhregionalnoe obshchestvennoe uchrezhdenie 'Institut inzhenernoj fiziki',,B. Udarnyj per.,1a,,142210,g. Serpukhov,Moskovskaya obl.,,,,1
+55259475,Borisov Ivan Andreevich,"117997, Moskva, ul. Miklukho-Maklaya, 16/10, korp. 71, IBKH RAN, ZAO Nauchno-proizvodstvennaya kompaniya 'Kombiotekh', zav. laboratorii biotekhnologii Krymskij M.A.",117997 Moskva ul. Miklukho-Maklaya 16/10 korp. 71 IBKH RAN ZAO Nauchno-proizvodstvennaya kompaniya 'Kombiotekh' zav. laboratorii biotekhnologii Krymskij M.A.,117997 1610 71,16/,RU,1,164,1,18,3,1,12,0.924523075,0.209720326,,,B212206,,, ul. Miklukho-Maklaya,16/10,,117997,Moskva,,,,,1
+55398490,CONSTANTINO GALERA LOZANO,"POL÷GONO INDUSTRIAL DE QUART DE POBLET, C/ LA PINAETA S/N, 46930 QUART DE POBLET VALENCIA ES",POL÷GONO INDUSTRIAL DE QUART DE POBLET C/ LA PINAETA S/N 46930 QUART DE POBLET VALENCIA ES,46930,,ES,1,92,1,16,1,0,5,0.647679749,0.135121077,,,B212202,C/ LA PINAETA S/N,,,,QUART DE POBLET;POL÷GONO INDUSTRIAL DE QUART DE POBLET,46930,VALENCIA,,ES,,,1
+55633401,"Rominger, Volker","Janis-Joplin-Str. 4,71711 Steinheim an der Murr",Janis-Joplin-Str. 4 71711 Steinheim an der Murr,4 71711,4,DE,1,47,1,7,2,1,6,0.622197115,0.161069665,,,B212203,,,Janis-Joplin-Str.,4,,71711,Steinheim an der Murr,,,,,1
+55643911,"SALEHPOUR, Somaieh","3365 Mainway,Burlington, Ontario L7M 1A6",3365 Mainway Burlington Ontario L7M 1A6,3365 7 16,L7M,CA,1,40,1,6,3,1,7,0.675639813,0.175405924,,,B212204,,,Mainway,3365,Burlington,L7M 1A6,Ontario,,,,,1
+55677194,"AIKAWA, Masataka","c/o Asahi Glass Company,Limited,5-1 Marunouchi 1-chome,Chiyoda-ku,Tokyo 100-8405",c/o Asahi Glass Company Limited 5-1 Marunouchi 1-chome Chiyoda-ku Tokyo 100-8405,51 1 1008405,5-,JP,1,80,1,11,3,1,10,0.602080499,0.168308054,,,B212204,Asahi Glass Company,,Marunouchi 1-chome,5-1,Chiyoda-ku,100-8405,Tokyo,,,,,1
+55689036,"Fujii, Takayuki","c/o CANON KABUSHIKI KAISHA,30-2, Shimomaruko 3-chome,Ohta-ku,Tokyo 146-8501",c/o CANON KABUSHIKI KAISHA 30-2 Shimomaruko 3-chome Ohta-ku Tokyo 146-8501,302 3 1468501,30-,JP,1,75,1,10,3,1,11,0.960226635,0.160603007,,,B212203,c/o CANON KABUSHIKI KAISHA,,3-chome 30-2,,Shimomaruko; Ohta-ku,146-8501,Tokyo,,,,,1
+55715661,"IKEDA, Keisuke","c/o Ricoh Company, Ltd.,3-6, Nakamagome 1-chome,Ohta-ku, Tokyo 143-8555",c/o Ricoh Company Ltd. 3-6 Nakamagome 1-chome Ohta-ku Tokyo 143-8555,36 1 1438555,3-,JP,1,71,1,10,3,1,10,0.756915613,0.130681293,,,B212201,"c/o Ricoh Company, Ltd.",,"3-6, Nakamagome 1-chome",,Ohta-ku,143-8555,Tokyo ,,,,,1
+55793964,"WILSON, Glenn Andrew","4200 Scotland St.,Apt. 520,Houston, TX 77007",4200 Scotland St. Apt. 520 Houston TX 77007,4200 520 77007,520,US,1,44,1,8,3,1,12,0.692146271,0.177988001,,,B212204,,Apt. 520,Scotland St.,77007,,4200,Houston,TX,,,,1
+55847501,"Messeguer Peypoch, Ramon",Premi† de Mar,Premi† de Mar,,,ES,1,13,3,3,0,0,0,0.466445234,0.126677788,,,B212201,,,,,,,Premi† de Mar,,,,,0
+55850581,"TAZUMI, Kohei",Nara,Nara,,,JP,1,4,3,1,0,0,0,0.738740208,0.122798635,,,B212201,,,,,,,,NARA,,,,0
+55862098,"SHIM, Young Chel",Hwaseong-si,Hwaseong-si,,,KR,1,11,3,1,0,0,0,0.899431235,0.13880193,,,B212202,,,,,,,Hwaseong-si,,,,,0
+55862673,TODOS TECHNOLOGIES LTD.,Airport,Airport,,,IL,1,7,3,1,0,0,0,0.950858324,0.182532196,,,B212205,,,,,,,,,,,,0
+55868244,"TAN, Tiang Hin Jerry",Singapore,Singapore,,,SG,1,9,3,1,0,0,0,0.484138744,0.17700563,,,B212204,,,,,,,,,Singapore,,,0
+55868635,LA SOCIETE DES AMIS DE L'ECOLE SUPERIEURE DE PHYSIQUE ET CHIMIE INDUSTRIELLES DE LA VILLE DE PA,Paris,Paris,,,FR,1,5,3,1,0,0,0,0.412100144,0.144756264,,,B212202,,,,,,,Paris,,,,,0
+55909215,"Tsvi, Meir","Tel Aviv,IL",Tel Aviv IL,,,US,1,11,3,3,0,0,0,0.711429652,0.213041625,,,B212206,,,,,,,Tel Aviv,IL,,,,0
+55910769,"Furgeson-Moreira, Sergio E.","Austin,TX",Austin TX,,,US,1,9,3,2,0,0,0,0.739068054,0.198399731,,,B212206,,,,,,,Austin,TX,,,,0
+55913555,"LEE, Ilho",Yongin-si,Yongin-si,,,KR,1,9,3,1,0,0,0,0.029575771,0.13706489,,,B212202,,,,,,,Yongin-si,,,,,0
+55964528,"Schendel, Michael J","Andover,MN",Andover MN,,,US,1,10,3,2,0,0,0,0.710669791,0.213007233,,,B212206,,,,,,,Andover,MN,,,,0
+55991893,"Garcen, Sean","Hudson,MA",Hudson MA,,,US,1,9,3,2,0,0,0,0.773203827,0.20410687,,,B212206,,,,,,,Hudson,MA,,,,0
+55994077,"Moon, Young Hwan","Baton Rouge,LA",Baton Rouge LA,,,US,1,14,3,3,0,0,0,0.549347497,0.190926978,,,B212205,,,,,,,Baton Rouge,LA,,,,0
+56001316,Mechanical Simulation Corporation,"Ann Arbor,MI",Ann Arbor MI,,,US,1,12,3,3,0,0,0,0.547173973,0.183477943,,,B212205,,,,,,,Ann Arbor,MI,,,,0
+56173408,PERRISSOUD SêBASTIEN,PARIS 75017 FR,PARIS 75017 FR,75017,,FR,1,14,3,3,1,0,5,0.970985361,0.125842476,,,B212201,,,,,,75017,Paris,,FR,,,0
+56453224,DUMBRAV? GABRIEL ?TEFAN,"STR. TANGANULUI NR. 7, SECTOR 6 BUCURE?TI, B RO",STR. TANGANULUI NR. 7 SECTOR 6 BUCURE?TI B RO,7 6,7,RO,1,47,1,9,2,1,2,0.051575914,0.121652135,,,B212201,,,STR. TANGANULUI,7,SECTOR 6,,BUCURE?TI,,RO,,,1
+56561768,ANIS BEN SLIMANE,NA,NA,,,TN,1,2,3,1,0,0,0,0.349513548,0.152232457,,,B212203,,,,,,,,NA,,,,0
+56591180,B?IA?U DAN,"STR.◊NVOIRII NR.23, SECTOR 5 BUCURE?TI, B RO",STR.◊NVOIRII NR.23 SECTOR 5 BUCURE?TI B RO,23 5,.23,RO,1,44,1,7,2,1,3,0.363548789,0.1300909,,,B212201,,,STR.◊NVOIRII ,23,SECTOR 5,,BUCURE?TI,,RO,,,1
+56591287,PETRE NICOLAE,"ALEEA BAIA DE ARIE? NR. 3, BL. 3, SC. 7, ET. 3, AP. 87, SECTOR 6 BUCURE?TI, B RO",ALEEA BAIA DE ARIE? NR. 3 BL. 3 SC. 7 ET. 3 AP. 87 SECTOR 6 BUCURE?TI B RO,3 3 7 3 87 6,3,RO,1,80,1,19,6,1,7,0.142529756,0.199643111,,,B212206,,,,,,,,,RO,"ALEEA BAIA DE ARIE? NR. 3, BL. 3, SC. 7, ET. 3, AP. 87, SECTOR 6 BUCURE?TI, B RO",,0
+56627584,"BAUER, Georg","Ernst-Grein-Stra·e 33,5026 Salzburg-Aigen",Ernst-Grein-Stra·e 33 5026 Salzburg-Aigen,33 5026,33,AT,1,41,1,4,2,1,6,0.169945681,0.207351965,,,B212206,,,Ernst-Grein-Stra·e,33,,5026,Salzburg-Aigen,,,,,1
+56649780,"Hwang, Sung-Hee","420-403 Jugong Apt.,,189 Gaepo-dong, Gangnam-gu,Seoul",420-403 Jugong Apt. 189 Gaepo-dong Gangnam-gu Seoul,420403 189,420-,KR,1,53,1,7,2,1,9,0.201294809,0.170417899,,,B212204,,Jugong Apt,Gaepo-dong,189,,,Seoul,Gangnam-gu,,,,1
+56683898,"VESTERAGER, Louise, Buur","H. Lundbeck A/S Ottiliavej 9,2500 Valby",H. Lundbeck A/S Ottiliavej 9 2500 Valby,9 2500,9,DK,1,39,1,7,2,1,5,0.977126031,0.153358151,,,B212203,H. Lundbeck A/S,,Ottiliavej,9,Valby,2500 ,,,,,,0
+56693739,"KAMMA, Vasudevarao","38 Flat no 103,SLV Nilya 15th Main,17th Cross,Nangundeswara Lt, JP Nagar5th Ph,Bangalore 560078",38 Flat no 103 SLV Nilya 15th Main 17th Cross Nangundeswara Lt JP Nagar5th Ph Bangalore 560078,38 103 15 17 5 560078,38,IN,1,95,1,17,6,1,16,0.888495268,0.161014836,,,B212203,,"38 Flat no 103,SLV Nilya 15th Main",Nangundeswara Lt,17th Cross,JP Nagar5th Ph,560078,Bangalore,,,,,1
+56724186,"ALLEGRETTI, Marcello","c/o DompÇ farmaceutici S.p.A.,Via Campo Di Pile,I-67100 L'Aquila (AQ)",c/o DompÇ farmaceutici S.p.A. Via Campo Di Pile I-67100 L'Aquila (AQ),67100,,IT,1,69,1,11,1,0,5,0.862804745,0.1976619,,,B212206,c/o DompÇ farmaceutici S.p.A.,,,,Via Campo Di Pile,I-67100,L'Aquila,AQ,,,,0
+56740810,"WATKINS, William J.","333 Lakeside Drive,Foster City, CA 94404",333 Lakeside Drive Foster City CA 94404,333 94404,333,US,1,40,1,7,2,1,8,0.456805489,0.138145635,,,B212202,,,Lakeside Drive,333,,94404,Foster City,CA,,,,1
+56744663,"LACAILLE, JÇrìme Henri Noâl","c/o Snecma PI (AJI),Rond-Point RenÇ Ravaud RÇau,77550 Moissy-cramayel Cedex",c/o Snecma PI (AJI) Rond-Point RenÇ Ravaud RÇau 77550 Moissy-cramayel Cedex,77550,,FR,1,75,1,11,1,0,5,0.663688751,0.154401244,,,B212203,c/o Snecma PI (AJI),,Rond-Point RenÇ Ravaud RÇau,,,77550 Cedex,Moissy-cramayel,,,,,1
+56746338,"FEDERICI, Gianni","HARUS S.R.L.,Viale I Maggio, 156,00046 Grottaferrata",HARUS S.R.L. Viale I Maggio 156 00046 Grottaferrata,156 00046,156,IT,1,52,1,8,2,1,8,0.958474637,0.161927853,,,B212203,,HARUS S.R.L.,Viale I Maggio,156,,00046,Grottaferrata,,,,,1
+56766396,"JULE, Eduardo","135 Marlborough Street,Unit 5,Boston, Massachusetts 02216",135 Marlborough Street Unit 5 Boston Massachusetts 02216,135 5 02216,135,US,1,57,1,8,3,1,9,0.283056637,0.187963426,,,B212205,,Unit 5,Marlborough Street,135,,02216,Boston,Massachusetts,,,,1
+56773444,"Luzak, Marius","c/o Graco Minnesota Inc.,88 11th Avenue NE,Minneapolis, MN Minnesota 55413",c/o Graco Minnesota Inc. 88 11th Avenue NE Minneapolis MN Minnesota 55413,88 11 55413,88,US,1,74,1,12,3,1,9,0.182983725,0.113680843,,,B212201,c/o Graco Minnesota Inc.,,11th Avenue,88,NE,55413,Minneapolis,MN Minnesota,,,,1
+56790104,"YAMANAKA, Reiko","c/o Taiki Corp., Ltd.,3-41 Nishiawaji 6-chome,Higashiyodogawa-ku,Osaka-shi Osaka 533-0031",c/o Taiki Corp. Ltd. 3-41 Nishiawaji 6-chome Higashiyodogawa-ku Osaka-shi Osaka 533-0031,341 6 5330031,3-,JP,1,89,1,11,3,1,11,0.570636464,0.204436904,,,B212206,c/o Taiki Corp.,,Nishiawaji 6-chome,3-41,Osaka-shi,533-0031,Osaka,,,Higashiyodogawa-ku,,1
+56795274,"YOSHINO, Hiroshi","6-7-8, Fujisaki,Narashino-shi Chiba 275-0017",6-7-8 Fujisaki Narashino-shi Chiba 275-0017,678 2750017,6-,JP,1,44,1,5,2,1,10,0.796774631,0.135651356,,,B212202,,,,6-7-8,Fujisaki,275-0017,Narashino-shi,Chiba,,,,1
+56849867,"HARA, Daisuke",Ashigarakami-gun,Ashigarakami-gun,,,JP,1,16,3,1,0,0,0,0.785998585,0.139790936,,,B212202,,,,,Ashigarakami-gun,,,,,,,0
+56889197,"Selvaraj, Satihya K.","Morgan Hill,CA",Morgan Hill CA,,,US,1,14,3,3,0,0,0,0.587962731,0.213583043,,,B212206,,,,,,,Morgan Hill,CA,,,,0
+56905058,"Salmons, Neil D.","Columbus,OH",Columbus OH,,,US,1,11,3,2,0,0,0,0.17386175,0.124270168,,,B212201,,,,,,,Colombus,OH,,,,0
+56907480,"Yokoyama, Tetsuya",Higashihiroshima,Higashihiroshima,,,JP,1,16,3,1,0,0,0,0.450371509,0.12448147,,,B212201,,,,,,,Higashihiroshima,,,,,0
+56920565,"Jarandikar, Akshay","Mountain View,CA",Mountain View CA,,,US,1,16,3,3,0,0,0,0.616237379,0.128625146,,,B212201,,,,,,,Mountain View,California,,,,0
+56930825,"THELU, Jacques",CROLLES,CROLLES,,,FR,1,7,3,1,0,0,0,0.873840802,0.199278188,,,B212206,,,,,,,CROLLES,,,,,0
+56939945,"Jeon, Jae-Hyoung",Daejeon,Daejeon,,,KR,1,7,3,1,0,0,0,0.111236171,0.121853573,,,B212201,,,,,,,Daejeon,,,,,0
+56948314,"Redin Wyden, Tatiana","Playa Vista,CA",Playa Vista CA,,,US,1,14,3,3,0,0,0,0.653600818,0.168823376,,,B212204,,,,,,,Playa Vista,CA,,,,0
+56969137,"Martinian, Emin","Sunnyvale,CA",Sunnyvale CA,,,US,1,12,3,2,0,0,0,0.655626367,0.131362154,,,B212202,,,,,,,Sunnyvale,CA,,,,0
+57277505,"MALBERG, Andreas",DE,DE,,,DE,1,2,3,1,0,0,0,0.653682458,0.204488516,,,B212206,,,,,,,,,DE,,,0
+57754589,"ORY, Daniel","9 rue Robert Marchand,92260 Fontenay aux Roses",9 rue Robert Marchand 92260 Fontenay aux Roses,9 92260,9,FR,1,46,1,8,2,1,6,0.374984021,0.197355908,,,B212205,,,rue Robert Marchand,9,Fontenay aux Roses,92260,,,,,,1
+57756747,"WONG, James","c/o Huawei Technologies Duesseldorf GmbH,Riesstr.25,80992 Munich",c/o Huawei Technologies Duesseldorf GmbH Riesstr.25 80992 Munich,25 80992,.25,DE,1,64,1,8,2,1,7,0.382423004,0.121617084,,,B212201,c/o Huawei Technologies Duesseldorf GmbH,,Riesstr.,25,,80992,Munich,,,,,1
+57829980,"KNUDSEN, Steen","9977 N 90th St.,Scottsdale, AZ Arizona 85258",9977 N 90th St. Scottsdale AZ Arizona 85258,9977 90 85258,90t,US,1,44,1,8,3,1,11,0.72027102,0.130332516,,,B212201,,,9977 N 90th St.,,,85258,Scottsdale,AZ Arizona ,,,,1
+57838839,"èkesson, Filip","CEJN AB,P.O. Box 245,RattvÑgen 1,541 25 Skîvde",CEJN AB P.O. Box 245 RattvÑgen 1 541 25 Skîvde,245 1 541 25,245,SE,1,46,1,10,4,1,9,0.132413842,0.191076649,,,B212205,CEJN AB,P.O. Box 245,RattvÑgen,1,,541 25,Skîvde,,,,,1
+57854571,"Mcinnes, Ross Gordon","123 Nova Scotia Drive,RD 2,Waipu 0582",123 Nova Scotia Drive RD 2 Waipu 0582,123 2 0582,123,NZ,1,37,1,8,3,1,8,0.736737151,0.214044373,,,B212206,,,Nova Scotia Drive,123,,582,Waipu,,,RD 2,,1
+57864573,"SEIFI, Hasti","c/o Technicolor USA Inc,175 South San Antonio Rd,Los Altos, California 94022",c/o Technicolor USA Inc 175 South San Antonio Rd Los Altos California 94022,175 94022,175,US,1,76,1,13,2,1,8,0.007086859,0.199266617,,,B212206,c/o Technicolor USA Inc,,South San Antonio Rd,175,Los Altos,94022,California,,,,,1
+57879288,"VASUDEVAN, Kalyan","28 Fayette Street, G-Unit,Cambrige MA 02139",28 Fayette Street G-Unit Cambrige MA 02139,28 02139,28,US,1,43,1,7,2,1,7,0.571607977,0.123314831,,,B212201,,,Fayette Street,28,G-Unit,02139,Cambrige,MA,,,,1
+57912714,"Hunt, Rhonda M.",St John's,St John's,,,CA,1,9,3,2,0,0,0,0.591813245,0.203876448,,,B212206,,,,,,,St John's,,,,,0
+57915274,Centrillion Technologies Taiwan Co. LTD.,Hsinchu County,Hsinchu County,,,TW,1,14,3,2,0,0,0,0.333583086,0.180503875,,,B212205,,,,,Hsinchu County,,,,,,,0
+57955074,"SHARIFF, Rezwan",Andhra Pradesh,Andhra Pradesh,,,IN,1,14,3,2,0,0,0,0.157308099,0.167115832,,,B212204,,,,,,,Andhra Pradesh,,,,,0
+57956383,"VASIREDDI, Uma Maheswer Rao",Hyderabad,Hyderabad,,,IN,1,9,3,1,0,0,0,0.011332484,0.186998784,,,B212205,,,,,,,Hyderabad,,,,,0
+57963733,"UPADHYAY, Sudhir","Edison,NJ",Edison NJ,,,US,1,9,3,2,0,0,0,0.733825944,0.17675269,,,B212204,,,,,,,Edison,NJ,,,,0
+57964477,"Yung, Mimi-Cho","Milpitas,CA",Milpitas CA,,,US,1,11,3,2,0,0,0,0.152486042,0.19435483,,,B212205,,,,,Milpitas,,,CA,,,,0
+57965491,"DOMINGUEZ, David",Wolfsburg,Wolfsburg,,,DE,1,9,3,1,0,0,0,0.252331259,0.116415283,,,B212201,,,,,,,Wolfsburg,,,,,0
+57974251,CATERPILLAR GLOBAL MINING EUROPE GMBH,LÅne,LÅne,,,DE,1,4,3,1,0,0,0,0.601370544,0.172998973,,,B212204,,,,,LÅnen,,,,,,,0
+58071436,"Gajulapally, Adithya","Palo Alto,CA",Palo Alto CA,,,US,1,12,3,3,0,0,0,0.209490411,0.134989427,,,B212202,,,,,,,Palo Alto,CA,,,,0
+58072271,"TRAVOSTINO, Franco","Cupertino,CA",Cupertino CA,,,US,1,12,3,2,0,0,0,0.060723886,0.135848803,,,B212202,,,,,,,Cupertino,CA,,,,0
+58087542,"Sundaram, Sureshbabu","Woodridge,IL",Woodridge IL,,,US,1,12,3,2,0,0,0,0.937718142,0.151188096,,,B212203,,,,,,,Woodridge,IL,,,,0
+58088035,"Vlok, Jan Abraham",Ndabeni,Ndabeni,,,ZA,1,7,3,1,0,0,0,0.893410914,0.162694934,,,B212203,,,,,Ndabeni,,,,,,,0
+63712194,"FU, Zhongping","5F, CHANGZHOU HIGH-TECH RESEARCH INSTITUTE OF NANJING UNIVERSITY CHANGZHOU, JIANGSU 213164 CHANGZHOU SCIENCE & EDUCATION TOWN, NO.801 MIDDLE CHANGWU ROAD",5F CHANGZHOU HIGH-TECH RESEARCH INSTITUTE OF NANJING UNIVERSITY CHANGZHOU JIANGSU 213164 CHANGZHOU SCIENCE & EDUCATION TOWN NO.801 MIDDLE CHANGWU ROAD,5 213164 801,5F,CN,1,153,1,20,3,1,10,0.66549472,0.130359012,,,B212201,CHANGZHOU HIGH-TECH RESEARCH INSTITUTE OF NANJING UNIVERSITY CHANGZHOU,5F,NO.801 MIDDLE CHANGWU ROAD,,,213164,CHANGZHOU,JIANGSU,,,,1
+63885351,"HAN, Byeong-Ha","C/O GWANGYANG IRON & STEEL WORKS GWANGYANG-SI, JEOLLANAM-DO 57807 20-26, POKPOSARANG-GIL",C/O GWANGYANG IRON & STEEL WORKS GWANGYANG-SI JEOLLANAM-DO 57807 20-26 POKPOSARANG-GIL,57807 2026,20-,KR,1,88,1,11,2,1,9,0.612959474,0.167842117,,,B212204,GWANGYANG IRON & STEEL WORKS,,JEOLLANAM-DO,20-26,POKPOSARANG-GIL,57807,GWANGYANG-SI,,,,,1
+63926831,"CHEN, Anlin","POST BOX 100084 BRANCH 82, TSINGHUA UNIVERISTY PATENT OFFICE, HAIDIAN DISTRICT BEIJING 100084",POST BOX 100084 BRANCH 82 TSINGHUA UNIVERISTY PATENT OFFICE HAIDIAN DISTRICT BEIJING 100084,100084 82 100084,82,CN,1,93,1,13,3,1,14,0.11518696,0.122499314,,,B212201,TSINGHUA UNIVERISTY PATENT OFFICE,,POST BOX 100084 BRANCH,82,HAIDIAN DISTRICT,100084,BEIJING,,,,,1
+63986269,"TANI, Shigenori","C/O MITSUBISHI ELECTRIC CORPORATION, 7-3, MARUNOUCHI 2-CHOME, CHIYODA-KU, TOKYO 1008310 ?1008310",C/O MITSUBISHI ELECTRIC CORPORATION 7-3 MARUNOUCHI 2-CHOME CHIYODA-KU TOKYO 1008310 ?1008310,73 2 1008310 1008310,7-,JP,1,96,1,11,4,1,17,0.533947293,0.12573142,,,B212201,C/O MITSUBISHI ELECTRIC CORPORATION,,"7-3, MARUNOUCHI 2-CHOME",,CHIYODA-KU,1008310 ?1008310,TOKYO,,,,,1
+64044980,IKUTA Tomoki,"C/O YAMADA BEE COMPANY, INC, 194 ICHIBA, KAGAMINO-CHO, TOMATA-GUN, OKAYAMA 7080393 ?7080393",C/O YAMADA BEE COMPANY INC 194 ICHIBA KAGAMINO-CHO TOMATA-GUN OKAYAMA 7080393 ?7080393,194 7080393 7080393,194,JP,1,91,1,12,3,1,17,0.339846073,0.137408767,,,B212202,C/O YAMADA BEE COMPANY,,194 ICHIBA;KAGAMINO-CHO,,TOMATA-GUN,7080393,,OKAYAMA,,,,1
+64229479,Grigorev Dmitrij Lvovich,"156013, g. Kostroma, ul. Lenina, 19a, kv. 9, OOO 'Brend Agentstvo Zvezda'",156013 g. Kostroma ul. Lenina 19a kv. 9 OOO 'Brend Agentstvo Zvezda',156013 19 9,19a,RU,1,73,1,12,3,1,9,0.471171855,0.178711619,,,B212204,,,ul. Lenina,19a,,156013,g. Kostroma,OOO 'Brend Agentstvo Zvezda',,kv. 9,,1
+64512329,Loganina Valentina Ivanovna,"440028, g. Penza, ul. Germana Titova, 28, FGBOU VO 'Penzenskij gosudarstvennyj universitet arkhitektury i stroitelstva'",440028 g. Penza ul. Germana Titova 28 FGBOU VO 'Penzenskij gosudarstvennyj universitet arkhitektury i stroitelstva',440028 28,28,RU,1,119,1,15,2,1,8,0.930984724,0.177750793,,,B212204,,,ul. Germana Titova,28,,440028,g. Penza,,,FGBOU VO 'Penzenskij gosudarstvennyj universitet arkhitektury i stroitelstva',,1
+67309665,SAIGA Yuta,"C/O DENSO CORPORATION, 1-1, SHOWA-CHO, KARIYA-CITY AICHI 4488661 ?4488661",C/O DENSO CORPORATION 1-1 SHOWA-CHO KARIYA-CITY AICHI 4488661 ?4488661,11 4488661 4488661,1-,JP,1,73,1,9,3,1,16,0.826953405,0.136247613,,,B212202,C/O DENSO CORPORATION,,1-1;SHOWA-CHO,,,4488661,KARIYA-CITY,AICHI,,,,1
+67732461,"ZHANG, Ou","NO. 16 MEIHUA ROAD, ZHONGLOU ECONOMIC DEVELOPMENT DISTRICT CHANGZHOU, JIANGSU 213023",NO. 16 MEIHUA ROAD ZHONGLOU ECONOMIC DEVELOPMENT DISTRICT CHANGZHOU JIANGSU 213023,16 213023,16,CN,1,84,1,11,2,1,8,0.846890024,0.170250158,,,B212204,,,,,ZHONGLOU ECONOMIC DEVELOPMENT DISTRICT,213023,CHANGZHOU,JIANGSU,,,,1
+68271080,"HIGUCHI, Shinichi","C/O ALPS ELECTRIC CO., LTD., 1-7, YUKIGAYA-OTSUKAMACHI, OTA-KU, TOKYO 1458501 ?1458501",C/O ALPS ELECTRIC CO. LTD. 1-7 YUKIGAYA-OTSUKAMACHI OTA-KU TOKYO 1458501 ?1458501,17 1458501 1458501,1-,JP,1,86,1,11,3,1,16,0.578232285,0.172521378,,,B212204,ALPS ELECTRIC CO.,,YUKIGAYA-OTSUKAMACHI,1-7,OTA-KU,1458501,Tokyo,,,,,1
+68607095,"WANG, Zhiyong","C/O ZTE CORPORATION ZTE PLAZA, KEJI ROAD SOUTH, HI-TECH INDUSTRIAL PARK NANSHAN SHENZHEN, GUANGDONG 518057",C/O ZTE CORPORATION ZTE PLAZA KEJI ROAD SOUTH HI-TECH INDUSTRIAL PARK NANSHAN SHENZHEN GUANGDONG 518057,518057,,CN,1,106,1,15,1,0,6,0.941331083,0.202215731,,,B212206,C/O ZTE CORPORATION ZTE PLAZA,,KEJI ROAD SOUTH,,HI-TECH INDUSTRIAL PARK NANSHAN,518057,SHENZHEN,GUANGDONG,,,,1
+68861617,GRIJO Patrik Nolan,"129090, Moskva, ul. B. Spasskaja, 25, stroenie 3, OOO 'JUridicheskaja firma Gorodisskij i Partnery'",129090 Moskva ul. B. Spasskaja 25 stroenie 3 OOO 'JUridicheskaja firma Gorodisskij i Partnery',129090 25 3,25,US,1,99,1,14,3,1,9,0.716023009,0.166920621,,,B212204,JUridicheskaja firma Gorodisskij i Partnery,,ul. B. Spasskaja,25,stroenie 3,129090,Moskva,,,,,1
+69712319,VSEROSSIISKII GOSUDARSTVENNOI NAUTUNO-ISSLEDOVATELSKII INSTITUTKONTROLJA,"Standartizatsii i Sertifikatsii Veterinarnìh Preparatov, Zvenigorodskoje u. 5 , Moskva, RUSSIAN FEDERATION",Standartizatsii i Sertifikatsii Veterinarnìh Preparatov Zvenigorodskoje u. 5 Moskva RUSSIAN FEDERATION,5,5,RU,1,106,1,11,1,1,1,0.376577337,0.174983781,,,B212204,,Standartizatsii i Sertifikatsii Veterinarnìh Preparatov,Zvenigorodskoje,5,Movska,,,,RUSSIAN FEDERATION,,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,<=,16,3,484,,,,,,,,,,,,,,,,,,,,
+,,,,,,,<=,35,2,71,,,,,,,,,,,,,,,,,,,,
+,,,,,,,>,35,1,444,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,999,,,,,,,,,,,,,,,,,,,,
