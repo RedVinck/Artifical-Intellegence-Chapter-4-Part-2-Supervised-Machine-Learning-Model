@@ -1,0 +1,1000 @@
+person_id	person_name	person_address	person_ctry_code	nuts	nuts_level	psn_level	psn_sector	inv	ptt
+103	Mayr, Walter, c/o Philips Corp. Int. Prop. GmbH	Weisshsusstrasse 2,52066, Aachen	DE	DEA2D	3	0		1	0
+188	Sensile Pat AG	Zugerstrasse 76B,6340 Baar	CH	CH066	3	1	COMPANY	0	1
+277	Zafena AB	Sjöbacka Fallhagen 1,S-59076 Vreta Kloster	SE	SE123	3	1	COMPANY	0	1
+346	SCHULZE ZUR WIESCHE, Erik	Kremper Str. 7,20251 Hamburg	DE	DE600	3	0		1	0
+359	Stöhr, Frank Axel	Lindenstrasse 15,42477 Radevormwald	DE	DEA2A	3	0		1	0
+487	GREIMEL-RECHLING, Bernhard	Ilz 220,A-8262 Ilz	AT	AT224	3	0		1	0
+549	Canzler, Tobias	Kamenzer Strasse 60,01099 Dresden	DE	DED21	3	0		1	0
+601	GRUNERT, Klaus	Donnersmarckallee 11 a,13465 Berlin	DE	DE300	3	0		1	0
+605	SETTEGAST, Silke	Paul-Robeson-Str. 35,10439 Berlin	DE	DE300	3	0		1	0
+781	ATLAS COPCO ENERGAS GMBH	Schlehenweg 15,50999 Köln	DE	DEA23	3	1	COMPANY	0	1
+814	Krüger, Jörg	Hangstrasse 8/1,72178 Waldachtal	DE	DE12C	3	1	INDIVIDUAL	1	1
+1042	Gebhardt-Stahl GmbH	Hammer Strasse 119a,59457 Werl	DE	DEA5B	3	1	COMPANY	0	1
+1251	Krüger, Thomas	Am Brünnfeld 65,90513 Zirndorf	DE	DE258	3	0		1	0
+1295	Woetting, Ullrich	Hermann-Löns-Str. 14,95032, Hof	DE	DE244	3	0		1	0
+1299	ABB Schweiz AG	Brown Boveri Strasse 6,5400 Baden	CH	CH033	3	2	COMPANY	0	1
+1343	SMR Patents S.à.r.l.	Le Dôme 2-8 Avenue Charles de Gaulle,1653 Luxembourg	LU	LU000	3	1	COMPANY	0	1
+1589	Pribusz, geb. Rapp, Ildikó	Beckó u. 24,H-1149 Budapest	HU	HU101	3	0		1	0
+1825	Hans Lingl Anlagenbau und Verfahrenstechnik GmbH & Co. KG	Postfach 16 29,D-89206 Neu-Ulm	DE	DE279	3	1	COMPANY	0	1
+1976	Merzroller AG	Industriestrasse 35,9430 St. Margrethen	CH	CH055	3	1	COMPANY	0	1
+2258	Bartmann, Ulrich Dipl.-Ing.	Rote-Tor-Str. 64,76661 Philippsburg	DE	DE123	3	0		1	0
+2357	Lange, Raimund	Alte Strasse 43,50226 Frechen	DE	DEA27	3	0		1	0
+2964	Cattaneo, Carlo	Via Leonardo da Vinci 5,22060 Figino Serenza	IT	ITC42	3	0		1	0
+3004	WINGARD, Drew, Eric	1057 Hewitt Drive,San Carlos, CA 94070	US		9	0		1	0
+3022	ANELLI, Pier, Lucio	Bracco Imaging S.P.A. Via E. Folli, 50,I-20134 Milano	IT	ITC4C	3	0		1	0
+3113	KELLER, Ralf	Talblick 22,52146 Würselen	DE	DEA2D	3	0		1	0
+3115	VAN HERPEN, Marinus, Maria, Antonius	Pandastraat 9,NL-6531 VC Nijmegen	NL	NL226	3	0		1	0
+3122	DRYGA, Sergey, A.	211 Bonsail Place,Chapel Hill, NC 27514	US		9	0		1	0
+3467	FRENCH, Ron	1564 Heatherdale,Santa Clara, CA 95050	US		9	0		1	0
+3499	LUNDIN, Jörgen	Dragonvägen 26,194 33 UPPLANDS-VÄSBY	SE	SE110	3	0		1	0
+3598	Sherwood Services AG	Schwertstrasse 9,8201 Schaffhausen	CH	CH052	3	1	COMPANY	0	1
+3635	Yamamoto, Naoyuki Canon K.K.	3-30-2, Shimomaruko Ohta-ku,Tokyo	JP		9	0		1	0
+3752	THE CLEVELAND CLINIC FOUNDATION	9500 Euclid Avenue,Cleveland, OH 44195-5124	US		9	1	UNIVERSITY	0	1
+3799	SLOT, Lillian	Krogvej 28,DK-2830 Virum	DK	DK012	3	0		1	0
+4174	Labitzke, Ekkehard	Wartleite 10b,95189 Koeditz	DE	DE249	3	0		1	0
+4337	Song, In-jae	206-1603 Taeyoung Apt., Yeongdeok-ri, Giheung-eub,Yongin-si, Gyeonggi-do	KR		9	0		1	0
+4563	DSM IP Assets B.V.	Het Overloon 1,6411 TE Heerlen	NL	NL423	3	2	COMPANY	0	1
+4580	GHOSH, Manuka	103 Nursey Lane,Madison, CT 06443	US		9	0		1	0
+4625	Nederlandse Organisatie voor Toegepast-Natuurwetenschappelijk Onderzoek TNO	Schoemakerstraat 97,2628 VK Delft	NL	NL333	3	2	GOV NON-PROFIT	0	1
+4678	BURGESS, Laurence, Edward	405 Oakwood Place,Boulder, CO 80301	US		9	0		1	0
+4729	WETZKER, Reinhard	Alte Dorfstrasse 25,07751 Jena	DE	DEG03	3	0		1	0
+4751	BORNGRÄBER, Ralf	Gerstenbreiten 28,38165 Lehre	DE	DE917	3	0		1	0
+4894	LEJEUNE, Jeff, Research In Motion Limited	295 Phillip Street,Waterloo, Ontario N2L 3W8	CA		9	0		1	0
+4959	NARDI, Ivo	Via Al Parco, 4/13,I-16016 Cogoleto, Genova	IT	ITC33	3	0		1	0
+5188	Turhan, Gokhan TURAS GAS ARMATURES MANAGEMENT	BOSB MERMERCILER SAN.SIT., 7.CAD.no.2/A-B,34520 Istanbul	TR	TR	0	0		0	0
+5213	G.D. Societa' per Azioni	Via Battindarno, 91,40133 Bologna	IT	ITH55	3	2	COMPANY	0	1
+5329	Trevitt, Stephen	37 William Avenue,Gormley Ontario Canada L0H 1G0	US		9	0		1	0
+5466	Gouch, Martin Philip	16 Edenhall Close Hemel Hempstead,Hertfordshire HP2 4ND	GB	UKH23	3	0		1	0
+5468	LG Electronics Inc.	20, Yoido-dong Yongdungpo-gu,Seoul 150-721	KR		9	2	COMPANY	0	1
+5525	Markantes, Charles T.	155 Stony Point, nr. 21,Santa Rosa, California 95401	US		9	0		1	0
+5610	MA, Zijiang	ZTE Plaza, Keji Road South Hi-Tech Industrial Park Nanshan District,518057 Shenzhen City, Guangdong Province	CN		9	0		1	0
+5676	Breakthrough Performance Technologies, LLC	11444 W. Olympic Blvd. 5th Floor,Los Angeles, CA 90064	US		9	1	COMPANY	0	1
+5790	Cluster Resources, Inc.	622 North 900 East,Spanish Fork, UT 84660	US		9	1	COMPANY	0	1
+5908	Sumitomo Metal Industries Limited	5-33, Kitahama 4-chome, Chuo-ku Osaka-shi,Osaka 541-0041	JP		9	2	COMPANY	0	1
+6088	GASCOIGNE, Bruce, Reginald	460 South Road,Moorabbin, Victoria 3189	AU		9	0		1	0
+6287	Transition Therapeutics Inc.	101 College Street Suite 220,Toronto, Ontario M5G 1L7	CA		9	1	COMPANY	0	1
+6291	DIVAN, Deepakraj, Malhar	2371 Monte Villa Courts,Marietta, GA 30062	US		9	0		1	0
+6293	DITELLA, Carlos	Lagilda 6563 Cordoba,Arguello, 5147	AR		9	0		1	0
+6343	Austria Wirtschaftsservice Gesellschaft mit beschränkter Haftung	Ungargasse 37,1030 Vienna	AT	AT130	3	1	COMPANY	0	1
+6446	PETERSEN, Lene	Aarhus Plads, 6, 1th,DK-2100 Copenhagen O̸	DK	DK	0	0		0	0
+6484	Ponsse OYJ	Ponssentie 22,74200 Vieremä	FI	FI1D2	3	1	COMPANY	0	1
+6556	YOSHIDA, Yasuhiro	Mitsubishi Electric Corporation 7-3, Marunouchi 2-chome,Chiyoda-ku Tokyo 1008310	JP		9	0		1	0
+6574	YAMAMOTO, Kozo	c/o K. K. HAYASHIBARA SEIBUTSU KAGAKU KENKYUJO 2-3, Shimoishii 1-chome,Okayama-shi, Okayama 700-0907	JP		9	0		1	0
+6590	Nippon Sheet Glass Company Limited	5-27, Mita 3-chome, Minato-ku,Tokyo 108-6321	JP		9	2	COMPANY	0	1
+6599	Fatigue Science Laboratory Inc.	1-2-37, Toneyama Toyonaka-shi,Osaka 560-0045	JP		9	1	COMPANY	0	1
+6712	HELLINGA, Homme, W.	5212 PINE CONE LANE,Durham, NC 27705	US		9	0		1	0
+6799	HERMANN, Manuela	Kleegasse 8,A-8042 Werndorf	AT	AT221	3	0		1	0
+6912	OZAWA, Seiichi	c/o THINE ELECTRONICS, INC. 3-3-6, Nihombashi-Honcho Chuo-ku,Tokyo 103-0023	JP		9	0		1	0
+7102	HORIUCHI, Akiko	c/o Shinshu University School of Medicine, 1-1, As ahi 3-chome,Matsumoto-shi, Nagano 390-8621	JP		9	0		1	0
+7266	SUGIYAMA, Tetsuya	c/o STAR MICRONICS CO., LTD 20-10, Nakayoshida Suruga-ku,Shizuoka-shi Shizuoka 422-8654	JP		9	0		1	0
+7423	WENSTRUP, Richard J.	3333 Burnet Avenue,Cincinnati, OH 45229-3039	US		9	0		1	0
+7487	SANKIN, Igor	626 S. MONTGOMERY ST., APT. 25,Starkville, MS 39759	US		9	0		1	0
+7517	INGLIKOV, Yuri	One Microsoft Way,Redmond, Washington 98052-6399	US		9	0		1	0
+7656	YAMADA, Daisuke	JSR MICROTECH INC. 289-1, Yaenda Hidaka-shi,Saitama 350-1236	JP		9	0		1	0
+7731	OGAWA, Kohei	KANEKA CORPORATION 1-1, Torikainishi 5-chome Settsu-shi,Osaka 566-0072	JP		9	0		1	0
+7856	Tekelec	26580 West Agoura Road,Calabasas, CA 91302	US		9	1	COMPANY	0	1
+7866	Innovative American Technology, Inc.	6255 North Federal Highway, Suite 300,Boca Raton, FL 33487	US		9	1	COMPANY	0	1
+7877	Qualitau, Inc.	950 Benecia Avenue,Sunnyvale. CA 94085	US		9	1	COMPANY	0	1
+7940	FLORCZAK, Jeffrey, M.	3M Center Post Office Box 33427,Saint Paul, MN 55133-3427	US		9	0		1	0
+7957	SCHERER, Richard J.	3M Center Post Office Box 33427,Saint Paul, Minnesota 55133-3427	US		9	0		1	0
+7990	PEREZ, Mario, A.	3M Center Post Office Box 33427,Saint Paul, Minnesota 55133-3427	US		9	0		1	0
+8019	Kyocera Corporation	6, Takeda Tobadono-cho, Fushimi-ku,Kyoto-shi, Kyoto-fu 612-8501	JP		9	2	COMPANY	0	1
+8050	HERZBERG, Uri	148 Maple Street,Bridgewater, NJ 08807	US		9	0		1	0
+8065	BUSCHMANN, Michael D.	4329, Avenue King-Edward,Montréal, Québec H4B 2H4	CA		9	0		1	0
+8142	GU, Yuandong	17105 12th Avenue N.,Plymouth, MN 55447	US		9	0		1	0
+8370	FUJIFILM Corporation	26-30, Nishiazabu 2-chome Minato-ku,Tokyo	JP		9	2	COMPANY	0	1
+8429	4384814 Canada Inc.	27 Scott Street West,St. Catharines ON L2R 1E1	CA		9	1	COMPANY	0	1
+8547	SUGAWARA, Hiroyoshi, c/o DENSO CORPORATION	Intellectual Property Department, 1-1, Showa-cho,Kariya-city, Aichi 448-8661	JP		9	0		1	0
+8633	CVON Innovations Limited	22 Ganton Street London,W1F 7BY	GB	UKI32	3	1	COMPANY	0	1
+8638	Draborg, Henriette	Strandbakken 1,3600 Frederikssund	DK	DK013	3	0		1	0
+8678	Infineon Technologies AG	Am Campeon 1-12,85579 Neubiberg	DE	DE21H	3	2	COMPANY	0	1
+8711	Matuura, Keitarou	c/o Toyota Jidosha KK 1, Toyota-cho, Toyota-shi,Aichi-ken 471-8571	JP		9	0		1	0
+8763	PENNER, Abraham	1 Boyer Street,69127 Tel Aviv	IL		9	0		1	0
+8766	YOKOMITSU, Sumio	c/o Matsushita El. Ind. Co., Ltd. IP Dev. Center 7F Twin 21, OBP Panasonic Tower 2-1-61, Shiromi,Chuo-ku, Osaka-shi, Osaka, 540-6207	JP		9	0		1	0
+8786	UMENO, Satoshi	1280, Kamiizumi Sodegaura-shi,Chiba 299-0293	JP		9	0		1	0
+9076	Rovere, Pierpaolo	90, Via Sottoriviera,33017 Tarcento (UD)	IT	ITH42	3	0		1	0
+9116	Motomura, Shinji c/o Olympus Corporation	43-2, Hatagaya 2-chome Shibuya-ku,Tokyo 151-0072	JP		9	0		1	0
+9284	NIHON PLAST CO., LTD.	218, Aoshima-cho Fuji-shi,Shizuoka 417-0047	JP		9	1	COMPANY	0	1
+9626	Iwaji, Yoshitaka	c/o Hitachi Ltd. 6-1, Marunouchi 1-chome Chiyoda-ku,Tokyo 100-8220	JP		9	0		1	0
+9962	Iwashita, Kanau	c/o Honda R&D Co., Ltd., 4-1, Chuo 1-chome, Wako-shi,Saitama 351-0193	JP		9	0		0	0
+9999	Samsung Electronics Co., Ltd.	416 Maetan-dong,Yeongtong-guSuwon-si,,Gyeonggi-do	KR		9	2	COMPANY	0	0
+10062	Stachura, Mariusz	UI. Proszowska 115,32-700, Bochnia	PL	PL214	3	0		1	0
+10159	Okada, Tomoyuki	c/o Matsushita Electric Industrial Co., Ltd. IP Development Center 7F Twin 21, OBP Panasonic Tower 2-1-61, Shiromi Chuo-ku Osaka-shi,Osaka 540-6207	JP		9	0		1	0
+10170	Ichikawa, Tomohiro c/o SONY ERICSSON MOBILE COMMUNICATIONS JAPAN, INC	1-8-15, Konan, Minato-ku,Tokyo Tokyo 108-0075	JP		9	0		1	0
+10171	Asa, Kenji c/o SONY ERICSSON MOBILE COMMUNICATIONS JAPAN, INC	1-8-15, Konan, Minato-ku,Tokyo Tokyo 108-0075	JP		9	0		1	0
+10208	Kooij, Michiel	c/o ResMed Limited 1 Elizabeth Macarthur Drive,Bella Vista, New South Wales 2153	AU		9	0		1	0
+10320	Buckley, Adrian	413 Montclair Lane,Tracy, California, 95376	US		9	0		1	0
+10350	Nesterenko, Nikolai	Boîte 21, bât. 32, Chaussée de Namur,1400 Nivelles	BE	BE310	3	0		1	0
+10365	Ko, Hyoung-soo c/o Samsung Advanced Institute of Technology	San 14-1 Nongseo-dong, Giheung-gu, Yongin-si,Gyeonggi-do	KR		9	0		1	0
+10601	Kawamura, Takeshi	c/o CANON KABUSHIKI KAISHA 30-2, Shimomaruko 3-chome,Tokyo Tokyo 146-8501	JP		9	0		1	0
+10616	Gorfien, Steve	148 Ranch Trail West,Williamsville, NY 14221	US		9	0		1	0
+11038	Riehle, Robert D.	2011 Wolfmill Lane, Apt. 201,Raleigh, NC 27603	US		9	0		1	0
+11060	Tubman, Casey J.	1400 Old Farm Lane,St. Joseph MI 49085	US		9	0		1	0
+11274	Morford, Stephen A.	24 Emily Road,Marlborough, CT 06447	US		9	0		1	0
+11444	Serra, Gabriele	Via Orsoni, 43,40068 S. Lazzaro di Savena	IT	ITH55	3	0		1	0
+11498	Stern, Richard M. c/o Riker Laboratories, Inc.	2501 Hudson Road P.O. Box 33427,St. Paul Minnesota 55133	US		9	0		1	0
+11513	Sakamoto, Takayoshi	2-29, Fudaba-cho Hiratsuka-shi,Kanagawa-ken	JP		9	0		1	0
+11608	Maruyama, Isamu	15-12, Nakanoosa Higashiuneno,Kawanishi-shi Hyogo-ken	JP		9	0		1	0
+11652	KONICA CORPORATION	26-2, Nishi-shinjuku 1-chome Shinjuku-ku,Tokyo 163	JP		9	2	COMPANY	0	1
+11932	Brothers, Virginia M.	988 Peralta Avenue,Albany California 94706	US		9	0		1	0
+11987	Holmes, Richard Elmer	4848 Laurel Circle Indianapolis,Indiana Indiana 46226	US		9	0		1	0
+12047	Keiji, Yuzawa	c/o Sony Corporation 7-35 Kitashinagawa 6-chome,Shinagawa-ku Tokyo	JP		9	0		1	0
+12261	Daiso Co., Ltd.	10-8, Edobori 1-chome Nishi-ku,Osaka	JP		9	1	COMPANY	0	1
+12423	Ito, Takeyoshi	Victor-Dai-2-Seiwaryo No. 162-3 Mitsukyo Seya-Ku,Yokohama-Shi Kanagawa-Ken	JP		9	0		1	0
+12425	Morioka, Yoshihiro	C57-505, 1-9, Meitoku,Neyagawa-shi Osaka-fu, 572	JP		9	0		1	0
+12444	Oinaga, Yuji	28-15, Kamiuma 4-chome Setagaya-ku,Tokyo 154	JP		9	0		1	0
+12621	MASUDA, Kenichi 5-18, Tamadaira 3-chome	Hino-shi,Tokyo 191	JP		9	0		1	0
+12692	Hayama, Koh	2-239-2, Higashi Asakayamacho,Sakai-shi Osaka 591	JP		9	0		1	0
+12704	Kouno, Katsumi	Toyota Jidosha Kabushiki Kaisha 1, Toyota-cho,Toyota-shi Aichi-ken	JP		9	0		1	0
+12781	Morita, Seiji	5-44, Kitatamiya 3-chome,Tokushima-shi Tokushima 770	JP		9	0		1	0
+12784	Ikedo, Yuji Pioneer Electronic Corporation	Tokorozawa Works, No. 2610 Hanazono 4-chome,Tokorozawa-shi Saitama	JP		9	0		1	0
+12788	Nishi, Takao 2-28, Aza Sotobiraki	Tarohachizu, Kitajimacho,,Itano-gun, Tokushima-ken	JP		9	0		0	0
+12865	Kuroki, Yuzuru	14-6-410, Minowa-2-chome,Toyonaka-shi	JP		9	0		1	0
+13013	HAMMER, Charles	3524 Quebec Street, N.W.,Washington, DC 20016	US		9	0		1	0
+13019	HOKURIKU PHARMACEUTICAL CO., LTD.	1-Chome, 3-14, Tatekawacho, Katsuyama-shi,Fukui-ken 911	JP		9	1	COMPANY	0	1
+13216	APPLE COMPUTER, INC.	20525 Mariani Avenue,Cupertino, California 95014	US		9	2	COMPANY	0	1
+13280	Agilent Technologies Deutschland GmbH	Herrenbergerstr. 130,71034 Böblingen	DE	DE112	3	1	COMPANY	0	1
+13281	Flachsländer, Erwin	Mühlgässle 3,D-75365 Calw	DE	DE12A	3	0		1	0
+13362	AIR PRODUCTS AND CHEMICALS, INC.	7201 Hamilton Boulevard,Allentown, PA 18195-1501	US		9	2	COMPANY	0	1
+13409	Cain, Frederick William	Dr. Blookerstraat 12,2271 VL Voorburg	NL	NL332	3	0		1	0
+13480	BENNETT, Bruce Allan	15 Chestnut Street,San Rafael, CA 94901	US		9	1	INDIVIDUAL	1	1
+13638	MATTHEWS, Abraham, R.	933 Willow Leaf Drive,San Jose, CA 95128	US		9	0		1	0
+13674	University of Florida	1938 West University Avenue,Gainesville, FL 32603-1735	US		9	2	UNIVERSITY	0	1
+13758	SAKAGUCHI, Satoru	c/o Technical Center, Uni-Charm Corporation 1531-7, Wadahama, Toyohama-cho,Kanonji-shi, Kagawa 769-1602	JP		9	0		1	0
+13779	Wu, Teng-Chun	3F., No. 296, Sec. 4 Jhonghua Rd.,Hsinchu City 300 Taiwan	CN		9	0		1	0
+13968	OGUCHI, Nozomi	SHISEIDO RESEARCH CENTER (SHIN-YOKOHAMA) 2-1Hayabuchi 2-chome Tsuzuki-ku,Yokohama-shi Kanagawa 224-8558	JP		9	0		1	0
+14296	Makoto, Fukushima	c/o EBARA CORPORATION, 11-1, Haneda, Asahi-cho,Ohta-ku, Tokyo 144-8510	JP		9	0		1	0
+14383	Kim, Moon, G.	500 Louisville Street Apartment 62,Starkville, MS 39760	US		9	0		1	0
+14508	Hirose, Masahiko	JTEKT Coporation 5-8, Minamisemba 3-chome Chuo-ku,Osaka-shi Osaka 542-8502	JP		9	0		1	0
+14669	Graham, Keith	Anklamer Strasse 18,10115 Berlin	DE	DE300	3	0		1	0
+14742	MURAI, Norio, EISAI CO., LTD.	c/o Tsukuba Research Laboratories 1-3, Tokodai 5-chome,Tsukuba-shi Ibaraki 300-2635	JP		9	0		1	0
+14870	Pearce, Christopher D.J.	Pinecroft 25 The Barn,Cobham, Surrey KT11 2NJ	US		9	0		1	0
+15039	Takeya, Ryan, K.	20902 53rd Avenue West,Lynnwood, WA 98036	US		9	0		1	0
+15073	NAKATA, Hidetaka	OLYMPUS CORPORATION, 43-2, Hatagaya 2-chome,Shibuya-ku, Tokyo 1510072	JP		9	0		1	0
+15272	Sany Heavy Industry Co., Ltd.	Sany Industry Town Economic and Technological Development Zone Changsha,Hunan 410100	CN		9	1	COMPANY	0	1
+15371	Deml, Bradley	Briggs and Stratton Corporation 410 Jenny Street,Campbellsport, WI 53010	US		9	0		1	0
+15420	KUBOTA, Yoshifusa	c/o MAYEKAWA MFG.CO., LTD. 13-1, Botan 2-chome, Koto-ku,Tokyo 135-0046	JP		9	0		1	0
+15460	IBARAKI, Ryuji	c/o TOYOTA JIDOSHA KABUSHIKI KAISHA, 1, Toyotacho,Toyota-shi, Aichi 4718571	JP		9	0		1	0
+15491	MUNEKATA, Shinobu	c/o NOK CORPORATION 8, Aza Tsuzukibori Nagaigawa,Fukushima-shi Fukushima 960-1102	JP		9	0		1	0
+15608	Richardson, Justin	3F2 19 Goldenacre Terrace,Edinburgh, Lothian EH3 5QP	GB	UKM25	3	0		1	0
+15645	Hawthorne, Jeffrey Alan	209 East Maple Street,Decatur Georgia 30030	US		9	0		1	0
+15700	MINEBEA Co., Ltd.	4106-73 Miyota, Miyota-machi,Kitasaku-gun, Nagano-ken	JP		9	1	COMPANY	0	1
+15819	Ronchi, Virginio	Via T. Edison 2,24040 Burago Molgora (MI)	IT	ITC46	3	0		1	0
+15859	KIMURA, Hiroaki	c/o Fujitsu Limited 1-1, Kamikodanaka 4-chome Nakahara-ku, Kawasaki-shi,Kanagawa 211-8588	JP		9	0		1	0
+15998	Bonada, Jordi	Passeig de Circumval-lació, 08,08003 Barcelona	ES	ES511	3	0		1	0
+16197	Korevaar, Bastiaan Arie	146 Front St.,Schenectady, NY 12305	US		9	0		1	0
+16350	ICHIHARA, Masaki	c/o NEC Corporation 7-1, Shiba 5-chome, Minato-ku,Tokyo 108-8001	JP		9	0		1	0
+16673	Choi, Jong-Mu	732-1801 Daerim APT Sanbon-dong,Gunpo-si Gyeonggi-do	KR		9	0		1	0
+16701	Jung, Jae Dong	c/o Samsung Electronics Co., Ltd. 416 Maetan 3(sam)-dong Yeongtong-gu,Suwon-si Gyeonggi-do	KR		9	0		1	0
+16744	Hoschopf, Hans	Hans Ponstingl Gasse 21,8380 Jennersdorf	AT	AT113	3	0		1	0
+16756	THIVILLON, Jean	146, rue Chante-Perdrix,F-01600 Trevoux	FR	FR711	3	0		1	0
+16822	LAITINEN, Lauri, A.	Katiskakuja 3 as 6,FIN-02230 Espoo	FI	FI1B1	3	0		1	0
+16988	Dupuis, Frédéric	57 Route de Marzy Bâtiment B-Entrée 6,58000 Nevers	FR	FR262	3	0		1	0
+17047	France Télécom	6 Place d'Alleray,75015 Paris	FR	FR101	3	2	COMPANY	0	1
+17170	Walter, Vincent	8 rue Lucien Febvre,25000 Besancon	FR	FR431	3	0		1	0
+17220	Bablet, Jacqueline	56 avenue du Vercors,38450 Le Gua	FR	FR714	3	0		1	0
+17277	Elleaume, Philippe Thomson - CSF SCPI	19 Avenue de Messine,F-75008 Paris	FR	FR101	3	0		1	0
+17338	GILLOIRE, André	7, rue Yann Péron,F-22300 Lannion	FR	FR521	3	0		1	0
+17428	Marmier, Jean-Yves	7 rue des Mésanges - La Jammoniére,85140 Le Poiré / Vie	FR	FR	0	0		0	0
+17450	Serrie, Gérard	Lieu dit Philip,6530 Lansac	FR	FR626	3	0		1	0
+17525	Zrinski AG	Eisenbahnstrasse 100,78573 Wurmlingen	DE	DE137	3	1	COMPANY	0	1
+17745	Reifenhäuser GmbH & Co. KG Maschinenfabrik	Spicher Strasse 46-48,53839 Troisdorf	DE	DEA2C	3	1	COMPANY	0	1
+17840	HAUTAU GmbH	Bahnhofstrasse 56-60,31691 Helpsen	DE	DE928	3	1	COMPANY	0	1
+17897	Necker, Frieder	Spoecker Weg 16,70567, Stuttgart	DE	DE111	3	0		1	0
+17964	Volz, Stefan	Cornillstrasse 32a,63756 Alzenau	DE	DE264	3	0		1	0
+18038	HOPPECKE Batterien GmbH & Co. KG	Bontkirchener Strasse 1,59929 Brilon	DE	DEA57	3	1	COMPANY	0	1
+18435	Olson, William, C.	21 Fawn Court,Ossining, NY 10562	US		9	0		1	0
+18506	Aharon, Hava	5 Hatanaim Street,44374 Kefar Saba	IL		9	0		1	0
+18513	Gagnieux, Samuel	9, rue de Nontesquieu,38320, Eybens	FR	FR714	3	0		1	0
+18530	Vincent, John S.	427 West 39th Avenue,Vancouver British Columbia V5Y 2P8	CA		9	0		1	0
+18709	Caporusso, Alessandro	Via Pantanelle, 21,03030 Piedimonte San Germano (FR)	IT	ITI45	3	0		1	0
+18716	OHNISHI, Masataka	117, Nishijiyuugaoka 2-chome Shijimi-cho,Miki-shi Hyogo 673-0551	JP		9	0		1	0
+18742	Okamoto, Kenji	Fuji Electric Co., Ltd.,1-1, Tanabeshinden,Kawasaki-ku Kawasaki-shi Kanagawa 210-0856	JP		9	0		1	0
+18834	Tamura, Eri	c/o Kochi Prefectural Paper Technology Center 287-4, Hakawa, Ino-sho,Agawa-gun, Kochi 781-2128	JP		9	0		0	0
+18906	OZEKI, Yukio c/o Calsonic Kansei Corp.	5-24-15, Minamidai, Nakano-ku,,164-8602 Tokyo	JP		9	0		0	0
+18959	TANIGUCHI, Takeshi	c/o KABUSHIKI KAISHA HONDA LOCK, 3700, Aza Wadayam, a, Shimonaka, Sadowara-cho,Miyazaki-shi, Miyazaki 880-0293	JP		9	0		0	0
+19129	KOHIRUIMAKI, Jun	1-1, Anesakikaigan,Ichihara-shi, Chiba 299-0193	JP		9	0		1	0
+19317	KRATJE, Ricardo	Pavon 330,Santa Fe, SANTA FE	AR		9	0		1	0
+19322	de Boer, Albertus Gerrit	Toerenwacht 61,2353 DB, Leiderdorp	NL	NL337	3	0		1	0
+19337	Paton, Virginia E.	Genentech, Inc. 1DNA Way,South San Francisco, CA 94080	US		9	0		1	0
+19343	INOHARA, Takeshi	c/o Matsumoto Yushi-Seiyaku Co., Ltd., 1-3, Shibukawa-cho 2-chome,Yao-shi, Osaka 581-0075	JP		9	0		1	0
+19351	Galindo, Christophe	UMR 6517, Université d'Aix-Marseille 1, 2 et 3-CNRS Avenue Escadrille Normandie Niemen, Case 542,13397 Marseille	FR	FR824	3	0		1	0
+19373	MATSUDA, Takayuki	1-2 Yuraku-cho 1-chome Chiyoda-ku,Tokyo 100-8440	JP		9	0		1	0
+19654	SÁEZ, Maria Eugenia	Avda. Charles Darwin S/n Edif. Estación Monorraíl Isla De La Cartuja,E-41092 Sevilla	ES	ES618	3	0		1	0
+19688	Gigliotti, Jr., Michael Francis Xavier	41 Kile Drive,Scotia, NY 12302	US		9	0		1	0
+19764	OSUMI, Hiroyuki	c/o DAIO PAPER CORPORATION, 5-1, Mishimakamiyacho,Shikokuchuo-shi, Ehime 7990492	JP		9	0		1	0
+19862	Mavinahally, Nagesh	207 Brittany Park,Anderson 29621, South Carolina	US		9	0		1	0
+19966	Tsubata, Yoshimichi	Honda R&D Co., Ltd. 4-1, Chuo 1-chome Wako-shi,Saitama, 351-0193	JP		9	0		0	0
+20225	AKAHANE, Yoshihiro	c/o Itami Works of SUMITOMO ELECTRIC INDUSTRIES, L TD., 1-1, Koyakita 1-chome,Itami-shi, Hyogo 664-8611	JP		9	0		1	0
+20450	NAKAZAWA, Taiho c/o Matsushita Electr.Ind.	7F Twin 21 OBP Panasonic Tower, 2-1-61 Shiromi,Chuo-ku, Osaka-shi, Osaka 540-6207	JP		9	0		0	0
+20612	Susilla Fernández, Marcos	Avenida Peñota n 3 - 8 A,48920 Portugalete - Vizcaya	ES	ES213	3	0		1	0
+20639	Mitsubishi Chemical Corporation	1-1, Marunouchi 1-chome, Chiyoda-ku,Tokyo 100-8251	JP		9	2	COMPANY	0	1
+20751	Seo, Sun-ae	932-301 (Family Life-dong) Dormitory of Seoul National University, San 4-1 Bongcheon-dong Gwanak-gu,Seoul	KR		9	0		1	0
+20822	Garcia Alberola E Hijos, S.L.	P.I. 3 Hermanas C/ Apero56 NA3,03680 Aspe (Alicante)	ES	ES521	3	1	COMPANY	0	1
+20959	Strang, William G.	7872 Highland Avenue SW.,Warren, OH 44481	US		9	0		1	0
+21009	MAEDA, Koji	Kabushiki Kaisha Toyota Jidoshokki 2-1, Toyoda-cho,Kariya-shi, Aichi 4488671	JP		9	0		1	0
+21072	University College London	Brook House 2-16 Torrington Place,London WC1E 7HN	GB	UKI31	3	2	UNIVERSITY	0	1
+21076	Penty, Richard Vincent	Home Farm House, Meeting Lane, Litlington,Royston, Hertfordshire SG8 OQF	GB	UKH12	3	0		1	0
+21105	NUMAOKA, Chisato	c/o Sony Computer Entertainment Inc. 2-6-21, Minami-Aoyama Minato-ku,Tokyo 107-0062	JP		9	0		1	0
+21140	Lee, Sung-Yeon	No. 521-502, Samsung 5cha APT, Pungdeokcheon2-dong, Yongin-si,Gyeonggi-do	KR		9	0		1	0
+21239	Murakami, Tokumichi	c/o Mitsubishi Electric Corporation 7-3, Marunouchi 2-chome Chiyoda-ku,Tokyo 100-8310	JP		9	0		1	0
+21336	Asada, Kohei	c/o SONY CORPORATION 1-7-1 Konan, Minato-ku,Tokyo 108-0075	JP		9	0		1	0
+21379	Schmitz, Manfred	Am Neukirchpark 7,90547 Stein	DE	DE258	3	0		1	0
+21455	Proudy, Pascal	30, rue du Château,77300 Fontainebleau	FR	FR102	3	0		1	0
+21557	RAMOS, Gabriel	Paseo de Sancha 28,E-29016 Málaga	ES	ES617	3	0		1	0
+21814	SCHNEIDER, Falk	Alleenstrasse 2,70825 Korntal-Münchingen	DE	DE115	3	0		1	0
+21864	Rivera Franco, Gonzalo	C/ Doctor Klein 169, B-3,08440 Cardedeu-Barcelona	ES	ES511	3	0		1	0
+21872	Bürke, Harald	Bardella 5a,6820 Franstanz	AT	AT342	3	0		1	0
+21873	Schweiger, Marcel	Güterstrasse 16,9000 Chur	CH	CH055	3	0		1	0
+21920	Wuerpel, Hartmut	Schillerstrasse 32,88677 Markdorf	DE	DE147	3	0		1	0
+22003	Mendes Silva, Paulo	Pioenrooslaan 15,2292 DC Wateringen	NL	NL333	3	0		1	0
+22022	Heinen, Soraya	Frankenstrasse 73,50858 Köln	DE	DEA23	3	0		1	0
+22078	Rieche, Andreas	Sulzerhof 1,8355 Aadorf	CH	CH057	3	0		1	0
+22126	Plettrichs, Peter	Bergstrasse 5,86854 Amberg	DE	DE27C	3	0		1	0
+22127	Naumann, Falk	Finkenweg 5,06110 Halle/Saale	DE	DEE02	3	1	INDIVIDUAL	1	1
+22138	Butz, Felix	Siebengebirgsallee 78,50939 Köln	DE	DEA23	3	0		1	0
+22151	Klöber GmbH	Hauptstrasse 1,88696 Owingen	DE	DE147	3	1	COMPANY	0	1
+22173	Akzo Nobel Chemicals International B.V.	Stationsstraat 77 P.O. Box 9300,3811 MH Amersfoort	NL	NL310	3	1	COMPANY	0	1
+22198	Bayern-Chemie Gesellschaft für flugchemische Antriebe mbH	Liebigstrasse 15 - 17,84544 Aschau a. Inn	DE	DE21G	3	1	COMPANY	0	1
+22261	Magel, Hans-Christoph	Werastrasse 9,72764 Reutlingen	DE	DE141	3	0		1	0
+22264	von Malm, Norwin	Friedrichstrasse 2,93186 Pettendorf	DE	DE238	3	0		1	0
+22320	KÖSTER, Hubert	Hallerstrasse 74,D-2000 Hamburg 13	DE	DE600	3	1	INDIVIDUAL	1	1
+22528	TÜV RHEINLAND HOLDING AG	Am Grauen Stein,51105 Köln	DE	DEA23	3	1	COMPANY	0	1
+22633	Huber, Richard, Dr.	Ziegelring 10,87656 Germaringen	DE	DE27B	3	0		1	0
+22844	Sadeghi, Behzad	Kerschbaumgasse 4/31,1100 Wien	AT	AT130	3	0		1	0
+22899	Hexels, Gerd	Reinerstrasse 3,41334 Nettetal	DE	DEA1E	3	0		1	0
+23171	Stengele, Michael, Dr.	Müggenkampstrasse 35,20257 Hamburg	DE	DE600	3	0		1	0
+23452	Aizo AG	Garbenheimer Strasse 38,35578 Wetzlar	DE	DE722	3	1	COMPANY	0	1
+23483	Diesch, Dominik	Mommsenstrasse 22,42289 Wuppertal	DE	DEA1A	3	0		1	0
+23538	Dunky, Manfred, Dipl.-Ing.Dr.	Kreuzgasse 31/I/10,A-1180 Wien	AT	AT130	3	0		1	0
+23619	CORDONNIER, Denis	13, rue Camille Desmoulins,F-59185 Provin	FR	FR301	3	0		1	0
+23703	Thermo Electron LED GmbH	Robert-Bosch-Strasse 1,63505 Langenselbold	DE	DE719	3	1	COMPANY	0	1
+23705	Betz, Stefan	Bogenstrasse 10,63526 Erlensee	DE	DE719	3	0		1	0
+23846	Peulen, Jacques	Bergacherstrasse 22A,8630 Rüti	CH	CH040	3	0		1	0
+23875	Christian, Ottmar	Bodelschwinghstrasse 32,57250 Netphen	DE	DEA5A	3	0		1	0
+23965	StrikoWestofen GmbH	Lorenz-Schott-Strasse 5,55252 Mainz-Kastel	DE	DE714	3	1	COMPANY	0	1
+24378	Montano, Francesco	c/o I.P.S.- International Products &Services S.r.l. Via Civesio 6,20097 S. Donato Milanese	IT	ITC4C	3	0		1	0
+24402	Strong, James	5071 Nesbitt Road N.W.,Calgary Alberta T2K 2N6	CA		9	0		1	0
+24475	Marshall, William	c/o Becton, Dickinson and Company 1 Becton Drive,Franklin Lakes, NJ 07417	US		9	0		1	0
+24729	YAKUSHIDOH, Kenichi	Toray Hokuen-ryo, 13-1, Sonoyama 2-chome,Otsu-shi, Shiga, 520-0842	JP		9	0		1	0
+25040	Asteas S.r.L.	Corso Galileo Ferraris, 118,10129 Torino	IT	ITC11	3	1	COMPANY	0	1
+25272	KINOSHITA, Toru	c/o SUMITOMO OSAKA CEMENT CO., LTD., 6-28, Rokuban-cho, Chiyoda-ku,Tokyo 102-8465	JP		9	0		1	0
+25353	Wetjens, Peter M.A.	Zilverschoon 3,5975 TE Sevenum	NL	NL421	3	0		1	0
+25861	NISHIDA, Masaaki, AISIN AW CO., LTD.	10, Takane, Fujii-cho,Anjo-shi, Aichi 4441192	JP		9	0		1	0
+26204	SHIMIZU, Ryo	c/o Sumitomo Osaka Cement Co., Ltd., 6-28, Rokuban-cho, Chiyoda-ku,Tokyo 102-8465	JP		9	0		0	0
+26271	Nishimura, Toshinori	c/o Kyocera Mita Corporation 2-28, Tamatsukuri 1-chome Chuo-ku,Osaka-shi, Oaska 540-8585	JP		9	0		1	0
+26434	Colville, James J.	41 The Logan,Liff Dundee DD2 5PJ	GB	UKM21	3	0		1	0
+26442	Toyoda, Takashi	c/o Funai Electric Co., Ltd. 7-1, Nakagaito 7-chome,Daito-shi Osaka 574-0013	JP		9	0		1	0
+26561	Talwar, Renu	BB-53 Salt Lake, Sector 1,Kolkata 700 064	IN		9	1	INDIVIDUAL	1	1
+26595	KUBO, Hiroshi, c/o YAMAHA CORPORATION	10-1, Nakazawa-cho, Naka-ku, Hamamatsu-shi,Shuzuoka	JP		9	0		1	0
+26810	ISHIZUKA, Shogo	NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY, Tsukuba Central 2 1-1, Umezono 1-chome, Tsukuba-shi,Ibaraki 305-8568	JP		9	0		1	0
+26818	MATSUI, Yuji	c/o Asahi Glass Company, Limited, 2-1, Yurakucho 1-chome Chiyoda-ku,Tokyo; 1008405	JP		9	0		1	0
+26908	Giga-Byte Technology Co., Ltd.	No. 6, Bau Chiang Road Hsin-Tien,Taipei-Hsien	TW		9	1	COMPANY	0	1
+26943	Kouzu, Katsumi	c/o Panasonic EV Energy Co., Ltd 555, Sakaiyado,Kosai-shi Shizuoka 431-0452	JP		9	0		1	0
+27029	KTF Technologies, Inc.	9th Fl., Sinyoung tower 265-3, Seohyeon-dong, Bundang-gu,Seongnam-si, Gyeonggi-do 463-769	KR		9	1	COMPANY	0	1
+27370	II, Masayuki	5-71-305, Minoo 6-chome,Minoo-shi Osaka 562-0001	JP		9	0		1	0
+27974	Imaging Therapeutics, Inc.	400 Seaport Ct. Suite 250,Redwood City, CA 94063	US		9	1	COMPANY	0	1
+28141	O'KEEFFE, Connor, J.	26 Hollygarth, Douglas,Cork	IE	IE025	3	0		1	0
+28199	DESILVA, Renuka	40628 Delta Drive,Northville, Michigan 48167	US		9	0		1	0
+28207	EZ Lift Tailgate Systems, L.L.C.	1180 Palms Road,Columbus MI 48063	US		9	1	COMPANY	0	1
+28311	Cummings, William J.	149 Ashton Avenue,Millbrae California 94030	US		9	0		1	0
+28361	SCHOMBERG, Hermann, Philips Intel. Prop. & Stand.	Weisshausstr. 2,52066 Aachen	DE	DEA2D	3	0		1	0
+28476	HUIZING, Hendrik, G., A.	c/o Prof. Holstlaan 6,NL-5656 AA Eindhoven	NL	NL414	3	0		1	0
+28716	NGK Insulators, Ltd.	2-56, Suda-cho Mizuho-ku,Nagoya-city, Aichi 467-8530	JP		9	2	COMPANY	0	1
+28724	YAMAKI, Jun-ichi	KYUSHU UNIVERSITY 10-1, Hakozaki 6-chome, Higashi-,Fukuoka-city Fukuoka 812-0053	JP		9	0		1	0
+28750	Marastoni, Elena	Via Marconi, 36,43100, Parma	IT	ITH52	3	0		1	0
+28847	MAKHERVAKS, Vadim	11509 Leon Grande,Austin, Texas 78759	US		9	0		1	0
+29047	SALO, Rodney	136 71st Way N.E.,Fridley, Minnesota 55432	US		9	0		1	0
+29063	GOH, Jane, B.	265 Howland Ave,Toronto Ontario M5R 3B7	CA		9	0		1	0
+29135	YOKOBATA, Kathy	1013 Aster Avenue,Sunnyvale, CA 94086	US		9	0		1	0
+29148	WANG, Jun	23D, Block 5, Royal Ascort Fo Tan,Hong Kong	CN		9	0		1	0
+29179	LAKSHMI, Vijai	Central Drug Research Institute Chattar Manzil Palace Post Box No. 173,Lucknow 226 001	IN		9	0		1	0
+29307	KOH, Zi Kai	9 Meragi Close,Singapore 487971	SG		9	0		1	0
+29313	NEJAD, Hasan	6144 S. Schooner Place,Boise, Idaho 83716	US		9	0		1	0
+29429	JAIN, Rakesh, Kumar	41415 Timber Creek Terrace,Fremont, CA 94539	US		9	0		1	0
+29445	GORDON, Doron	9 Keshet Street Pob 2820,60920 Kadima	IL		9	0		1	0
+29456	KOSHIZUKA, Tsutomu c/o Matsushita Electric Industrial Co., Ltd.	IP Dev. Center, 7F Twin 21 OBP Panasonic Tower, 2-1-61 Shiromi,Chuo-ku, Osaka, 540-6207	JP		9	0		1	0
+29518	Tap Pharmaceutical Products, Inc.	675 N. Field Drive,Lake Forest IL 60045	US		9	1	COMPANY	0	1
+29572	MITO, Yasushi	c/o Konami Digital Entertainment Co., Ltd. 6-10-1, Roppongi, Minato-ku,Tokyo 106-6114	JP		9	0		1	0
+29593	TAKAHARA, Makoto	c/o Sekisui Chemical Co., Ltd. 4560, Kaiseicho,Shunan-shi, Yamaguchi 746-0006	JP		9	0		1	0
+29633	TETSUHASHI, Hideaki	NEC Corporation, 7-1, Shiba 5-chome, Minato-ku,Tokyo 108-8001	JP		9	0		1	0
+29932	TECHIMP TECHNOLOGIES S.r.l.	Via dell'Indipendenza, 54,40121 Bologna	IT	ITH55	3	1	COMPANY	0	1
+30093	ENZELBERGER, Markus	Morphosys AG, Lena-Christ-Str. 48,82152 Martinsried	DE	DE	0	0		0	0
+30274	Bracesco, Roberto	Martur Falcad S.r.l. Strada Torino, 43,10043, Orbassano (Torino)	IT	ITC11	3	0		1	0
+30309	Maeda, Shingo	JTEKT CORPORATION 5-8, Minamisemba 3-chome, Chuo-k,Osaka-shi, Osaka 542-8502	JP		9	0		1	0
+30367	Reinhold, Dennis J.	5552 Drane Drive,Dallas TX 75209	US		9	0		1	0
+30439	NISHIDA, Satoshi	3-1, Shinhama 2-chome, Arai-cho, Takasago-shi,Hyogo 676-8670	JP		9	0		0	0
+30495	Lemire, Gérald	264 Joseph-Leduc St.-Eustache,Quebec J7R 6J7	CA		9	0		1	0
+30630	Bowe Bell + Howell Company	760 S. Wolf Road,Wheeling IL 60090-6232	US		9	1	COMPANY	0	1
+30685	KTB Tumorforschungsgesellschaft mbH	Breisacher Strasse 117,79106 Freiburg	DE	DE131	3	1	COMPANY	0	1
+30781	Kawanami, Hiroshi	c/o Kubota Corporation Sakai Seizosho, 64 Ishizukitamachi,Sakai-shi, Osaka	JP		9	0		1	0
+30852	Shin-Etsu Chemical Co., Ltd.	6-1, Otemachi 2-chome Chiyoda-ku,Tokyo	JP		9	2	COMPANY	0	1
+31102	LG Electronics Inc.	20 Yeouido-dong Yeongdeungpo-ku,Seoul 150-721	KR		9	2	COMPANY	0	1
+31168	Lee, Sang Bum	101-1103 Daewoo Purgio Apt. Gisan-dong,Hwaseong-si Gyeonggi-do 445-300	KR		9	0		1	0
+31297	Ukei, Hiroichi	c/o Nitto Denko Corporation 1-2 Shimohozumi 1-chome,Ibaraki-shi Osaka 567-8680	JP		9	0		1	0
+31449	Matusheski, Nathan V.	489 Tanglewood Drive,Gurnee, IL 60031	US		9	0		1	0
+31486	Grassi, Giancarlo	Via Serra di Sotto 9,47834 Montefiore Conca (RN)	IT	ITH59	3	0		1	0
+31506	Huwa-Vandersanden B.V.	Spijsedijk 24,6917 AB Spijk	NL	NL226	3	1	COMPANY	0	1
+31588	Shen, Sheng Mei	Matsushita Electric Industrial Co., Ltd. IP Development Center 7F Twin 21 OBP Panasonic Tower 2-1-61 Shiromi Chuo-ku,Osaka 540-6207	JP		9	0		1	0
+31629	Comunello, Luca	Via Enrico Fermi, 17,36022, Cassola (VI)	IT	ITH32	3	0		1	0
+31756	Assadollahi, Ramin O.	Theresienstr. 9,80333 Muenchen	DE	DE212	3	0		1	0
+31771	Yasuyuki, Izu	No. 39-7-808, Hiratsu, Yoneda-cho,Kakogawa Hyogo	JP		9	0		1	0
+31775	Winter, Ulf	Läby-Österby 4:20,75326, Uppsala	SE	SE121	3	0		1	0
+31820	Novinski, John, A.	P.O. Box 491756,Leesburg, FL 34749	US		9	0		1	0
+31835	Honeywell Normalair-Garrett (Holdings) Limited	Box 671, Westland Works Yeovil,Somerset BA20 2YD	GB	UKK23	3	1	COMPANY	0	1
+31846	Nilsson, Jan	Forskarpatent i Syd AB Toppeladugård 3,204 13, GENARP	SE	SE224	3	0		1	0
+31864	Noguchi, Yuusuke	Ricoh Company, Ltd. 3-6, Nakamagome, 1-Chome, Ohta-ku,Tokyo 143-8555	JP		9	0		1	0
+31946	Lee, Sang-Min, Samsung Electronics Co., Ltd.	416 Maetan-dong, Yeongtong-gu, Suwon-si,Gyeonggi-do	KR		9	0		1	0
+31955	Sundblad, Rolf	Bagaregatan 21,590 71 Ljungsbro	SE	SE123	3	0		1	0
+32205	Tokumaru, Haruki c/o Nippon Hoso Kyokai	1-10-11, Kinuta Setagaya-Ku,Tokyo	JP		9	0		1	0
+32448	Cruysberghs, Rudiger Jozef Charles	Sterstraat 15,B-2310 Rijkevorsel	BE	BE213	3	1	INDIVIDUAL	1	1
+32512	C&D/Charter Holdings, Inc.	1105 North Market Street, Suite 1300,Wilmington, Delaware 19899	US		9	1	COMPANY	0	1
+32554	SHIMADZU CORPORATION	1, Nishinokyo-Kuwabaracho,Nakagyo-ku, Kyoto 604	JP		9	2	COMPANY	0	1
+32657	Commonwealth Scientific & Industrial Research Organisation ( C.S.I.R.O. )	Limestone Avenue,Campbell ACT 2602	AU		9	2	GOV NON-PROFIT	0	1
+32658	Senset AB	Universitetsvägen 14,583 30 Linköping	SE	SE123	3	1	COMPANY	0	1
+32691	Ro, Myong-Do	33-207, Maetan-Jukong Apt., Maetan-dong, Paldal-gu,Suwon-city, Kyungki-do	KR		9	0		1	0
+32777	Roy, Christophe	19, rue de Strasbourg,76200 Dieppe	FR	FR232	3	0		1	0
+32913	LMQTECH SARL	L'Arche 9 Rue Adrien Ricard,38000 Grenoble	FR	FR714	3	1	COMPANY	0	1
+33063	TAYLOR ,Steven	42 Icknield Close,Didcot OX11 7 AU	GB	UK	0	0		0	0
+33090	Ogawa, Toshio	Shizuoka Inst. of Scien. & Tech. 2200-2, Toyosawa,Fukuroi-shi Shizuoka 437-8555	JP		9	0		1	0
+33177	KALB, Roland	Coburger Strasse 7,96269 Grossheirath	DE	DE247	3	0		1	0
+33212	Mease, George	Südstrasse 3,42857 Remscheid	DE	DEA18	3	0		1	0
+33377	Ludwig, Ralf	Heerwieser Weg 9,58509 Lüdenscheid	DE	DEA58	3	0		1	0
+33421	Schneider, Ernst, Dr.	Seeblick 11 Freinberg,84163 Marklkofen	DE	DE22C	3	0		1	0
+33611	Meier, Hartmut, Dipl.-Ing.(FH)	Kolkweg 6,06779 Schierau OT Möst	DE	DEE05	3	0		1	0
+33735	Millet, Patrice Dr.	Eschstr. 2,48691 Vreden	DE	DEA34	3	0		1	0
+33854	Lienenlücke, Paul	Elberfelder Strasse 115,45549 Sprockhövel	DE	DEA56	3	0		1	0
+33897	Baesch, Manfred	Hiberniastrasse 102,46049 Oberhausen	DE	DEA17	3	0		1	0
+34213	Raynor, Jeff	15 Magdala Crescent,Edinburg EH12 5BD	GB	UKM25	3	0		1	0
+34246	UCHIYAMA, Naotaka, c/o Omron Corp, Shiokoji-dori	801, Minamifudodo-cho, Horikawahigashiiru,Shimogyo-ku, Kyoto-shi, Kyoto 600-8530	JP		9	0		1	0
+34312	SAMBAIAH, Kari	Central Food Technological Research Institute, Mysore,570 013 Karnataka	IN		9	0		0	0
+34437	HUNTER, Ian, W.	6 Oakdale Lane,Lincoln, MA 01773	US		9	0		1	0
+34481	Nucletron B.V.	Waardgelder 1,3905 TH Veenendaal	NL	NL310	3	1	COMPANY	0	1
+34540	KAMATA, Isaho, c/o Central Research Institute	Elec. Power Ind. Yokosuka Res. Lab., 6-1, Nagasaka,2-chome, Yokosuka-shi, Kanagawa 240-0196	JP		9	0		1	0
+34571	GARDELLA, Joseph, A.	178 Admiral Road,Buffalo, NY 14216-2037	US		9	0		1	0
+34749	Samsung SDI Co., Ltd.	575 Shin-dong, Yeongtong-gu,Suwon-si Gyeonggi-do	KR		9	2	COMPANY	0	1
+34780	Johnson, Peter	48 Dean Court Road, Rottingdean,Brighton BN2 7DJ	GB	UKJ21	3	0		1	0
+34814	KURODA, Yasuhiro, Tokushima University Hospital	50-1, Kuramoto-cho 2-chome,Tokushima-shi, Tokushima 7708503	JP		9	0		1	0
+34891	TSUKAGOSHI, Takuya, TDK Corporation	1-13-1, Nihonbashi, Chuo-ku,Tokyo 1038272	JP		9	0		1	0
+35364	SHIN, Sung-Kee	c/o POSCO, Dongchon-dong 5, Nam-ku,Pohang-shi, Kyungsangbuk-do 790-360	KR		9	0		1	0
+35471	LOW, Hong Yee	c/o Institute of Materials Research and Engineering 3 Research Link,Singapore 117602	SG		9	0		1	0
+35566	HANSEN, Ove, Emil	Ravnsholtvej 22,DK-3450 Allero̸d	DK	DK013	3	0		1	0
+35733	Watanabe, Naoto	CANON KABUSHIKI KAISHA 3-30-2, Shimomaruko Ohta-ku,Tokyo Tokyo 146-8501	JP		9	0		1	0
+35755	Dunk, Craig	23 Grey Oak Drive,Guelph Ontario N1L 1 P2	CA		9	0		1	0
+35803	IBIDEN CO., LTD.	1 Kandacho 2-chome,Gifu Okagi 503-0695	JP		9	2	COMPANY	0	1
+35900	Timbang, Alvin	,Union City, California	US		9	0		0	0
+35910	Hsu, Shih-Ying	301 Sunrise Court,Chalfont, Pennsylvania 18914	US		9	0		1	0
+35983	YOKOYAMA, Hitoshic/o FUJITSU LIMITED	1-1, Kamikodanaka 4-chome, Na kahara-ku,Kawasaki-shi, Kanagawa;2118588	JP		9	0		1	0
+36111	Katoen Natie	Van Aerdtstraat 33,2060 Antwerpen	BE	BE211	3	1	COMPANY	0	1
+36295	DIENY, Bernard	180 Allée des Erables,F-38250 Lans en Vercors	FR	FR714	3	0		1	0
+36336	RINNE, Mika, P.	Merenneidontie 26 J FIN-02320, Espoo,Finland	FI	FI1B1	3	0		1	0
+36344	VAN TERTHOLEN, Onno	C/o Prof. Holstlaan 6,NL-5656 AA Eindhoven	NL	NL414	3	0		1	0
+36399	LAAS, Leonardus, Jacobus	Biesboschstraat 28,NL-1823 WE Alkmaar	NL	NL322	3	0		1	0
+36406	DOERKSEN, Kyle, J.	26645 Purissima Road,Los ALtos Hills, CA 94022	US		9	0		1	0
+36456	LEPELLEY, Maud	Appartement B3 4, Rue Jean Lurcat,F-37100 Tours	FR	FR244	3	0		1	0
+36489	CHOW, Laurence, C.	11908 Ambleside Drive,Potomac, Maryland 20854	US		9	0		1	0
+36521	HUANG, Zhiyong	Huawei Administration Building Bantian Longgang District Shenzhen,Guangdong 18129	CN		9	0		1	0
+36547	NEUHAUS, Anke	Breite Hille 10,44892 Bochum	DE	DEA51	3	0		1	0
+36575	POHJOLAINEN, Topi	Punavuorenkatu 4 D 22,FIN-00120 Helsinki	FI	FI1B1	3	0		1	0
+36625	CHAPDELAINE, Marc	AstraZeneca Wilmington 1800 Concord Pike P.O. Box 15437,Wilmington, DE 19850-5437	US		9	0		1	0
+36802	BAO, Hongqing	Huawei Administration Building Bantian, Longgang District Shenzhen,Guangdong 518129	CN		9	0		1	0
+37094	ARSTAD, Erik	Hammersmith Imanet Limited Cyclotron Building Hammersmith Hospital Du Cane Road,London London W12 0NN	GB	UKI33	3	0		1	0
+37269	WALKER, Jason, S.	253 Governor's Avenue,Medford, Massachusetts 02155	US		9	0		1	0
+37370	CALDWELL, Richard	c/o GlaxoSmithKline Corporate Intellectual Property Dept Five Moore Drive PO Box 13398,Research Triangle Park, NC 27709	US		9	0		1	0
+37375	PANCOOK, James, D.	12495 Caminito Brioso,San Diego, California 92131	US		9	0		1	0
+37504	AKIYAMA, Toshihiro, Matsushita Electrical Ind. Co., Ltd Ltd.	I.P.R.O. Company, IP Dev. Ctr., 7F Twin 21 OBP Panasonic Tower, 2-1-64, Shiromi,Chuo-ku, Osaka 540-6207	JP		9	0		1	0
+37619	SIMMS, Howard, D.	530 Mackubin Circle,Shoreview, MN 55126	US		9	0		1	0
+37735	Panifare Union, LLC	2711 Centerville Road, Suite 400,Wilmington DE 19808	US		9	1	COMPANY	0	1
+37889	DAI, Jianming	44 25th Street,Troy, NY 12180	US		9	0		1	0
+37913	HAUDENSCHILD, Chris	1870 La Jolla Rancho Road,La Jolla, California 92037	US		9	0		1	0
+38011	Herzberg, Eran	Beneviste 5,Tel Aviv 66087	IL		9	0		1	0
+38065	Hirato, Katsuyuki	c/o Fujifilm Corporation 4000, Kawashiri Yoshida-cho,Haibara-gun Shizuoka	JP		9	0		1	0
+38102	Logan, Ian	42 Webbington Road,Chippenham Wiltshire SN15 3GA	GB	UKK15	3	0		1	0
+38222	High Tech Computer Corp. (HTC)	No. 23, Hsin Hua Rd.,Taoyuan	TW		9	1	COMPANY	0	1
+38235	Spitzer, Mark, B.	5 Mink Trap Lane,Sharon, Massachusetts MA 02067	US		9	0		1	0
+38392	Fitzgerald, Eamonn P.	1018 North 32 Avenue,Hollywood, FL 33021	US		9	0		1	0
+38672	YAMAKAWA, Tomio	SUMITOMO METAL INDUSTRIES, LTD. 5-33, Kitahama 4-chome Chuo-ku,Osaka-shi Osaka 541-0041	JP		9	0		1	0
+38811	Murugesan, Natesan	42 Millbrook Drive,Princeton Junction, NJ 08550	US		9	0		1	0
+38962	NTT DoCoMo, Inc.	Sanno Park Tower 11-1 Nagata-cho 2-chome Chiyoda-Ku,Tokyo 100-6150	JP		9	2	COMPANY	0	1
+39084	Furuta, Shigeo, c/o Funai Elelctric advanced Applied	Technology Research Institute Inc., 2-1-6, Sengen,Tsukuba-shi Ibaraki 305-0047	JP		9	0		1	0
+39106	Fan, Jian-Bing	5247 Pearlman Way,San Diego, CA 92130	US		9	0		1	0
+39222	Nagase, Noboru	Denso Corporation Intellectual Property Department 1-1, Showa-cho,Kariya-city Aichi-pref., 448-8661	JP		9	0		1	0
+39263	Miyamoto, Manabu	c/o Olympus Medical Systems Corp. 43-2, Hatagaya 2-chome,Shibuya-ku Tokyo	JP		9	0		1	0
+39504	Ishikawa, Yoshihisa, Hitachi, Ltd. Intellectual Property Group	6-1, Marunouchi 1-chome Chiyoda-ku,Tokyo 100-8220	JP		9	0		1	0
+39545	Braun GmbH	Frankfurter Strasse 145,61476 Kronberg/Taunus	DE	DE718	3	2	COMPANY	0	1
+39577	Fujita, Hideaki, Tokyo Institute of Technology	2-12-1, Ookayama Meguro-ku,Tokyo 152-8550	JP		9	0		1	0
+39606	Stortiero, Francesco	Viale Gramsci, 42/c,20099 Sesto S.Giovanni (Milano)	IT	ITC4C	3	0		1	0
+39638	KABUSHIKI KAISHA TOKAI RIKA DENKI SEISAKUSHO	260, Toyota-3-chome Ohguchi-cho,Niwa-gun, Aichi-ken 480-0195	JP		9	2	COMPANY	0	1
+39664	Takeuchi, Kesatoshi	c/o Seiko Epson Corporation 3-5, Owa 3-chome,Suwa-shi, Nagano-ken 392-8502	JP		9	0		1	0
+39709	Borkowski, Astrid	c/o Novartis Vaccines Emil-von-Behring-Strasse 76,35041 Marburg	DE	DE724	3	0		1	0
+39755	Matsuoka, Miki	c/o OMRON CORPORATION 801, Minamifudodo-cho Horikawahigashiiru Shiokoji-dori,Shimogyo-ku Kyoto-shi Kyoto Kyoto 600-8530	JP		9	0		1	0
+39759	Inacio, Pedro	Rua do Espirito Santo, No. 35,6200-230 Aldeia de Carvalho	PT	PT16J	3	0		1	0
+39834	Gambini, Giovanni	Via A. Omodeo 7,56100 Pisa	IT	ITI17	3	1	INDIVIDUAL	1	1
+39988	Garg, Chanchal Kumar, 201-B, Aparna Heights	Adjacent to Chirec Public School, Srilingampally Mandal, Kondapur,AP-500039, Hyderabad	IN		9	0		1	0
+40000	Toyoda Iron Works Co., Ltd.	4-50, Hosoya-cho 4-chome Toyota-shi,,Aichi 471-8507	JP		9	1	COMPANY	0	0
+40189	Kim, Won-ik	408-1704 Yeolmae Maeul 4-danji APT., 858 Jijok-do,Daejeon-si	KR		9	0		1	0
+40194	Kim, Hyung-sub	80-203 Siyeong Apt., Jamsil 4-dong, Songpa-gu,Seoul	KR		9	0		1	0
+40238	Aviel, Amit	42 Leon Blum Street,58326 Holon	IL		9	0		1	0
+40379	Gary, Daniel	2 allée d'Anjou,78180 Montigny le Bretonneux	FR	FR103	3	0		1	0
+40770	EBI, L.P.	100 Interpace Parkway,Parsippany, NJ 07054	US		9	1	COMPANY	0	1
+40878	Suzuki, Kuniharu c/o Sony Ericsson Mobile	Communications Japan, Inc. 1-8-15 Konan Minato Ku,Tokyo	JP		9	0		1	0
+41105	Yamada, Yoshitaka	2-25-11 Hagoromo-cho,Tachikawa-shi Tokyo	JP		9	0		1	0
+41167	Ito, Koichi	3-18-18, Nishihirayama,Hino-shi Tokyo	JP		9	0		1	0
+41384	GUSKEY, Susan Marie	10758 Moss Hill Lane,Montgomery, OH 45249	US		9	0		1	0
+41540	Knabe, Michael	Verschwisterungsring 13a,21502 Geesthacht	DE	DEF06	3	0		1	0
+41559	Schoissengeyer, Manfred	Tuffeltsham 98,4800 Attnang-Puchheim	AT	AT315	3	0		1	0
+41615	ATOMIC Austria GmbH	Lackengasse 301,5541 Altenmarkt im Pongau	AT	AT322	3	1	COMPANY	0	1
+41997	Holzapfel, Wolfgang	Kazmairstrasse 69,80339 München	DE	DE212	3	0		1	0
+42060	Häussermann, Rudolf	Bäckergasse 40,86150 Augsburg	DE	DE271	3	0		1	0
+42062	Cestonaro, Ingo	Hohenstaufenerstrasse 18,86199 Augsburg	DE	DE271	3	0		1	0
+42134	Malekzadeh, Feridoon	7830 Stroud Ave. N.,Seattle WA 98103	US		9	0		1	0
+42579	KARP, Kriss, R.	4303 Appalachian Trails,Kingwood, TX 77345	US		9	0		1	0
+43209	ZELLER, Marcel	Wiesenstrasse 9d,CH-9436 Balgach	CH	CH055	3	0		1	0
+43476	GA.MI s.r.l.	Via Europa 360,20062 Cassano d'adda MI	IT	ITC4C	3	1	COMPANY	0	1
+43580	Tsukada, Eri	Amour Liberté 18, 306, 2-13-3 Matsushiro,Tsukuba, Ibaraki, Ibaraki 305-0035	JP		9	0		1	0
+43610	FUJIFILM CORPORATION	26-30 Nishiazabu 2-chome Minato-ku,Tokyo 106-8620	JP		9	2	COMPANY	0	1
+43789	PESONEN, Lauri	Sinitiasentie 20,FIN-02660 Espoo	FI	FI1B1	3	0		1	0
+44026	iCAD, Inc.	98 Spit Brook Road, Suite 100,Nashua, NH 03062	US		9	1	COMPANY	0	1
+44075	ALEXANDER, Thomas	5 Colonial Drive Unit A5-8,Andover, MA 01810	US		9	0		1	0
+44257	KOLNES, Steinar	So̸rkolnesv. 78,N-4050 Sola	NO	NO	0	0		0	0
+44270	BORRELLI, Nicholas F	935 West Water Street,Elmira, New York 14905	US		9	0		1	0
+44388	CUEVAS MARCHANTE, María del Carmen	Polígono Industrial La Mina - Norte Avda. De Los Reyes, 1,E-28770 Colmenar Viejo - Madrid	ES	ES300	3	0		1	0
+44748	GIROUX, Richard Lee	15618 Mustang Creek Circle,Cypress, Texas 77429	US		9	0		1	0
+44760	HIGNER, Kirk, D.	344 Tremont Avenue,Kenmore, NY 14217	US		9	0		1	0
+44772	WILLIAMS, Peter, J.	20 Whiting Road,Dover, MA 02030	US		9	0		1	0
+45045	LEE, Kook-Heui	108-1004, Byucksan 1-cha Apt., Suji-eup, Yongin-s i;,Gyeonggi-do 449-755	KR		9	0		1	0
+45088	BETZ, Martin	Strand Road,Annagassan, County Louth	IE	IE011	3	0		1	0
+45089	FISCHER, Wolfram	12 Ard Shee Blackrock,Dundalk, County Louth	IE	IE011	3	0		1	0
+45168	Health Science Technology Transfer Center, Japan Health Sciences Foundation	Kyodo Bldg. 4F 13-4, Nihonbashi Kodenma-cho Chuo-ku,Tokyo 103-0001	JP		9	1	GOV NON-PROFIT	0	1
+45175	TANAKA, Nobuo	1280, Kamiizumi Sodegaura-shi,Chiba 299-0293	JP		9	0		1	0
+45217	MARUYAMA, Akio c/o CANON KABUSHIKI KAISHA	30-2, Shimomaruko, Ohta-ku,Tokyo 1468501	JP		9	0		1	0
+45283	STALCUP, John	12140 Vintage Lane,Glen Ellen, CA 95442	US		9	0		1	0
+45420	INOUE, Tadashi	c/o Intellectual Property Dept., JFE STEEL CORPORA TION, 2-3, Uchisaiwai-cho 2-chome, Chiyoda-ku,Tokyo 100-0011	JP		9	0		1	0
+45462	MIAO, Caixia	Huawei Administration Building Bantian Longgang District Shenzhen,Guangdong 518129	CN		9	0		1	0
+45617	Nies, John H., III	2780 Gaston Gate,Mount Pleasant, SC 29466	US		9	0		1	0
+45630	Shibata, Kenji	c/o DENSO CORPORATION Int. Property Department 1-1, Showa-cho,Kariya-city Aichi-pref. 448-8661	JP		9	0		1	0
+45636	Computer Associates Think, Inc.	One Computer Associates Plaza,Islandia, New York 11749	US		9	1	COMPANY	0	1
+45700	Woo-Shik, Kim	1138 W. 29th., Apt. 7,Los Angeles, CA 90007	US		9	0		1	0
+45733	Dohta, Takuhiro	c/o Nintendo Co., Ltd. 11-1, Hokotate-cho Kamitoba Minami-ku,Kyoto 601-8501	JP		9	0		1	0
+45810	Shimoo, Manabu	405, Lions-Mansion-Keiobubaigawara 8-1, Miyoshicho 2-chome,Fuchu-shi, Tokyo 183-0045	JP		9	0		1	0
+46084	Keith Manufacturing Co.	401 N.W. Adler,Oregon Madras OR 97741	US		9	1	COMPANY	0	1
+46104	Carlsberg Breweries A/S	Ny Carlsberg Vej 100,1760 Copenhagen V	DK	DK011	3	1	COMPANY	0	1
+46288	Cates, Elizabeth	330 Rice Planters Lane,Duncan, SC 29334	US		9	0		1	0
+46364	Hoogers, Hubert Francijn Maria	De Steenoven 1,5513 BR Wintelre	NL	NL414	3	0		1	0
+46374	Hensel, Michael	De-la-Paz-Strasse 12,80639 München	DE	DE212	3	0		1	0
+46492	ISP Systems S.r.l.	Via della Meccanica, 16,Pesaro	IT	ITI31	3	1	COMPANY	0	1
+46503	Gupta, Jang Bahadur	349, Sector-14,122001, Haryana	IN		9	0		1	0
+46672	Ota, Yutaka	c/o HONDA R&D CO., LTD. 4-1, Chuo 1-chome Wako-shi,Saitama 351-0193	JP		9	0		1	0
+46717	Deruyttere, Xavier	Pelikaanberg 10,1600 Sint-Pieters-Leeuw	BE	BE241	3	0		1	0
+46851	Bedros, Saad J.	378 East Carmel Avenue,West St. Paul, MN 55118	US		9	1	INDIVIDUAL	1	1
+46905	Murphy, Thomas	561 Golden Av.,Ottawa, Ontario, K2A 2E8	CA		9	0		1	0
+47051	Vick, Stephen L.	212 Timber Grove Road,Reisterstown, MD 21136	US		9	0		1	0
+47345	Dommerque, Robert	Kloster Benden 7,50321 Brühl	DE	DEA27	3	0		1	0
+47677	Piasecki, Joshua	6, Armonim St.,Ramat-Gan	IL		9	0		1	0
+47929	Furuyuma, Tohru, c/o Intellectual Property Div.	Kabushiki Kaisha Toshiba 1-1 Shibaura 1-chome,Minato-ku Tokyo 105	JP		9	0		1	0
+48024	Yamamoto, Mitsuru, c/o Fuji Photo Film Co., Ltd.	No. 210 Nakanuma,Minami Ashigara-shi, Kanagawa	JP		9	0		1	0
+48099	Treat, Michael R.	792 Colombus Avenue,New York, NY 10025	US		9	0		1	0
+48136	Yoshizawa, Kenji, c/o Mitsubishi Denki K. K.	Chuo Kenkyusho, 1-1, Tsukaguchi-honmachi 8-chome,Amagasaki-shi, Hyogo 661	JP		9	0		1	0
+48166	Kawai, Kiyoshi	c/o Fuji Photo Film Co., Ltd.,210 Nakanuma,Minami-ashigara-shi, Kanagawa-ken	JP		9	0		1	0
+48213	Nakazato, Yasushi	5-40-1, Matsubara, Setagaya-ku,Tokyo	JP		9	0		1	0
+48241	Azuma, Satoshi, c/o Mitsubishi Denki K. K.	Sangyo System, 1-1, Tsukaguchi-honmachi 8-chome,Amagasaki-shi, Hyogo 661	JP		9	0		1	0
+48266	Miyazaki, Isao	37-1-706, Imaikami-cho, Nakahara-ku,Kawasaki-shi	JP		9	0		1	0
+48536	SIMONEN, Ari-Pekka	Letkutie 2 B 55,FIN-40700 Jyväskylä	FI	FI193	3	0		1	0
+48673	Woo, Eung Je	Samick Villa 106-104, Gumi-dong 121, Bundang-gu, Seongnam-si,463-743 Gyeonggi-do	KR		9	1	INDIVIDUAL	0	1
+48709	Nguyen, Lap P.	1167 Trout Creek Circle,Longmont CO 80501	US		9	0		1	0
+48746	Murase, Yasuyuki	Kao Corporation Reserch Laboratories 1-3, Bunka 2-chome Sumida-ku,Tokyo 131-8501	JP		9	0		1	0
+48751	WDS Company	1-ya Bukhvostova Street, 12/11-17/18-215,Moscow, 107258	RU		9	1	COMPANY	0	0
+48852	Magrini, Giancarlo	Loc. Borgo a Giovi n. 100,52100, Arezzo	IT	ITI18	3	0		1	0
+48859	Moltz, Fred J. IV	5612 Afton Drive,Birmingham, AL 35242	US		9	0		1	0
+48894	Chuang, Jin Chen	No. 17, Lane 301, Nanyang Road 42083 Fong Yuan,Taichung Hsien	TW		9	1	INDIVIDUAL	1	1
+48973	Ortho Clinical Diagnostics Inc.	100 Indigo Creek Drive,Rochester, New York 14626	US		9	2	COMPANY	0	1
+49144	Bragagnolo, Gino	Bragagnolo Argenti Snc Via don Giuseppe Lago, 40,35013 Cittadella (PD)	IT	ITH36	3	0		1	0
+49200	Lamigraf, S.A.	Ctra. C-17 Km. 25, 038 08480 L'Ametlla del Vallès,Barcelona	ES	ES511	3	1	COMPANY	0	1
+49375	Dreyer, Lino	53b, rue de Riedisheim,68170 Rixheim	FR	FR422	3	0		1	0
+49568	Nakazato, Atsuro	Taisho Pharmaceutical Co Ltd 24-1 Takada 3-chome Toshima-ku,Tokyo 170-8633	JP		9	0		1	0
+49670	HAMADA, Kenichi	c/o KURARAY CO., LTD., 36, Towada,Kamisu-shi, Ibaraki 314-0197	JP		9	0		0	0
+49748	Nakagawa, Akira, c/o NISSAN MOTOR CO., LTD.	Intellectual Property Department, 1-1, Morinosatoaoyama,Atsugi-shi, Kanagawa 243-0123	JP		9	0		1	0
+49842	Ohnishi, Yasuyuki	1430 Nogawa, Miyamae Kawasaki,Kanagawa 216-0001	JP		9	1	INDIVIDUAL	0	1
+49890	Chen, Tzung-Yan	No. 222, Hwa-Ya II Rd. Kuei-Shan Hsiang,Tao-Yuan Hsien	TW		9	0		1	0
+50071	Gamesa Innovation & Technology, S.L.	Poligono Industrial Los Agustlos Calle A, s/n,31013 Pamplona Navarra	ES	ES220	3	1	COMPANY	0	1
+50151	Noriyuki, Fujii	c/o JTEKT CORPORATION 5-8, Minamisemba 3-chome, Chuo-ku,Osaka-shi, Osaka 542-8502	JP		9	0		1	0
+50190	Gilmore, Andrew	12 Grange Close,Castlewellan BT31 9UJ	IE	IE	0	0		1	0
+50193	TANIMOTO, Koichi	C/O TAKASAGO Research & Development Center MITSUBISHI HEAVY INDUSTRIES, LTD. 1-1, Arai-cho Shinhama 2-chome,Takasago-shi Hyogo 676-8686	JP		9	0		1	0
+50214	Panov, Vili	Flat, 58 Boultham Park Road,Lincoln LN6 7BB	GB	UKF30	3	0		1	0
+50417	KOBA, Takao	c/o Tachibana Eletech Co., Ltd. 13-25, Nishihonmachi 1-chome Nishiku,Osaka-shi, Osaka 550-0005	JP		9	0		1	0
+50440	Kathman, Alan D.	4700 Lone Tree Lane,Charlotte NC 28269	US		9	0		1	0
+50539	Sato, Shougo	c/o Intellectual Property Dept. Brother Kogyo Kabushiki Kaisha 1-1-1 Kawagishi Mizuho-ku Nagoya-shi,Aichi 467-8562	JP		9	0		1	0
+50619	Kasame, Tomohide	c/o Fujitsu Ten Limited 2-28 Gosho-dori 1-chome,Hyogo-ku, Kobe-shi Hyogo 652-8510	JP		9	0		1	0
+50762	CHENG, Jianping	2nd Floor, Block A, Tongfang Building, Shuangqinglu, Haidian District,Beijing 100084	CN		9	0		0	0
+50844	Chinello, Adriano	Via Nino Bixio 2,28041 Arona (NO)	IT	ITC15	3	0		1	0
+50950	Park, Sung-Wook	4-1103 Mapo Hyundai Apt., 118-108, Gongdeok 2-dong, Mapo-gu,Seoul 121-761	KR		9	0		0	0
+50966	Bell, Joshua David	108 Hiltz Avenue,Toronto, Ontario M4L 2N5	CA		9	0		1	0
+50973	Ashida, Shigeru	Fujikura Ltd. Sakura Works 1440 Mutsuzaki,Sakura-shi, Chiba-ken	JP		9	0		1	0
+51132	YANASE, Naoya	7-13-4-207, Uenoshiba-Cho Nishi-Ku,Sakai-Shi Osaka 593-8301	JP		9	0		1	0
+51234	Fedorov, Mikhail Anatolievich	pr. Lunacharskogo, 110-292,St. Petersubrg 195265	RU		9	1	INDIVIDUAL	1	1
+51374	MIYANO, Takeshi	c/o FUJITSU TEN LIMITED 2-28, Gosho-dori 1-chome, Hyogo-ku,Kobe-shi, Hyogo, 652-8510	JP		9	0		1	0
+51423	OMOTO, Yukihiro c/o Matsushita Electric Industrial Co Ltd	IP Dev. Center, 7F Twin 21 OBP Panasonic Tower,2-1-61 Shiromi, Chuo-ku, Osaka 540-6207	JP		9	0		0	0
+51516	Kwak, Jin Sam	c/o LG Institute, Hogye 1(il)-dong, Dongan-gu, Anyang-si,Gyeonggi-do	KR		9	0		0	0
+51690	NAKAMAE, Nobutaka c/o Matsushita Electr.Industr.Co.Ltd	7F Twin 21 OBP Panasonic Tower, 2-1-61 Shiromi,Chuo-ku, Osaka 540-6207	JP		9	0		0	0
+51808	INOUE, Kazumi	c/o MITSUBISHI DENKI KABUSHIKI KAISHA, 7-3, Maruno,uchi 2-chome, Chiyoda-ku, Tokyo 1008310;	JP		9	0		1	0
+51839	Wickett, Paul	20387 Woodbend Drive,MI 48167 Northville	US		9	0		1	0
+52059	Charpenel, Sabine	8, avenue du Maréchal Ney,91800 Brunoy	FR	FR104	3	0		1	0
+52095	NOE, Pierre	22, rue des Champs Elysées,38100 Grenoble	FR	FR714	3	0		1	0
+52198	Courmontagne, Philippe	Chemin de Pétégoux,83210, BELGENTIER	FR	FR825	3	0		1	0
+52266	Dumur, Philippe	Banderelle-Les Gentianes,74230 Le Bouchet Montcharvin	FR	FR718	3	0		1	0
+52435	TANIGUCHI, Shoji, c/o PIONEER CORPORATION	Tokorozawa Works., 2610, Hanazono 4-chome,Tokorozawa-shi, Saitama 359-8522	JP		9	0		1	0
+52463	DEN HARTOG, Jos	Marienwaard 27,NL-2904 SE Capelle a/d IJssel	NL	NL339	3	0		1	0
+52638	Lebas, Jean	1 rue des Fours Romains,62170, LA CALOTERIE	FR	FR302	3	0		1	0
+52724	BODET AERO, société par actions simplifiée	Rue du Chalet,49120 Chemille	FR	FR512	3	1	COMPANY	0	1
+52812	WHITTLE, Nigel, Richard	Nettley Dell-26 Back Road-Linton,Cambridge CB1 6JF	GB	UKH12	3	0		1	0
+52832	KIM, Jung-Seob	Jinro Apt. 522-1504, Baekseol-maeul, Jungja 1-dong,Jangan-ku, Suwon-shi, Kyungki-do 440-301	KR		9	0		1	0
+52905	Hollister Incorporated	2000 Hollister Drive,Libertyville, Illinios 60048	US		9	1	COMPANY	0	1
+52938	ADORAM, Avner	18B Weizman Avenue,47211 Ramat Hasharon	IL		9	0		1	0
+53270	SKF Aerospace France	1, avenue Marc Seguin, Parc Industriel de la Brassière,26240 Saint-Vallier-sur-Rhône	FR	FR	0	1	COMPANY	0	0
+53521	Glas, Achim	Bergstrasse 39,85080 Gaimersheim	DE	DE219	3	0		1	0
+53611	Deffieux, Alain, Dr. Prof.	70, rue Georges Mandel,33000 Bordeaux	FR	FR612	3	0		1	0
+53659	Klotz, Oliver	Weisbrunnerweg 2,97483 Eltmann	DE	DE267	3	0		1	0
+53692	Gaubatz, Martin	Kronenbergstrasse 13,35686 Dillenburg	DE	DE722	3	0		1	0
+53856	Günther, Norbert	Moskauer Strasse 15,18311 Ribnitz-Damgarten	DE	DE80L	3	0		1	0
+53915	STEAG encotec GmbH	Rüttenscheider Strasse 1-3,45128 Essen	DE	DEA13	3	1	COMPANY	0	1
+53958	National Aerospace Laboratory of Japan	44-1, Jindaiji-Higashimachi 7-chome,Chofu-shi, Tokyo	JP		9	1	GOV NON-PROFIT	0	1
+54060	Engels, Wouter Peter	Marsburg 9,3437 GN Nieuwegein	NL	NL310	3	0		1	0
+54125	FORNOFF, Dieter	Soderstr. 114,64287 Darmstadt	DE	DE711	3	0		1	0
+54182	Fonfara, Harald	Jägerhölzstr. 29,94551 Lalling	DE	DE224	3	0		1	0
+54251	HERMANN, MARKO	Am Sommerberg 14,37269 Eschwege	DE	DE737	3	0		1	0
+54346	Willmann, Norbert	Wiesbachweg 15,79871 Eisenbach	DE	DE132	3	0		1	0
+54378	Hudler, Roland	Niederfelder Strasse 6,85077 Manching	DE	DE21J	3	0		1	0
+54379	progression licensing ag	Blumenaustrasse 36,9000 St. Gallen	CH	CH055	3	1	COMPANY	0	1
+54427	Herchenbach, Paul	Rathausstrasse 14,53809 Ruppichteroth	DE	DEA2C	3	0		1	0
+54801	Reddig, Wolfram, Dr.	Im Alten Feld 2,W-5060 Bergisch Gladbach	DE	DEA2B	3	0		1	0
+55124	KISO, Tetsuo	c/o Astellas Pharma Inc., 3-11, Nihonbashi-Honcho, 2-chome,Chuo-ku Tokyo 103-8411	JP		9	0		0	0
+55429	Moriyama, Satoru	c/o Intellectual Property Dept., Brother Kogyo K.K., 1-1-1 Kawagishi, Mizuho-ku,Nagoya-shi, Aichi-ken 467-8562	JP		9	0		0	0
+55519	KAWABATA, Yukiko	c/o TOYOTA JIDOSHA KABUSHIKI KAISHA 1, Toyota-cho,Toyota-shi Aichi 471-8571	JP		9	0		1	0
+55528	Sells Hidalgo, Lluis	7, Avenida de la Riera (Tubsa),08960 Sant Just Desvern	ES	ES511	3	0		1	0
+55783	Witty, David	GlaxoSmithKline, New Frontiers Science Park South, Third Avenue,Harlow, Essex CM19 5AW	GB	UK	0	0		0	0
+55841	Schrey, Anna	Rungestr. 12,10179 Berlin	DE	DE300	3	0		1	0
+55966	SUGO, Kenji	c/o Dainippon Ink and Chemicals, Inc. Saitama Plant, 4472-1, Oaza Komuro Ina-machi, Kitaadachi-gun,Saitama 362-8577	JP		9	0		1	0
+56149	Beck, Thomas	Stephanstrasse 60,10559 Berlin	DE	DE300	3	0		1	0
+56317	Attridge, Paul	100 Kennedy Drive,Colchester Connecticut 06415	US		9	0		1	0
+56318	Allore, James P.	76 Chatham Drive,Manchester Connecticut 06040	US		9	0		1	0
+56363	Aanderson, David Deloyd	34 Valleywood Drive,Glenville, NY 12302	US		9	0		1	0
+56457	SATO, Makoto	c/o Fuji Oyama Factory Tokai Corporation 3-4, Shimohara, Subashiri Oyama-cho,Sunto-Gun, Shizuoka 410-1431	JP		9	0		1	0
+56528	Tian, Zhiheng	No. 21 Furong Road, Zhengxiang Dist., Hengyang,Hunan 421001	CN		9	1	INDIVIDUAL	0	1
+56934	Jung, Baeeun, No. 1003-903, Imaechon Samsung Apt.	Imae-dong, Bundang-gu, Seongnam-si,463-901, Gyeonggi-do	KR		9	0		1	0
+57094	UEDA, Mitsuo	c/o Matsushita Electric Industrial Co.Ltd. IPROC 7F Twin 21 OBP Panasonic Tower 2-1-61, Shiromi Chuo-ku Osaka-shi,Osaka 540-6207	JP		9	0		0	0
+57154	Lim, Dok Shin	Samsung Electronics Co., Ltd. 416, Maetan-dong Yeongtong-gu,Suwon-si Gyeonggi-do	KR		9	0		1	0
+57166	Tsuyuki, Seiji	c/o FujiFilm Corporation 26-30 Nishiazabu 2-chome Minato-ku,Tokyo 106-8620	JP		9	0		1	0
+57190	Bernt-Äke, Sultan	Söbackevägen 16,SE-444 42 Stenungsund	SE	SE232	3	0		1	0
+57233	Foo, Onn Fah, c/o Room 2902, Tower 6	The Gateway, 9 Canton Road, Tsimshatsui,Kowloon, Hong Kong	HK		9	0		1	0
+57280	Sinha, Ashok	14317 Miranda Way,Los Altos Hill, CA 94022	US		9	0		1	0
+57324	NAGATO, Masaru	Yodogawa-seisakusho, DAIKIN INDUSTRIES, LTD., 1-1, Nishihitotsuya,Settsu-shi, Osaka 5668585	JP		9	0		1	0
+57461	Brubaker, James Lee	45413 Rutherford Terrace,Fremont, CA 94539	US		9	0		1	0
+57643	Lee, Seo-young	201, 2626-1 Sinheung 3-dong, Sujeong-gu,Seongnam-si, Gyeonggi-do	KR		9	0		1	0
+57731	HOU, Xiaoxia	ZTE Plaza, Keji Road South Hi-Tech Industrial Park Nanshan District Shenzhen,Guangdong 518057	CN		9	0		1	0
+57785	SUUMÄKI, Jan	Teekkarinkatu 5 A 23,FIN-33720 Tampere	FI	FI197	3	0		1	0
+57879	KRETZSCHMAR, Rainer	Himmelohstrasse 170b,58454 Witten	DE	DEA56	3	0		1	0
+57887	Rensch, Detlef	Eschenallee 15,14974 Ludwigsfelde	DE	DE40H	3	0		1	0
+57908	DINKLOH, Ludwig	Grasweg 14 A,32051 Herford	DE	DEA43	3	0		1	0
+57909	NEITEMEIER, Dieter	Rote Erde 25,33803 Steinhagen	DE	DEA42	3	0		1	0
+58255	Radtke, David	Gösstrasse 92,72070 Tübingen	DE	DE142	3	0		1	0
+58256	Wurster, Jürgen	In der Reute 31/1,72135 Dettenhausen	DE	DE142	3	0		1	0
+58330	MAN Nutzfahrzeuge Aktiengesellschaft	Dachauer Strasse 667,80995 München	DE	DE212	3	1	COMPANY	0	1
+58415	Klauck, Wolfgang	Dresdner Strasse 12,40670 Meerbusch	DE	DEA1D	3	0		1	0
+58423	MAN Truck & Bus AG	Dachauer Strasse 667,80995 München	DE	DE212	3	1	COMPANY	0	1
+58557	Wilken, Martin	Poggenfehner Strasse 17,26409 Wittmund	DE	DE94H	3	0		1	0
+58561	Blumenstein, Felix	Im Roten Land 6,37235 Hessisch Lichtenau	DE	DE737	3	0		1	0
+58581	Baumann, Michael	Hartenricht 8,92546 Schmidgaden	DE	DE239	3	0		1	0
+58596	VEMAG Maschinenbau GmbH	Weserstrasse 32,27283 Verden/Aller	DE	DE93B	3	1	COMPANY	0	1
+58603	MAGE AG	Industriestrasse,1791 Courtaman	CH	CH022	3	1	COMPANY	0	1
+58663	WestfaliaSurge GmbH	Siemensstrasse 25-27,59199 Bönen	DE	DEA5C	3	1	COMPANY	0	1
+58712	Hansen, Thomas	Sohldfeld 156,31139, Hildesheim	DE	DE925	3	0		1	0
+58757	J. Eberspächer GmbH & Co. KG	Eberspächstrasse 24,73730 Esslingen	DE	DE113	3	2	COMPANY	0	1
+58888	Biehler, Wolfgang	Eisenschmiede 2,D-7080 Aalen-Unterkochen	DE	DE11D	3	0		1	0
+58923	Glyco-Metall-Werke Daelen & Loos GmbH	Stielstrasse 11,D-6200 Wiesbaden	DE	DE714	3	1	COMPANY	0	1
+58927	Pietzsch, Joachim, Dipl.-Ing.	Kleebreite 3,D-3300 Braunschweig	DE	DE911	3	0		1	0
+58999	Cocheo, Vincenzo Dr.,	via Tassoni 6,I-35125 Padova	IT	IT	0	0		0	0
+59048	KUISMA, Sirpa	Korpisola 10 J,FIN-02300 Espoo	FI	FI1B1	3	0		1	0
+59146	Marlin, François	21 rue Creuse,77760, Villiers sous Grez	FR	FR102	3	0		1	0
+59315	Davidsson, Marcus	St. Larsgatan 17,58224 Linköping	SE	SE123	3	0		1	0
+59326	IBM United Kingdom Limited	P.O. Box 41 North Harbour Portsmouth,Hampshire PO6 3AU	GB	UKJ31	3	1	COMPANY	0	1
+59348	SHIMADA, Keiji	104, Minamikamiai-cho, Nishinokyo, Nakagyo-ku,Kyoto-shi, Kyoto 604-8483	JP		9	0		1	0
+59362	Global Thermoelectric Inc.	4908 - 52 Street S.E.,Calgary, Alberta T2B 3R2	CA		9	1	COMPANY	0	1
+59480	HAYES, Patrick, H.	22981 Arija,Mission Viejo, CA 92691	US		9	0		1	0
+59568	Say, Samuel L.	1210 El Vago Street,La Canada, California 91011	US		9	0		1	0
+59648	Sugahara, Nobuyoshi	Canon Kabushiki Kaisha 30-2, Shimomaruko 3-chome, Ohta-ku,Tokyo	JP		9	0		1	0
+59852	LIU, Jian	126 East Lincoln Avenue,Rahway, NJ 07065-0907	US		9	0		1	0
+59874	BAKER, Brenda F.	2927 Rancho Cortes,Carlsbad CA 92009	US		9	0		1	0
+59956	BRUNELLE, Daniel, Joseph	4 Woods Edge,Burnt Hills, NY 12027	US		9	0		1	0
+59987	Kizaki, Noriyuki	12-11-403, Dainichigashimachi,Moriguchi-shi Osaka 570-0016	JP		9	0		1	0
+60010	Kim, Seon-Hee	c/o Samsung SDI Co., Ltd., 575 Shin-dong, Yeongto,Gyeonggi-do	KR		9	0		1	0
+60040	Zajackowski, Michael John	57 N. Whisper Lane,New Holland Pennsylvania 17557-1433	US		9	0		1	0
+60159	KOHCHI, Masami	C/O CHUGAI SEIYAKU KABUSHIKI KAISHA, 200 Kajiwara,,Kamakura-shi, Kanagawa 247-8530	JP		9	0		0	0
+60278	HIGUCHI, Kaoru	762-7 Isonokami-cho Tenri-shi,Nara 632-0011	JP		9	0		1	0
+60285	SALAMONE, Katherine	67 Yard Road,Stockton, NJ 08559	US		9	0		1	0
+60334	GHOSH, Pushpito Kumar	CENTRAL SALT & MARINE CHEMICALS RESEARCH INSTITUTE Gijubhai Badheka Marg,Bhavnagar (gujarat) 364 002	IN		9	0		1	0
+60447	Zimmer Orthobiologics, Inc.	12024 Vista Parke Drive Austin,Texas 78726-4050	US		9	1	COMPANY	0	1
+60502	Raksha, Vladimir P.	1692 Hopper Avenue, Santa Rosa,California 95403	US		9	0		1	0
+60586	ANDERSON, Alma	1109 McKay Drive, M/S-41SJ,San Jose, CA 95131-1706	US		9	0		1	0
+60681	CLEMENTS, Wesley	3 Worcester Gardens Cottam Preston,Lancashire PR4 4NQ	GB	UKD43	4	0		1	0
+60688	REUMERMAN, Hans-Jürgen	Groenewoudseweg 1,NL-5621 BA Eindhoven	NL	NL414	3	0		1	0
+60853	SHENTON, Andrew	Jemella Limited, Unit 12, Ryefield Way, Belton Road,Silsden BD20 0EF	GB	UK	0	0		0	0
+60929	SOUKKA, Tero	Savikatu 3 E 121,FI-20540 Turku	FI	FI1C1	3	0		1	0
+60935	DE WILDT, Rudolf M.T.	315 Cambridge Science Park,Cambridge CB4 0WG	GB	UKH12	3	0		1	0
+61005	LIOTTA, Lance, A. Center applied Proteonics	10900 Univ. Blvd., MS 4E3, Room 181 A Disc. Hall,Manassas, VA 20110	US		9	0		1	0
+61145	Messalem, Eran	28 Beer Tuvia Street,Tel Aviv 64583	IL		9	0		1	0
+61193	Kabushiki Kaisha F.C.C.	7000-36, Nakagawa, Hosoe-cho Hamamatsu-shi,Shizuoka 431-1394	JP		9	1	COMPANY	0	1
+61326	GUO, Wei	7900 Cambridge, Apt. 26-2G,Houston, TX 77054	US		9	0		1	0
+61558	ZERAFATI, Saeid	795 Panorama Road,Villanova, PA 19085	US		9	0		1	0
+61566	HAVEN, Richard	P. O. Box 1395,Capitola, California 95010	US		9	0		1	0
+61623	PETERSSON, Per	Bardisangränd 28,22648 Lund	SE	SE224	3	0		1	0
+61698	Jang, Myung-ryun	522-503, Jinro Samhwan Apt. Baekseolmaul Jeongja-dong,Jangan-gu Suwon-si Gyeonggi-do, 440-330	KR		9	0		1	0
+61708	Wei, Jianping	212 Dandelion Lane,San Ramon California 94582	US		9	0		1	0
+61941	Levine, Marc-Alan	1294 St. Peters Road,Pottstown, PA 19465	US		9	0		1	0
+61952	Stephenne, Jean	SmithKline Bio. s.a. Rue I'linstitut 89,B-1330, Rixensart	BE	BE310	3	0		1	0
+62202	KUWABATA, Susumu	c/o OSAKA UNIVERSITY 1-1, Yamadaoka,Suita-shi Osaka 565-0871	JP		9	0		1	0
+62243	YOSHIDA, Mamoru c/o Matsushita Electric In. Co., Ltd.	7F Twin 21, OBP Panasonic Tower, 2-1-61, Shiromi,Chuo-ku, Osaka 540-6207	JP		9	0		1	0
+62416	DIBIASIO, Christopher	24 Hardwick Street,Cambridge, MA 02141	US		9	0		1	0
+62562	LAU, David	1122 East 4th Street,Royal Oak, MI 48067	US		9	0		1	0
+62577	PAYYAPPILLY, Ajith T.	Qualcomm Incorporated 5775 Morehouse Drive,San Diego, California 92121-1714	US		9	0		1	0
+62690	Kawahira, Tetsuya	Fujikura Ltd. Sakura Works 1440, Mutsuzaki,Sakura-shi Chiba 285-8550	JP		9	0		1	0
+62850	Phillips, Heidi	1511 Walnut Drive,Palo Alto California 94303	US		9	0		1	0
+63009	Koyama, Yutaka	8-12, Hinominami 7-chome, Konan-ku, Yokohama-shi,Kanagawa-ken, 234-0055	JP		9	0		1	0
+63041	Enomoto, Kiminori	c/o Koito Manufacturing Co., Ltd. Shizuoka Plant, 500 Kitawaki Shimizu-ku,Shizuoka-shi Shizuoka	JP		9	0		1	0
+63249	Kelley, Robert F.	1029 San Felipe Avenue,San Bruno, CA 94066	US		9	0		1	0
+63365	Ramaty, Revital	69 Sokolov Street,47236 Ramat-hasharon	IL		9	0		1	0
+63546	Shitara, Kenya	Tokyo Research Laboratories Kyowa Hakko Kogyo Co. Ltd. 6-6, Asahimachi 3-chome,Machida-shi Tokyo 194-0023	JP		9	0		1	0
+63654	Becker, Uwe Jürgen	Kirchheimer Strasse 78,53881 Euskirchen	DE	DEA28	3	0		1	0
+63667	Elmedyb, Thomas Bo	Oticon A/S, c/o Kongebakken 9,2765 Smo̸rum	DK	DK	0	0		0	0
+63731	Abe, Koichi	c/o Nikon Corporation Intellectual Property Headquarter,2-3 Marunouchi 3-chome Chiyoda-ku Tokyo 100-8331	JP		9	0		1	0
+63821	Helmholt, Kristian Alexander	Rosemarijnstraat 13,9731 HJ Groningen	NL	NL113	3	0		1	0
+63880	Ye, Yuanzhang c/o Guangdong Vanward Group Co., Ltd.	No. 13, Jianye Mid-road, Shunde High-tech Industry, Dev. Zone, Ronggui, Shunde,Foshan City Guangdong 529305	CN		9	0		0	0
+63885	Ranelli, David J.	250 Chelsea Meadows Drive,West Henrietta, NY 14586	US		9	0		1	0
+63899	Enraf Nonius B.V.	Vareseweg 127,3047 AT Rotterdam	NL	NL339	3	1	COMPANY	0	1
+64193	Au, Jean Put Ling	QUALCOMM Incorporated 6540 Costa Verde Boulevard,San Diego, CA 92122	US		9	0		1	0
+64211	Sugama, Sadayuki	c/o CANON KABUSHIKI KAISHA 30-2, Shimomaruko 3-cho,Tokyo Tokyo 146-8501	JP		9	0		1	0
+64274	Nedachi, Yoshiaki c/o Honda R&D Co., Ltd.	4-1, Chuo 1-chome, Wako-shi,Saitama 351-0193	JP		9	0		1	0
+64322	Eylenbosch, Kris	Stoppelstraat 42,9000 Gent	BE	BE234	3	0		1	0
+64382	Kawahara, Minoru	C/O Sony Corporation 1-7-1 Konan Minato-ku,Tokyo 108-0075	JP		9	0		1	0
+64383	Yamasaki, Kenji	C/O Sony Corporation 1-7-1 Konan Minato-ku,Tokyo 108-0075	JP		9	0		1	0
+64427	Naka, Kenji, c/o Hitachi, Ltd.	6-1, Marunouchi 1-chome, Chiyoda-ku,Tokyo 100-8220	JP		9	0		1	0
+64528	Beeckler, Christopher	1312 Oakcrest Avenue,Brea, CA 92821	US		9	0		1	0
+64614	Marchesi Antinori S.r.l.	Piazza degli Antinori, 3,50123 Firenze	IT	ITI14	3	1	COMPANY	0	1
+64932	NIKKEN CORPORATION	14-2, Nagatacho 2-chome, Chuiyoda-ku,Tokyo 100	JP		9	1	COMPANY	0	1
+65068	Ishiura, Kazushige	16-1, Umezono 2-chome,Tsukuba-shi, Ibaraki-ken	JP		9	0		1	0
+65141	VAN PEL, Aline	Avenue Hippocrate 74, UCL 7459,1200 Brussels	BE	BE100	3	0		1	0
+65222	Avaya Technology Corp.	211 Mt Airy Road,Basking Ridge, NJ 07920	US		9	1	COMPANY	0	1
+65279	ROSENBERG, Steve	34843 NE Rocky Hill Road,Newberg, OR 97132	US		9	0		1	0
+65383	DENTSU TEC INC.	8-9, Tsukiji 1-chome, Chuo-ku,Tokyo 104-8411	JP		9	1	COMPANY	0	1
+65422	YAMAMOTO, K.	341-11-1109, Shimizu-cho, Kawaramachi-dori Nijo,Nakagyo-ku, Kyoto-shi, Kyoto 604-0911	JP		9	0		1	0
+65450	DONA', Giancarlo	Via dei Lavoratori, 54,I-20092 Cinisello Balsamo	IT	ITC4C	3	0		1	0
+65466	LE, Khiem	935 Village Parkway,Coppell, TX 75019	US		9	0		1	0
+65706	JOHANSSON, Jan	Bigarråvägen 11,114 21 Stockholm	SE	SE110	3	0		1	0
+65745	ENZON, INC.	685 Route 202/206,Bridgewater, NJ 08807	US		9	1	COMPANY	0	1
+65753	BUBB, Stephen, K.	1257 Huntington Road,Kansas City, MO 64113	US		9	0		1	0
+65882	Melco Holdings Inc.	11-50, osu 4-chome, Naka-ku Nagoya-shi,,Aichi 460-0011	JP		9	1	COMPANY	0	0
+65923	ENAMI, Hiroji, c/o Dow Corning Toray Sil. Co. Ltd.	2-2, Chigusakaigan,Ichihara-shi, Chiba 299-0108	JP		9	0		1	0
+65968	GARG, Parag	Groenewoudseweg 1,NL-5621 BA Eindhoven	NL	NL414	3	0		1	0
+66189	Yamamoto, Hajime	c/o Canon K.K. 30-2, Shimomaruko 3-chome Ohta-ku,Tokyo	JP		9	0		1	0
+66539	AOYAGI, Hidenori Mitsubishi Denki K.K.	7-3, Marunouchi 2-chome,Chiyoda-ku, Tokyo 100-8310	JP		9	0		1	0
+66645	Stefanini, Daniel	22 Beeston Fields Drive,Beeston, Nottingham NG8 1FW	GB	UKF14	3	0		1	0
+66703	REIJERS, Adrianus, Johannes, Maria	Wijkerstein 22,NL-5346 TS Oss	NL	NL413	3	0		1	0
+66726	PRENCIPE, Michael	39 Spruce Street,West Windsor, NJ 08550	US		9	0		1	0
+66786	Burger, Stefan	Im Dorfe 3,21400 Reinstorf	DE	DE935	3	0		1	0
+66792	Beretta, Roberto	Via Rho, 8,20125 Milano	IT	ITC4C	3	1	INDIVIDUAL	1	1
+66793	Grippi, Nicholas A.	20 Greenup Court,Wayne, NJ 07470	US		9	1	INDIVIDUAL	1	1
+66888	Lee, Sang-rae 248-806 Hwanggol Maeul 2-danji	Ssangyong Apt. Yeongtong-dong Yeongtong-gu,Suwon-si Gyeonggi-do	KR		9	0		1	0
+66942	Nakashima, Katsumi Denso Corporation	Intellectual Property Dept. 1-1 Showa-cho,Kariya-city Aichi 448-8661	JP		9	0		1	0
+67043	SCHWARZ, Uwe	Lehtikuusentie 16,FIN-02880 Veikkola	FI	FI1B1	3	0		1	0
+67053	NOSE, Masakic/o Fujitsu Limited	1-1, Kamikodanaka 4-chome, Nakahara-ku,Kawasaki-shi, Kanagawa2118588	JP		9	0		1	0
+67063	YUUKI, Kazuhiro	FUJITSU LIMITED 1-1, Kamikodanaka 4-chome, Nakahara-ku,Kawasaki-shi, Kanagawa 2118588	JP		9	0		1	0
+67203	Trade World One GmbH	Waagenstr. 32,40229 Düsseldorf	DE	DEA11	3	1	COMPANY	0	1
+67419	MARIC, Radenka	8471 Garden City Road,Richmond, British Columbia V6Y 2P1	CA		9	0		1	0
+67457	PLANTENGA, Frans	Reeenspoor 20,3871 JP Hoevelaken	NL	NL221	3	0		1	0
+67532	KIM, Chul-Hee	102-707, Hyundai Apt. Yongheung-dong, Buk-gu,Pohang, Kyungsangbukdo 791-170	KR		9	0		1	0
+67878	ABE, Kazuo	c/o Mitsui Engineering & Shipbuilding Co., Ltd. 6-, 4, Tsukiji 5-chome, Chuo-ku,Tokyo 104-8439	JP		9	0		0	0
+68060	RUSSELL, John	8011 60th Avenue,Kenosha, WI 53142	US		9	0		1	0
+68287	STOJANOVIC-SUSULIC, Vedrana	26 Norchester Drive,Princeton Junction, New Jersey 08550	US		9	0		1	0
+68370	ZHANG, Rong	1223 Calyle Drive,Niskayuna, New York 12309	US		9	0		1	0
+68446	Hach Company	5600 Lindbergh Drive,Loveland, CO 80539	US		9	1	COMPANY	0	1
+68456	The University of Central Florida Research Foundation	12443 Research Parkway, Suite 302,Orlando, FL 32826	US		9	2	UNIVERSITY	0	1
+68567	Sakata, Junichiro	Seiko Epson Corporation 3-5, Owa 3-chome,Suwa-shi Nagano-ken 392-8502	JP		9	0		1	0
+68570	Ebihara, Kenzo FANUC	Dai3virakaramatsu 3515-1, Shibokusa Oshino-mura,Minamitsuru-gun Yamanashi 401-0511	JP		9	0		1	0
+68592	Katsutoshi, Mishima	2-To-102, 28-Ban Akashia-Dai 3-chome,Sanda-shi Hyogo 669-1323	JP		9	0		1	0
+68609	TRIMBLE NAVIGATION, LTD	645 North Mary Avenue,Sunnyvale, CA 94086	US		9	1	COMPANY	0	1
+68690	Andreasson Urban	PI A 11602,44496 Ödsmal	SE	SE232	3	0		1	0
+68755	Ishizuka, Takaharu c/o FUJITSU LIMITED	1-1, Kamikodanaka 4-chome, Nakahara-ku,Kawasaki-shi Kanagawa 211-8588	JP		9	0		1	0
+68756	Hataida, Makoto c/o FUJITSU LIMITED	1-1 Kamikodanaka 4-chome, Nakahara-ku,Kawasaki-shi Kanagawa 211-8588	JP		9	0		1	0
+68911	LEVKOVITZ, Zohar	9 Koresh St.,65229 Tel-aviv	IL		9	0		1	0
+68917	Schena, Blaine M.	1717 Camelia Lane,Naples FL 34105	US		9	1	INDIVIDUAL	1	1
+69106	COOLBAUGH, Douglas D. c/o IBM United Kingdom Limited	Intellectual Property Law, Hursley Park,Winchester, Hampshire SO21 2JN	GB	UKJ36	3	0		1	0
+69273	WU, Zhaojun	Huawei Administration Building, Bantian, Longgang District, Shenzhen,Guangdong 518129	CN		9	0		0	0
+69310	KATO, Noboru	c/o MURATA MANUFACTURING CO., LTD. 10-1, Higashikotari 1-chome,Nagaokakyo-shi, Kyoto 617-8555	JP		9	0		1	0
+69505	Takagi, Kazutoshi	c/o Kabushiki Kaisha TOPCON, 75-1, Hasunuma-cho,Itabashi-ku Tokyo 174-8580	JP		9	0		0	0
+69652	Kai, Seiichi	Kawasaki Jukogyo Kabushiki Kaisha 1-1, Kawasaki-cho,Akashi-shi Hyogo 673-8666	JP		9	0		1	0
+69769	Sabe, Kohtaro	c/o Sony Corporation, 1-7-1 Konan, Minato-ku,Tokyo	JP		9	0		0	0
+69786	Matsumori, Hiroyuki	7-10-29, Sakata,Oizumi-machi Ora-gun Gunma-ken	JP		9	0		1	0
+69804	Matsubara, Hideo c/o JTEKT Corporation	5-8, Minamisemba 3-chome Chuo-ku,Osaka-shi, Osaka 542-8502	JP		9	0		1	0
+69811	Sakai, Kohji	c/o Ricoh Company, Limited 3-6 Nakamagome 1-chome Ohta-ku,Tokyo 143-8555	JP		9	0		1	0
+69853	Behzad, Arya	13708 Paseo de las Cumbres,Poway CA 92064	US		9	0		1	0
+69944	Nilsson, Ulf	Keplers gård 8,444 41 Stenungsund	SE	SE232	3	0		1	0
+69983	Baggot, James Leo	848 Nicolet Boulevard,Menasha, WI 54952	US		9	0		1	0
+70018	Shindo, Toyohiko	c/o K.K. Honda Gijutsu Kenkyusho 4-1 Chuo 1-chome,Wako.shi Saitama 351-0193	JP		9	0		1	0
+70070	Chun, Kang-wook	106-502 Shinyoungtong Hyundai Apt. 865-1 Banwol-ri Taeam-eup Hwaseong-gun,Gyeonggi-do	KR		9	0		1	0
+70150	Biomérieux S.A.	Chemin de l'Orme,69280 Marcy L'Etoile	FR	FR716	3	2	COMPANY	0	1
+70248	Van den Heuvel, Koen	c/o Cochlear Limited IP Department 14-16 Mars Road,Lane Cove, NSW 2066	AU		9	0		1	0
+70289	Reemtsma Cigarettenfabriken GmbH	Max-Born-Strasse 4,22761 Hamburg	DE	DE600	3	1	COMPANY	0	1
+70439	Matsushima, Toshiharu	c/o Epson Imaging Devices Corporation 6925 Toyoshina Tazawa Azumino-shi,Nagano 399-8285	JP		9	0		1	0
+70476	Lin, Hong-Chin	9F.-1, No.135, Huamei St., West District,403, Taichung City	TW		9	0		1	0
+70508	Hasler, Ivo	Phonak AG Gebhartstrasse 18c,8404 Winterthur	CH	CH040	3	0		1	0
+70630	Wei, Lixiang	4870 N Idlewild Ave,Whitefish Bay, WI 53217	US		9	0		1	0
+70658	Oliva, Stefano	Via Villagrande 151,61024 Mombaroccio (PU)	IT	ITI31	3	0		1	0
+70707	Hayashi, Hirotaka	Ricoh Elemex Corporation, 2-14-29, Uchiyama, Chiku,Nagoya 464-0075	JP		9	0		0	0
+70751	Cauteruccio, Silvia	Via Galilei 39,57019 Vicarello (Livorno)	IT	ITI16	4	0		1	0
+71082	Studio Moderna SA	Viale S. Franscini 40,6900 Lugano	CH	CH070	3	1	COMPANY	0	1
+71087	Yanagi, Shinsuke c/o Matsushita Electric Industrial Co., Ltd. Intellectual Property Rights Operations Co. IP Development Cente	7F Twin 21 OBP Panasonic Tower 2-1-61, Shiromi, Chuo-ku,Osaka Osaka 540-6207	JP		9	0		1	0
+71256	Steinbock, Robert C.	714 Augusta Drive,Bridgeville, PA 15017	US		9	0		1	0
+71363	Slabaugh, Gregory	13 Angelica Court,Princeton, NJ 08540	US		9	0		1	0
+71381	Shimada, Shuji	c/o Hitachi, Ltd. Intellectual Property Group 12th Floor, Marunouchi Center Building 6-1, Marunouchi 1-chome Chiyoda-ku,Tokyo 100-8220	JP		9	0		1	0
+71485	Quadir, Murat	113 Spruce Mill Lane,Scotch Plains, 07076 New Jersey	US		9	0		1	0
+71542	Grand, Benoit	30 Promenade Monalisa,78000, Versailles	FR	FR103	3	0		1	0
+71558	Pradas González, Angel c/o Seat S.A.	Autovia A-2, Km. 585,08760 Martorell Barcelona	ES	ES511	3	0		1	0
+71608	Wieczorek, Maciej	ul. Tkacka 10/1,63-800 Gostyn	PL	PL417	3	0		1	0
+71682	Wotte, Johan	Vincent van Goghsingel 8,NL-2182 LN Hillegom	NL	NL337	3	0		1	0
+71888	PLANNJA AB	S-951 88 Lulea	SE	SE332	3	1	COMPANY	0	1
+72054	Eisai Co., Ltd.	6-10, Koishikawa 4-chome Bunkyo-ku,Tokyo 112-88	JP		9	2	COMPANY	0	1
+72284	A.V. FLEXOLOGIC B.V.	H. Kamerlingh Onnesweg 2,NL-2408 AW Alphen A/D Rijn	NL	NL338	3	1	COMPANY	0	1
+72552	Probst, Dietmar	Zeughausstrasse 120,78532 Tuttlingen/Donau	DE	DE137	3	0		1	0
+72561	Clausen, Andreas	Papendamm 28,20146, Hamburg	DE	DE600	3	0		1	0
+72584	Timmann, Lutz	Eckkoppel 1,24649 Fuhlendorf	DE	DEF0D	3	0		1	0
+72744	Blum, Harald, Dr.	Paul-Klee-Strasse 42,51375 Leverkusen	DE	DEA24	3	0		1	0
+72747	Irle, Christoph, Dr.	In der Au 20,41539 Dormagen	DE	DEA1D	3	0		1	0
+72870	Gransow, Anita	Flachsleite 33,97526 Sennfeld	DE	DE26B	3	0		1	0
+72882	Junig, Marcus	Obervogt-Häfelin-Strasse 50,77815 Bühl	DE	DE124	3	0		1	0
+73186	Innocenti, Gianfranco C.R.F. Soc. Consortile Azi.	Strada Torino 50,10043 Orbassano (Torino)	IT	ITC11	3	0		1	0
+73210	COLLETTE, Thierry	124 rue Marceau,F-91120 Palaiseau	FR	FR104	3	0		1	0
+73274	Navarre, Thomas	Appt.35, 27, rue de Nantes,75019 Paris	FR	FR101	3	0		1	0
+73284	Skis Rossignol	220 Rue Du Pommarin BP 33,38430 Moirans	FR	FR714	3	2	COMPANY	0	1
+73311	Klinger, Yves	20 rue Langert,67600 MUTTERSHOLTZ	FR	FR421	3	0		1	0
+73329	AREVA T&D SAS	Tour Areva 1, place Jean Millier,92084 Paris La Défense Cedex	FR	FR105	3	1	COMPANY	0	1
+73493	INOUE, Tomonori	c/o OMRON HEALTHCARE CO., LTD., 24, Yamanouchi Yamanoshita-cho, Ukyo-ku,Kyoto-shi Kyoto 615-0084	JP		9	0		1	0
+73527	Plassky, Norman	Weinbergstrasse 4,99099 Erfurt	DE	DEG01	3	0		1	0
+73696	Lees, Andrew	302 Birkwood Place,Baltimore, MD 21218	US		9	0		1	0
+73697	Westphal, Kathrin	Gliesmaroder Strasse 15,38106, Braunschweig	DE	DE911	3	0		1	0
+73746	Hamanaka, Seinoshin c/o Mitsubishi Heavy Industries, Ltd	16-5, Konan 2-chome,Minato-ku TOKYO 108-8215	JP		9	0		1	0
+73756	Mah, Robert	c/o Speedel, Gewerbestrasse 14,4123, Allschwil	CH	CH032	3	0		1	0
+73803	Hah, Jung-Hwan	Room 316, 2-1-1, Shinsenrinishimach Toyonaka City,Osaka Prefecture, 560-0083	JP		9	0		0	0
+73964	Gonzales, Curt G	1000 NE Circle Blvd,Corvallis, OR 97330-4239	US		9	0		1	0
+74003	Hunneman Import B.V.	200 Grindweg,8483 JK Scherpenzeel	NL	NL123	3	1	COMPANY	0	1
+74089	Terada, Yasuhiro c/o Honda R&D Co., Ltd.	4-1, Chuo 1-chome, Wako-shi,Saitama, 351-0193	JP		9	0		1	0
+74111	Eskild, Asbjorn	HAMAX As Kalleraveien 21,1675 Krakeroy	NO	NO031	3	0		1	0
+74320	NAKAMURA, Daisaku	c/o NIHON MEDI-PHYSICS CO., LTD. 3-4-10, Shinsuna,Koto-ku, Tokyo 136-0075	JP		9	0		1	0
+74391	Petrochina Company Limited	World Tower 16 Andre Road,Beijing 100011	CN		9	2	COMPANY	0	1
+74556	Badcock, Daniel	3 Batten House The Drive Walthamstow,London E17 3BX	GB	UKI53	3	0		1	0
+74604	Hitachi Cable, Ltd.	14-1, Sotokanda 4-chome Chiyoda-ku,Tokyo	JP		9	2	COMPANY	0	1
+74607	Reifenhäuser GmbH & Co. Maschinenfabrik	Spicher Strasse 46-48,53839 Troisdorf	DE	DEA2C	3	1	COMPANY	0	1
+74611	Orima, Hajime	Sawa-gun,Gumma 370-0124	JP		9	0		1	0
+74827	YOSHIKAWA, Masaki	c/o Hitachi Construction Machinery Co., Ltd., Tsuchiura Works, Intellectual Property Department, 650, Kandatsumachi,Tsuchiura-shi, Ibaraki 300-0013	JP		9	0		0	0
+75083	YUDA, Tokuji	c/o Harison Toshiba Lighting Corp. 5-2-1, Asahi-machi,Imabari-shi, Ehime 794-8510	JP		9	0		1	0
+75085	Kamo, Makoto	c/o Fujifilm Corporation 577 Ushijima, Kasei-Machi Ashigarakami-gun,Kanagawa	JP		9	0		1	0
+75330	Singulus Technologies AG	Hanauer Landstrasse 103,63796 Kahl/Main	DE	DE264	3	1	COMPANY	0	1
+75394	HOTTA, Shinji	c/o Shin-Etsu Polymer Co., Ltd., 300-5, Aza-Toyohara, Oaza-Motohara, Kamikawa-machi, Kodama-gun,Saitama; 3670241	JP		9	0		0	0
+75405	Subramanian, Kanakasabapthi	2 Highland Oaks,Clifton Park, NY 12065	US		9	0		1	0
+75480	TIAN, Bin	Room 308, Futian Hi-Tech Strat-up Center, No. 1 Songling Rd,Shenzhen, Guangdong 518031	CN		9	0		0	0
+75494	Kim Han-su	c/o Samsung Advanced Inst. of Technology San 14-1 Nongseo-dong,Giheung-gu, Yongin-si, Gyeonggi-do	KR		9	0		1	0
+75617	YAO, Chunbo	ZTE Plaza, Keji Road South Hi-Tech Industrial Park Nanshan District Shenzhen,Guangdong 518057	CN		9	0		1	0
+75771	Tomsu, Marco	Adalbert-Stifter-Strasse 12,71254 Ditzingen	DE	DE115	3	1	INDIVIDUAL	1	1
+75970	MAISTRE, Valérie	440, rue de la Crête,F-74300 Thyez	FR	FR718	3	0		1	0
+76297	Ferre, Eliette	42, rue Richard Lenoir,75011 Paris	FR	FR101	3	0		1	0
+76312	De Croutte, Arnaud	8 rue d'Alsace Lorraine,78530, Buc	FR	FR103	3	0		1	0
+76435	Zhang, Jie	6232 S. Lorreen Drive,Salt Lake City UT 84121	US		9	0		1	0
+76532	Pillard, Romain	76, avenue de la Forêt,77210 Avon	FR	FR102	3	0		1	0
+76957	HAASE, Andreas	Spelzenstr. 19,68167 Mannheim	DE	DE126	3	0		1	0
+77100	Velicanin, Mensur	Wordenbecker Weg 27,42549 Velbert	DE	DEA1C	3	0		1	0
+77137	Laak, Dr. Antonius ter	Hedwigstrasse 11,12159 Berlin	DE	DE300	3	0		1	0
+77230	Becker, Christian	8a, rue du général Becker,57730 Valmont	FR	FR413	3	0		1	0
+77352	ITT Automotive Europe GmbH	Guerickestrasse 7,60488 Frankfurt	DE	DE712	3	2	COMPANY	0	1
+77534	DICESARE, Paul	68 Wells Hill Road,Easton, CT 06612	US		9	0		1	0
+77685	Weadock, Kevin	105 Marten Road,Princeton NJ 08889	US		9	0		1	0
+77686	Ban, Kazunori	1772-3, Kawaguchi Kawaguchikomachi Minamitsuru-gun,Yamanashi, 401-0304	JP		9	0		1	0
+77782	NSK Ltd.,	6-1, Ohsaki 1-chome,Shinagawa-ku, Tokyo 141-8560	JP		9	2	COMPANY	0	0
+77785	HIGASHINO, Kiyoaki, c/o NSK Ltd.	8-1, Sojamachi 1-chome,Maebashi-shi, Gunma 371-0853	JP		9	0		1	0
+77875	Henricksen, Clifford A.	Bose Corporation The Mountain,01701-9168, Framingham	US		9	0		1	0
+77912	BORGO, Mauro	Via Marosticana 168,I-36031 Povolaro Di Dueville (Vicenza)	IT	ITH32	3	0		1	0
+77914	Biosilab S.r.L.	Via F. Zeni 8,38068 Rovereto	IT	ITH20	3	1	COMPANY	0	1
+78007	MOON, Seong-Jin	4-436-502 Cheongmyung Maeul, 1-1048-2 Yeongtong,Yeongt., Suwon-si, Gyeonggi-do 443-731	KR		9	0		1	0
+78033	SCHWAB, Clemens	Schwenkgasse 54,73240 Wendlingen	DE	DE113	3	0		1	0
+78237	GELLRICH, Bernhard	Hermelinstrasse 39/4,73434 Aalen	DE	DE11D	3	0		1	0
+78358	RENKEMA, Duurt	Badhuisweg 3,NL-1031 CM Amsterdam	NL	NL326	3	0		1	0
+78812	GLEICH, Bernhard, Philips I.P. & Standards GmbH	Weisshausstr. 2,52066 Aachen	DE	DEA2D	3	0		1	0
+78855	ACCOMAZZI, Vittorio	310 - 2511 Bloor St. West,Toronto, Ontario M6S 5A6	CA		9	0		1	0
+78880	Fluorotechnics Pty Limited	R257 Building E8C, Macquarie University,North Ryde, NSW 2109	AU		9	1	COMPANY	0	1
+78965	Smith & Nephew, PLC	15 Adam Street,London WC2N 6LA	GB	UKI32	3	2	COMPANY	0	1
+79132	Neoconix, Inc.	715 N. Pastoria Avenue,Sunnyvale, CA 94085	US		9	1	COMPANY	0	1
+79334	HARDY, Larry, Wendell	122 River Road,Sturbridge, MA 01566	US		9	0		1	0
+79339	SHAIK, Madhu, Sudhan	23 Brookside Drive West,Harriman, NY 10926	US		9	0		1	0
+79423	NORTHROP GRUMMAN CORPORATION	1840 Century Park East, M/S 90/110/CC Los Angeles,California 90067-2199	US		9	1	COMPANY	0	1
+79534	Brennan, Chris James	c/o EvotecOAI 151 Milton Park Abingdon,Oxfordshire, OX14 4SD	GB	UKJ14	3	0		1	0
+79580	Tanaka, Kouichi	32-9-802, Akabane 1 chome, Kita-ku,Tokyo 115-0045	JP		9	0		1	0
+79728	VAINIKKA, Markku	Metsävainio 4,FI-90810 Kiviniemi	FI	FI1D6	3	0		1	0
+79802	REINHARDT, Carsten	Moltkestrasse 9,80803 München	DE	DE212	3	0		1	0
+79831	FIRTH, Andrew, Graeme	16 Farr-in-Wharfedale,West Yorkshire LS29 7HY	GB	UKE41	3	0		1	0
+79880	MINEMOTO, Hisashi c/o Matsushita Electric Ind. Co., Ltd.	7F Twin 21 OBP Panasonic Tower, 2-1-61 Shiromi,Chuo-ku, Osaka-shi, Osaka 540-6207	JP		9	0		1	0
+80168	MCILVAINE, Michael Scott	1300 Wescott Drive,Raleigh, North Carolina 27614	US		9	0		1	0
+80264	OHTANI, Atsushi, c/o Shimadzu Corporation	1, Nishinokyo-Kuwabaracho Nakagyo-ku,Kyoto-shi, Kyoto 604-8511	JP		9	0		1	0
+80316	Reflexite Corporation	Reflexite Technology Center, 120 Darling Drive,Avon, CT 06001	US		9	1	COMPANY	0	1
+80318	Lab Automate Technologies, Inc.	2165 Morris Avenue, 2nd floor, Suite 8A,Union NJ 07083	US		9	1	COMPANY	0	1
+80492	Tomiyoshi, Rikio	c/o Hitachi, Ltd. Intellectual Property Group 12th Floor, Marunouchi Center Bldg. 6-1, Marunouchi 1-chome,Chiyoda-ku Tokyo 100-8220	JP		9	0		1	0
+80559	Yang, Jae Woo	101-2403, Lotte Castle (Master 2) Apt. Jung-dong,Haeundae-gu, Busan	KR		9	0		1	0
+80562	Kao Germany GmbH	Pfungstädter Strasse 92-100,64297 Darmstadt	DE	DE711	3	1	COMPANY	0	1
+80590	Costa, Gina L.	12 Pershing Avenue,Beverly, MA 01915	US		9	0		1	0
+80591	Weiner, Michael P.	52 Leighton Trail,Guilford, CT 06437	US		9	0		1	0
+80614	Son, Young Jin	211-907 Hyundai Apt., 4-1 Ballim-dong,Changwon-si Gyeongsangnam-do	KR		9	0		1	0
+80637	Pandolfi, Pier Paolo	303 East 60th Street,New York, NY 10022	US		9	0		1	0
+80654	Fujii, Jun	c/o Honda R&D Co., Ltd., 4-1, Chuo 1-chome Wako-shi,Saitama 351-0193	JP		9	0		0	0
+80716	Raimondi, Stefano	Via Pasubio, 120,40133 Bologna	IT	ITH55	3	0		1	0
+80753	Medivet Pharma, S.L.	Finca El Macià, s/n,08510 Masies de Roda Barcelona	ES	ES511	3	1	COMPANY	0	1
+80876	Degawa, Hidetaka	Fuji Jukogyo K.K., 7-2, Nishishinjuku 1-chome,Shinjuku-ku Tokyo 160-8316	JP		9	0		0	0
+81189	Marriner, Brian	4 Lorelei Lane,Glenville, NY 12302	US		9	0		1	0
+81246	Lecroart, Guillaume	Chemin vert 33,7830, Silly	BE	BE325	3	0		1	0
+81294	Waller, Brian F.	1004 Deer Creek Circle,West Carrollton, OH 45449	US		9	0		1	0
+81295	Bryson, Bruce A.	1244 State Route 503,Arcanum, OH 45304-9422	US		9	0		1	0
+81427	TOYOSHIMA, Ryoichi	c/o Nippon Mektron Ltd., 12-15 Shiba-Daimon 1-chome, Minato-ku,Tokyo 105-8585	JP		9	0		0	0
+81609	YAMATO, Shinichi, Toto Ltd.	1-1, Nakajima 2-chome, Kokurakita-ku,Kitakyushu-shi, Fukuoka 802	JP		9	0		1	0
+81686	Furusato, Takashi, c/o Nissan Chem. Ind., Ltd.	Chem. Lab., 1470, Oaza Shiraoka, Shiraoka-machi,Minamisaitama-gun, Saitama-ken	JP		9	0		1	0
+81852	OBERLIN, Steven, M.	20 Peterson Lane,Chippewa Falls, WI 54729	US		9	0		1	0
+81964	NGK INSULATORS, LTD.	2-56 Suda-cho, Mizuho-ku,Nagoya-City, Aichi Prefecture 467-8530	JP		9	2	COMPANY	0	1
+81965	Jeol Ltd.	1-2, Musashino 3-chome,Akishima, Tokyo 196-8558	JP		9	2	COMPANY	0	1
+82209	MAIERS, Manfred	13117 NATCHEZ AVENUE,Savage, MN 55378	US		9	0		1	0
+82269	YISSUM RESEARCH DEVELOPMENT COMPANY OF THE HEBREW UNIVERSITY OF JERUSALEM	Hi-Tech Park, Givat Ram, P.O. Box 39135,91390 Jerusalem	IL		9	2	UNIVERSITY	0	1
+82305	Endo, Masami	c/o Semiconductor Energy Laboratory Co., Ltd. 398, Hase,Atsugi-shi Kanagawa-ken 243-0036	JP		9	0		1	0
+82524	Deuschle, Achim	Klingenstrasse 7,72649 Wolfschlugen	DE	DE113	3	0		1	0
+82772	Conrat, Juan-Ignacio	Maria-Nicklisch-Str. 45,81739, München	DE	DE212	3	0		1	0
+83358	Pedrajas Cid, Rafael	C/ Chile, 10 Edificio Madrid 92, Of. 219,,28290 Las Rozas (Madrid)	ES	ES	0	0		0	0
+83680	Indena S.p.A.	Viale Ortles, 12,20132 Milano	IT	ITC4C	3	1	COMPANY	0	1
+83683	Vignola, Nicola	Streumattweg, 9,4802 Strengelbach	CH	CH033	3	0		1	0
+83707	Méndez, Carmen	The University of Oviedo Dep. de Biología Funcional (I.U.O.P.A),E-33006 Oviedo	ES	ES120	3	0		1	0
+83788	Biosceptre International Limited	Suite 3.08 56 Delhi Road,North Ryde, NSW 2113	AU		9	1	COMPANY	0	1
+84043	Domo NV	Nederzwijnaarde 2,9052 Gent	BE	BE234	3	1	COMPANY	0	1
+84088	FLORIS, Ezio	c/o FIAT GROUP AUTOMOBILES S.p.A. Corso Giovanni Agnelli 200,10135, TORINO	IT	ITC11	3	0		1	0
+84184	Hansen, Allen	1138 W. Beacon Avenue,Anaheim, CA 92802	US		9	0		1	0
+84187	OOSIMA, Kazumi, c/o KAYABA INDUSTRY CO., LTD.	World Trade Center Bldg. 4-1, Hamamatsu-cho 2-chome Minato-ku,Tokyo 105-6190	JP		9	0		1	0
+84222	IBP Conex Limited	Whitehall Road Tipton,West Midlands DY4 7JU	GB	UKG37	3	1	COMPANY	0	1
+84307	Uwano, Yoshinori	c/o FUJITSU MEDIA DEVICES LIMITED 3-12, Shin-Yokohama 2-chome, Kohoku-ku,Yokohama-shi, Kanagawa 222-0033	JP		9	0		1	0
+84394	Besio, Stefano	Salita Degli Angeli 23/2,16100 Genova	IT	ITC33	3	0		1	0
+84407	Cheng, Chiu Hao c/o Zeroplus Technology Co., Ltd.	3F., No. 121, Jian Ba Rd. Chung Ho City,Taipei Hsien	TW		9	0		1	0
+84416	Kimura, Yukio	c/o Asahi Glass Company Limited 12-1 Yurakucho 1-chome Chiyoda-ku,Tokyo 100-8405	JP		9	0		1	0
+84518	Cho, Cheon-yong	Donga Apt. 111-1205, Pungdeokcheon 1-dong, Suji-g,Gyeonggi-do	KR		9	0		1	0
+84572	Aaher, Ron	8 Sasha Argov Street,69620 Tel-Aviv	IL		9	0		1	0
+84694	Choi, Pil-Mo	103, 1651-3, Bongcheon 11-dong Gwanak-ku,Seoul	KR		9	0		1	0
+84791	SHIMAMOTO, Hideki c/o Matsushita Electric Industrial Co. Ltd., IPROC	7F Twin 21 OBP Panasonic Tower 2-1-61 Shiromi,Chuo-ku, Osaka-shi, Osaka, 540-6207	JP		9	0		1	0
+85212	SATO, Kosuke	c/o AISIN SEIKI KABUSHIKI KAISHA, 1, Asahi-machi 2-chome,Kariya-shi, Aichi 448-8650	JP		9	0		0	0
+85445	Delmas, Gilles	5 rue de la Friche,95520 Osny	FR	FR108	3	0		1	0
+85496	Aramira Corporation	NASA Research Park, Mail Stop 566-103,Moffett Field, CA 94035	US		9	1	COMPANY	0	1
+85535	Oldenkott, Johannes	Tannweg 42,75382 Althengstett	DE	DE12A	3	0		1	0
+85545	Ropiak, Irene K.	15122 East Run Drive,08648 Lawrencevile, NJ	US		9	0		1	0
+85708	Imle, Johannes	Lindenbergstrasse 40,76829 Landau-Nussdorf	DE	DEB33	3	0		1	0
+86183	Klamm, Arnold	Saarstrasse 186a,76870 Kandel	DE	DEB3E	3	0		1	0
+86230	Erwin Kayser-Threde GmbH	Wolfratshauser Strasse 48,81379 München	DE	DE212	3	1	COMPANY	0	1
+86263	Kobl, Bernhard	Ludwig-Thoma-Strasse 27,93051 Regensburg	DE	DE232	3	0		1	0
+86386	FÜHR, Hans-Bernhard	Am Ziegeleiteich 3,D-31655 Stadthagen	DE	DE928	3	0		1	0
+86403	Harumoto, Daisuke	11-7-206, Izumimachi 3-chome,Sakado-shi, Saitama 350-0231	JP		9	0		1	0
+86670	Gavotti, Nicolo' Luigi	Via Garibaldi, 76,44100 Ferrara	IT	ITH56	3	0		1	0
+86684	AMSHEY, Joseph, W.	2350 Jennifer Lane,Encinitas, CA 92024	US		9	0		1	0
+86754	Miura, Yuichiro	c/o DENSO CORPORATION, 1-1 Showa-cho,Kariya-city, Aichi-pref., 448-0029	JP		9	0		1	0
+86770	Aleshin, Stanislav V.	117526 Moscow, Vernadsky Prospect 93-1-112,Moscow 117571	RU		9	0		0	0
+86803	Rodriguez, John A	502 Dublin Drive,Richardson, TX 75080	US		9	0		1	0
+86882	SHIONO, Teruhiro	2-50, Nagayoshi-Rokutan 4-chome, Hirano-ku,Osaka-shi, Osaka 547-0012	JP		9	0		1	0
+87281	FINNERTY, Caine	25-D Durham Drive,Buffalo, NY 14228	US		9	0		1	0
+87329	Woodward HRT, Inc.	25200 W. Rye Canyon Road,Santa Clarita, CA 91355	US		9	1	COMPANY	0	1
+87365	Manser, Udo	Schubertstrasse 10,68723 Schwetzingen	DE	DE128	3	0		1	0
+87524	BELL, Michael, Gregory	9170 Powderhorn Lane,Indianapolis, IN 46256	US		9	0		1	0
+87565	SATRAGNO, Luigi	Via Bertora, 8/10a,I-16122 Genova	IT	ITC33	3	0		1	0
+87686	STEWART, John, Sidney	9145 Doe Springs Drive,Indianapolis, IN 46278	US		9	0		1	0
+87864	Hong, Seung-bum 507-1305 Hayan Maeul 5- danji	Jugong Apt., 110 Gumi-dong, Bundang-gu,Seongnam-si Gyeonggi-do	KR		9	0		1	0
+88062	TIRICHINE, Leila	104, rue Marius Aufan,92300-Levallois-Perret	FR	FR105	3	0		1	0
+88145	RANGASAMY, Tirumalai	3501 St. Paul St., 1118,Baltimore, MD 21218	US		9	0		1	0
+88218	SONG, Soo-Chang	105-1604 Booyoung Apt. 2-1 Donong-dong, Namyangju-si,Gyeonggi-do 472-711	KR		9	0		1	0
+88361	Receptor Biologix, Inc.	3350 West Bayshore Road, Suite 150,Palo Alto, California 94303	US		9	1	COMPANY	0	1
+88400	BURDETTE, Jason, A.	3409 NORTHWOOD STREET,Houston, TX 77009	US		9	0		1	0
+88414	KUMAR, Tanmay	3377 Vermont Place,Pleasanton, CA 94588	US		9	0		1	0
+88491	BUSKER, Matthias	Groenewoudseweg 1,5621 BA Eindhoven	US		9	0		1	0
+88535	TOLLEFSON, Gary	9052 Diamond Pointe Drive,Indianapolis, Indiana 46236	US		9	0		1	0
+88716	Ramirez, Gerardo	3505 Sunny Slope Road,Bridgewater, NJ 08807	US		9	0		1	0
+88724	Hirano, Koichi	9-15-612, Makinosaka 2-chome,Hirakata-shi Osaka 573-1146	JP		9	0		1	0
+88909	Butler, Jackie	37 Auburn Heights Athlone,County Westmeath	IE	IE012	3	0		1	0
+88957	MASHIACH, Adi	5 Yosseff Eliyahu St.,64074 Tel Aviv	IL		9	0		1	0
+89087	MASHIKO, Tatsuo, c/o Isuzu Motors Limited	Fujisawa Factory 8, Tsuchidana,Fujisawa-shi Kanagawa 252-8501	JP		9	0		1	0
+89153	LEF Technology Inc.	3-39-17 Denenchofu, Ota-ku,Tokyo 145-0071	JP		9	1	COMPANY	0	1
+89180	SURUGA, Hirokazu	c/o BIG DAISHOWA SEIKI CO., LTD. 3-39, 3-chome, Nishi-Ishikiri-cho,Higashi-Osaka-shi, Osaka 579-8013	JP		9	0		1	0
+89265	WERA, Stefaan	Hoegaardsesteenweg 78,3360 Bierbeek	BE	BE242	3	0		1	0
+89432	PETERSON, Robert W.	3M Center Post Office Box 33427,Saint Paul, Minnesota 55133-3427	US		9	0		1	0
+89520	BELKOWSKI, Stanley	706 Sandra Lane,Norristown, PA 19403	US		9	0		1	0
+89562	NINO, Yuichic/o NEC Corporation	7-1, Shiba 5-chome, Minato-ku,Tokyo;1080014	JP		9	0		1	0
+89688	FRANCIS, Robert, T.	5788 Tamarack Drive,Pace, FL 32571	US		9	0		1	0
+89745	Umesh, Anil	c/o Int. Prop. Dept. NTT DoCoMo, Inc. Sanno Park Tower 11-1, Nagatacho 2-chome,Chiyoda-ku Tokyo	JP		9	0		1	0
+89882	Ishimaru, Yoshiaki	c/o Riso Kagaku Corporation, R&D Center 1339-2, Wakaguri Nishikanda, Amimachi,Inashiki-gun Ibaraki-ken	JP		9	0		0	0
+90091	Fujishige, Yusuke	c/o Sony Corporation, 1-7-1 Konan Minato-ku,Tokyo, 108-0075	JP		9	0		1	0
+90111	Khan, Farooq	c/o Samsung Electronics Co. Ltd 416, Maetan-dong Yeongtong-gu,Suwon-si Gyeonggi-do 443-742	KR		9	0		1	0
+90295	Diaz, Jaqueline	10436 Napoli Place NW,Albuquerque, New Mexico 87114	US		9	0		1	0
+90327	Duke University	M454 Davison Building, DUMC Box 3664,Durham, NC 27710	US		9	2	UNIVERSITY	0	1
+90591	Bader, C. David	3502 Grantswood Court,Louisville KY 40213	US		9	0		1	0
+90805	Mueller, Joerg Andreas	Nassaustrasse 1,65812, Bad Soden	DE	DE71A	3	0		1	0
+90819	Huang, Zi Liang	14, Jiu Xian Qiao Road Chaoyang District,Beijing	CN		9	0		1	0
+90909	Dean, Douglas E	223 Silver Creek Road,Greer, SC 29650	US		9	0		1	0
+91060	Cheng, Chia-Hua	8F, No.43, Fuxing Rd., Taipei County,231, Xindian City	TW		9	0		1	0
+91079	Van Den Akker, Lucas	Protension Composites VOF Alexine Tinnepad 93,2553 TS Den Haag	NL	NL332	3	0		1	0
+91112	Mulders, Johannes	P.O. Box 1745,5602 BS Eindhoven	NL	NL414	3	0		1	0
+91114	Botman, Aurélien	P.O. Box 1745,5602 BS Eindhoven	NL	NL414	3	0		1	0
+91218	Musso, Franco	c/o Eltek S.p.A Strada Valenza, 5A,15033 Casale Monferrato (Alessandria)	IT	ITC18	3	0		1	0
+91236	Takemura, Shinichi	c/o Nissan Motor Co., Ltd, Intellectual Property Department, 1-1, Morinosatoaoyama, Atsugi-shi,Kanagawa 243-0123	JP		9	0		0	0
+91596	Suno, Masahiro	2-17-403, 1 Ryugadai 1-chome Suma-ku,Kobe Hyogo 654	JP		9	0		1	0
+91655	Bradbeer, Peter Frederick	21 Salt Hill Mansions,Slough, Berkshire, SL1 3XN	GB	UKJ11	3	0		1	0
+91669	CABLETRON SYSTEMS, INC.	35 Industrial Way,Rochester, NH 03866	US		9	1	COMPANY	0	1
+91687	Sakaigawa, Akira	2-23-6 Kitaurawa,Urawa-shi, Saitama-ken	JP		9	0		1	0
+91952	SCHWARTZ, Robert	191 Lindon Avenue,Branford, CT 06405	US		9	0		1	0
+91963	Rambaldi, Roberto	Via Gabella 4,40129 Bologna	IT	ITH55	3	0		1	0
+91972	KIZAKI, Noriyuki	2-63, Okihama-cho,Takasago-cho,Takasago-shi,Hyogo 676-0026	JP		9	0		0	0
+92075	Bonnin, Marc	40 allée des Glaieuls,44600 Saint-Nazaire	FR	FR511	3	0		1	0
+92372	L'AIR LIQUIDE, SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE	75, Quai d'Orsay,F-75321 Paris Cédex 07	FR	FR101	3	2	COMPANY	0	1
+92442	LEONHARD MOLL BETONWERKE GmbH & Co KG	Lindwurmstrasse 129,80337 Müchen	DE	DE212	3	1	COMPANY	0	1
+92448	Hülsemann, Ulrich	Am Eschenbrunnen 12,75242 Neuhausen	DE	DE12B	3	0		1	0
+92748	Ziemann-Nöthe, Annette, Dr.	Obere Fuhr 20,45136 Essen	DE	DEA13	3	0		1	0
+92879	Pöhner, Jens	Beethovenstr. 22,D-95346 Stadtsteinach	DE	DE24B	3	0		1	0
+92900	Kiefl, Michael	Kolpingstrasse 6,94522 Wallersdorf	DE	DE22C	3	0		1	0
+92954	Jung, Peter	Siegstrasse 27,47051 Duisburg	DE	DEA12	3	0		1	0
+92996	Udo Becker	Stiftstrasse 42,58706 Menden	DE	DEA58	3	0		1	0
+93002	Herrmann, Johann	Oberhaselbach 206,84066 Mallersdorf-Pfaffenberg	DE	DE22B	3	0		1	0
+93019	Barragan Perez, Luis Angel	Avd. Pablo Ruiz Picaso 47 6[deg]E,50018, Zaragoza	ES	ES243	3	0		1	0
+93166	Spannverbund Gesellschaft für Verbundträger GmbH	Am Wörtzgarten 10,D-65510 Idstein	DE	DE71D	3	1	COMPANY	0	1
+93248	JEFFREY, Scott, R.	12712 Victoria Woods Drive,Raleigh, NC 27613	US		9	0		1	0
+93284	FJELDSTAD, Irina, Evgenievna	Raveien 291,N-3220 Sandefjord	NO	NO033	3	0		1	0
+93312	Aventis Pharma Limited	Aventis House, 50 Kings Hill Avenue, Kings Hill West Malling,,Kent ME19 4AH	GB	UK	0	2	COMPANY	0	0
+93348	Yagi, Takayuki	Canon Kabushiki Kaisha, 30-2, Shimomaruko 3-chome,Ohta-ku, Tokyo	JP		9	0		1	0
+93530	RHODES, Kate	13634 Del Poniente Road,Poway, CA 92064	US		9	0		1	0
+93651	DORN, Ingmar	Nordstrasse 49,50733 Köln	DE	DEA23	3	0		1	0
+93953	PIETSCH, Hanns	Mittelweg 25,20148 Hamburg	DE	DE600	3	0		1	0
+94023	FUKUZAKI, Y, Kobe Works K.K.K. Seiko Sho	2 Nadahammahigashi-cho, Nada-ku,Kobe-shi, Hyogo 657-0863	JP		9	0		1	0
+94074	Agostini, Giorgio	7 rue de Luxembourg,L-7733, Colmar-Berg	LU	LU000	3	0		1	0
+94137	IBIDEN CO., LTD.	1, Kanda-cho 2-chome,Ogaki-shi, Gifu-ken 503-8604	JP		9	2	COMPANY	0	1
+94230	HAMMOND, Marlys	110 Gleneagles,Blue Bell, PA 19422	US		9	0		1	0
+94332	STOLPMAN, Victor	2711 West Royal Lane, Apt 702,Irving, TX 76063	US		9	0		1	0
+94372	RATNAM, Rakesh c/o Pharmed Medicare Private Ltd.	Pharmed House, 141 Walchand Hirachand Marg,Mumbai, Maharashtra, 400 001	IN		9	0		1	0
+94505	Van Stralen, Mattheus Jacobus Nicolaas	Munnekeburenstraat 58,5045 DV Tilburg	NL	NL412	3	0		1	0
+94562	Ryu, Do Hyung Legal & IP Team	Samsung SDI Co., LTD., 428-5, Gongse-ri, Kiheung-eup,Gyeonggi-do	KR		9	0		0	0
+94720	MOTOHARA, Masahiro, c/o Sagamihara Eng. Division	JAPAN CASH MACHINE CO., LTD., 1-9-15, Kanumadai,Sagamihara-shi, Kanagawa 229-0033	JP		9	0		1	0
+94733	CHEN, Songming	1124 Blythe Ellen Court, N.W.,Grands Rapids, MI 49534	US		9	0		1	0
+95074	BRADSHAW, Kenneth	3160 West 82nd Street,Chaska, MN 55318	US		9	0		1	0
+95082	OTTO, Geoffrey	790 KNOLL DRIVE,San Carlos, CA 94070	US		9	0		1	0
+95112	GUPTA, Pramod	6986 Bennington Drive,Gurnee, IL 60031	US		9	0		1	0
+95116	ZINDELL, Renee	Boehringer Ingelheim Pharmaceuticals, Inc. 900 Ridgebury Road P.O. Box 368,Ridgefield, CT 06877-0368	US		9	0		1	0
+95198	WANG, Xiaohui	2130 Woodward Street,Austin, TX 78744	US		9	0		1	0
+95251	BAKER, James R.	3997 Holden Drive,Ann Arbor, MI 48104	US		9	0		1	0
+95297	Toshiba TEC Kabushiki Kaisha	Oval Court Ohsaki Mark East 2-17-2, Higashigotanda Shinagawa-ku,Tokyo 141-8664	JP		9	2	COMPANY	0	1
+95522	Franz, Bernd	Am Markstein 6,74336 Brackenheim	DE	DE118	3	0		1	0
+95573	KIM, Seung Won	20, Yoido-dong Youngdungpo-gu,Seoul 150-010	KR		9	0		1	0
+95683	BREEBAART, Dirk J.	c/o Prof. Holstlaan 6,NL-5656 AA Eindhoven	NL	NL414	3	0		1	0
+95743	HIRATA, Yasuhiko c/o Paper & Printing Machinery Division	MITSUBISHI HEAVY INDUSTRIES, LTD. 1-1, Itozaki Minami 1-chome,Mihara, Hiroshima-ken 729-0393	JP		9	0		1	0
+95767	TAMURA, Kohji	c/o Kure Research Laboratory of Babcock-Hitachi KK 5-3, Takara-machi,Kure-shi, Hiroshima 7378508	JP		9	0		1	0
+95997	ABBOTT LABORATORIES	100 Abbott Park Road,Abbott Park, IL 60064	US		9	2	COMPANY	0	1
+96053	MARTINEZ-BOTELLA, Gabriel	5291 Washington Street,West Roxbury, MA 02132	US		9	0		1	0
+96058	WANG, Tiansheng	2 Dunbar Way,Concord, MA 01742	US		9	0		1	0
+96147	YEATON, Eric	59 Old Turnpike Road,Epsom, NH 03234	US		9	0		1	0
+96473	Li-Chih, Tseng	4F, No. 150, Li-Te Rd.,Peitou Taipei City	TW		9	0		1	0
+96837	Kumagai, Masatoshi c/o Hitachi Ltd.	IP Group 6-1 Marunouchi 1-chome Chiyoda-ku,Tokyo 100-8220	JP		9	0		1	0
+96871	Roodenburg, Joop	7, St. Eustatiusstraat,2612 HA Delft	NL	NL333	3	0		1	0
+97026	Ohki, Chikara	c/o NTN Corp. 3066, Aza Oyumida Oaza Higashikata,Kuwana-shi, Mie Mie	JP		9	0		1	0
+97079	Pressi, Giovanna	Via Capitello, 54,37032, Monteforte d'Alpone, Verona	IT	ITH31	3	0		1	0
+97355	LS Industrial Systems Co., Ltd	1026-6 Hogye-dong Dongan-gu Anyang-si,Gyeonggi-do 431-080	KR		9	1	COMPANY	0	1
+97427	Shafaat, Taji	13811 56th Drive Southeast,Everett, WA 98208	US		9	0		1	0
+97450	Oka, Yoshihiro c/o Matsushita Elect. Ind. Co., Ltd	Intel. Prop. Rights Op. Cp. IP Dvlp. Center 7F Twin 21 OBP Panasonic Tower 2-1-61 Shiromi,Chuo-ku Osaka 540-6207	JP		9	0		1	0
+97721	Suzuki, Norihito	c/o Konica Corporation, 1, Sakuramachi,Hino-shi, Tokyo	JP		9	0		1	0
+97930	STOLZE, Markus	Zopfstrasse 15,CH-8134 Adliswil	CH	CH040	3	0		1	0
+98088	MERRIMAN, Edmund, A.	3751 Reed's Landing Circle,Midlothian, VA 13113-1370	US		9	0		1	0
+98440	FRUHNERT, Stefan	Canterstrasse 57,96237 Ebersdorf	DE	DE247	3	0		1	0
+98740	Fasching, Gerhard	Brechmühlweg 7,5400 Hallein	AT	AT323	3	0		1	0
+98749	Bauer, Monika	Wendenstr. 40,15754, Senzig	DE	DE406	3	0		1	0
+98823	Sonnen, Rudolf	Dionysiusstrasse 159,D-4150 Krefeld 1	DE	DEA14	3	0		1	0
+98874	Brown, William Robert	892 Buttercup Rd.,Carlsbad California 92008	US		9	0		1	0
+99006	Byk Gulden Lomberg Chemische Fabrik GmbH	Postfach 10 03 10,D-78403 Konstanz	DE	DE138	3	1	COMPANY	0	1
+99169	BOARD OF REGENTS THE UNIVERSITY OF TEXAS SYSTEM	201 West 7th Street,Austin, Texas 78701	US		9	2	UNIVERSITY	0	1
